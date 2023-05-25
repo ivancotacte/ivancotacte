@@ -17,7 +17,7 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?ivancotacte-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?https://github.com/ivancotacte-username&style=flat-square&color=blue" alt=""/>
 
 ### Hi there 👋
 * 👂 My name is ...
