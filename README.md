@@ -25,13 +25,9 @@
 ---
 
 <p align="center"> 
-  
-![](https://github-readme-stats.vercel.app/api?username=ivancotacte&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ivancotacte&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivancotacte&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=ivancotacte&?count_private=true&layout=compact&hide_border=true&show_icons=true&theme=tokyonight" />
+ <br/><br/>
+<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivancotacte&layout=compact&hide_border=true&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
