@@ -7,7 +7,7 @@
 
 👉🏻 **Follow Me**
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(cotactearmenion@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cotactearmenion@gmail.com)
 
 🎵 **Spotify**
 
