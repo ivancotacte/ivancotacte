@@ -13,7 +13,5 @@
 
 ![Spotify API](https://github-readme-stats.vercel.app/api?username=ivancotacte&?count_private=true&layout=compact&hide_border=true&show_icons=true&theme=tokyonight)
 ![Spotify API](https://github-readme-stats.vercel.app/api/top-langs/?username=ivancotacte&layout=compact&hide_border=true&show_icons=true&theme=tokyonight)
-<img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=ivancotacte&?count_private=true&layout=compact&hide_border=true&show_icons=true&theme=tokyonight" />
-<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivancotacte&layout=compact&hide_border=true&show_icons=true&theme=tokyonight" />
 
 ---
