@@ -1,0 +1,14 @@
+{
+  "name": "ivancotacte",
+  "version": "1.0.0",
+  "description": "Github Profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Ivan Armenion Cotacte",
+    "email": "cotactearmenion@gmail.com"
+  },
+  "license": "ISC"
+}
