@@ -7,7 +7,7 @@
 
 🎵 **Spotify**
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=hrg93drrx0db4f1vrpmwpq465&count=10&unique=true" />
+![Spotify API](https://spotify-recently-played-readme.vercel.app/api?user=hrg93drrx0db4f1vrpmwpq465&count=10&unique=true)
 
 🔥 **Stats**
 
