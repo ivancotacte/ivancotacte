@@ -7,7 +7,7 @@
 	],
 	"email": "cotactearmenion@gmail.com",
 	"birthYear": 0000,
-    "age": 21,
+        "age": 21,
 	"gender": "male",
 	"isStudent": true,
 	"isPro": false,
