@@ -5,6 +5,10 @@
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+👉🏻 **Follow Me**
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(cotactearmenion@gmail.com)
+
 🎵 **Spotify**
 
 ![Spotify API](https://spotify-recently-played-readme.vercel.app/api?user=hrg93drrx0db4f1vrpmwpq465&count=10&unique=true)
