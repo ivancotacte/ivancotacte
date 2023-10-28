@@ -1,3 +1,27 @@
+```JSON
+{
+	"name": "Ivan Cotacte",
+	"screenNames": [
+		"Ban",
+		"Ivan"
+	],
+	"email": "cotactearmenion@gmail.com",
+	"birthYear": 0000,
+    "age": 21,
+	"gender": "male",
+	"isStudent": true,
+	"isPro": false,
+	"location": "Manila, Philippines",
+	"languages": [
+		"HTML",
+		"CSS",
+		"JavaScript/NodeJS",
+		"PHP",
+		"SQL"
+	]
+}
+```
+
 💻 **Operating System**
 
 ![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows%2010&logoColor=white)
