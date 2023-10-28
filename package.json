@@ -2,7 +2,7 @@
   "name": "ivancotacte",
   "version": "1.0.0",
   "description": "Github Profile",
-  "main": "index.js",
+  "main": "ivancotacte.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
