@@ -34,10 +34,7 @@
 </div>
 
 
-<h3 align="center"> Top Artists of Playlist </h3>
-
 <div align="center">
-<div style="text-align:center"><img src="https://card.elwan.ch/?username=hrg93drrx0db4f1vrpmwpq465" /></div>
 
 <table>
   <tr>
