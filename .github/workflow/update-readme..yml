@@ -1,0 +1,30 @@
+name: Build README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 15 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v2
+      - name: Use Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: "12.x"
+      - name: Install node dependencies
+        run: npm install
+      - name: Check for RSS feed updates
+        run: npm run scrape
+      - name: Commit and push if changed
+        run: |-
+          git diff
+          git config --global user.email "cotactearmenion@gmail.com"
+          git config --global user.name "ivancotacte"
+          git add -A
+          git commit -m "Updated content" || exit 0
+          git push

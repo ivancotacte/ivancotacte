@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "Github Profile",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": {
     "name": "Ivan Cotacte",
@@ -16,5 +18,8 @@
     "url": "git+https://github.com/ivancotacte/ivancotacte.git"
   },
   "license": "MIT",
-  "keywords": []
+  "keywords": [],
+  "devDependencies": {
+    "got": "^14.4.1"
+  }
 }
