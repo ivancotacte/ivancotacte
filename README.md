@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Go confidently in the direction of your dreams. Live the life you've imagined.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You have as much laughter as you have faith.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
