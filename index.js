@@ -3,8 +3,12 @@ const { markdownMagic } = require('markdown-magic');
 const moment = require('moment-timezone');
 const encodeurl = require('encodeurl');
 const axios = require('axios');
-const fs = require('fs');
-const request = require('request');
+
+String.prototype.replaceAll = function(strReplace, strWith) {
+    var esc = strReplace.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    var reg = new RegExp(esc, 'ig');
+    return this.replace(reg, strWith);
+};
 
 const config = {
     matchWord: 'IVANCOTACTE',
@@ -14,35 +18,24 @@ const config = {
             const encodedDate = encodeurl(formattedDate);
             return `\n<img align="right" src="https://img.shields.io/badge/last%20update-${encodedDate}-blue" />\n`;
         },
+        async QUOTES() {
+            const qoute = await qt();
+            return `\n<h3>${qoute.q}</h3>\n`;
+        }
     }
 };
 
-async function getShotiAPi() {
-    const apiUrl = "https://shoti-srv2.onlitegix.com/api/v1/get";
-
-    try {
-        const response = await axios.post(apiUrl, {
-            apikey: "$shoti-1hfq7q51ea5igcrf4t8"
+async function qt() {
+    let qoute = await axios
+        .get("https://zenquotes.io/api/random")
+        .then((response) => {
+            return response.data[0];
+        })
+        .catch((err) => {
+            return "err ";
         });
-
-        const videoUrl = response.data.data.url;
-        await new Promise((resolve, reject) => {
-            request(videoUrl)
-                .pipe(fs.createWriteStream('cache/video.mp4'))
-                .on('finish', () => {
-                    resolve();
-                })
-                .on('error', (error) => {
-                    reject(error);
-                });
-        }); 
-    } catch (error) {
-        let errorMessage = "Error: " + error;
-        return errorMessage;
-    }
+    return qoute;
 }
-
-getShotiAPi();
 
 
 const markdownPath = path.join(__dirname, 'README.md');
