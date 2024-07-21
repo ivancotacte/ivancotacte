@@ -25,7 +25,7 @@ jobs:
           REPO: ${{ github.repository }}
         run: |
           npm i
-          npm run update_readme
+          npm start
 
       - if: (success())
         name: Commit changes
