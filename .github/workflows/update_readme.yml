@@ -18,7 +18,7 @@ jobs:
 
       - uses: oleksiyrudenko/gha-git-credentials@v2-latest
         with:
-          token: '${{ secrets.GITHUB_TOKEN }}'
+          token: '${{ secrets.TOKEN }}'
 
       - name: Modifies readme file
         env:
