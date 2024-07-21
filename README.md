@@ -33,44 +33,4 @@
             </tr>
         </table>
     </div>
-
-    <img src="https://github-readme-stats.vercel.app/api?username=KenanGain&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
-
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KenanGain&theme=highcontrast&hide_border=true">
-
-    <h3 align="center">Top Repositories</h3>
-    <div align="center">
-        <table>
-            <tr>
-                <td>
-                    <a href="https://github.com/KenanGain/fast-gemini-nano">
-                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
-                    </a>
-                </td>
-                <td>
-                    <a href="https://github.com/KenanGain/weather-app-3d">
-                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=weather-app-3d&theme=highcontrast&hide_border=true&border_radius=15" />
-                    </a>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <a href="https://github.com/KenanGain/moviedjangoai">
-                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
-                    </a>
-                </td>
-                <td>
-                    <a href="https://github.com/KenanGain/speech-to-text">
-                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
-                    </a>
-                </td>
-            </tr>
-        </table>
-    </div>
-    <br>
-    <details>
-        <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
-        <br>
-        <img src="https://github-profile-trophy.vercel.app/?username=KenanGain&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
-    </details>
 </div>
