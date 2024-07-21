@@ -1,0 +1,42 @@
+name: Update README.md
+
+on:
+    schedule:
+        - cron: '0 0 * * *'
+    push:
+        branches:
+        - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+            node-version: '14'
+
+      - name: Configure git with GitHub token
+        uses: oleksiyrudenko/gha-git-credentials@v2-latest
+        with:
+            token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Modifies readme file
+        run: |
+            npm install
+            npm start
+
+      - name: Commit changes
+        if: success()
+        run: |
+            git commit -m "Auto updated readme file" -a
+
+      - name: Pushes commit with update to repo
+        if: success()
+        uses: ad-m/github-push-action@master
+        with:
+            force: true
+            branch: ${{ github.ref }}

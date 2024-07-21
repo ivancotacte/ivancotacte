@@ -1,4 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ivancotacte.ivancotacte" />
+<!-- IVANCOTACTE:START (LAST_UPDATE) -->![last_update](https://img.shields.io/badge/last%20update-21--07--2024%2008:49%20PM%20(GMT+8)-blue)
+<!-- IVANCOTACTE:END -->
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Hi+There;I%27m+Ivan+Cotacte" />
