@@ -28,9 +28,6 @@
                 <td>
                     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ivancotacte&theme=highcontrast&hide_border=true" alt="Most Commit Language">
                 </td>
-                <td>
-                    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KenanGain&theme=highcontrast&hide_border=true">
-                </td>
             </tr>
         </table>
     </div>
