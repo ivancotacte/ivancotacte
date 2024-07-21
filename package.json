@@ -2,13 +2,19 @@
   "name": "ivancotacte",
   "version": "1.0.0",
   "description": "Github Profile",
-  "main": "ivancotacte.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": {
-    "name": "Ivan Armenion Cotacte",
-    "email": "cotactearmenion@gmail.com"
+    "name": "Ivan Cotacte",
+    "email": "cotactearmenion@gmail.com",
+    "url": "ivancotacte.xyz"
   },
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivancotacte/ivancotacte.git"
+  },
+  "license": "MIT",
+  "keywords": []
 }
