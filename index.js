@@ -37,13 +37,6 @@ module.exports = {
       async TWITTER(content, options) {
         return `![twitter](https://img.shields.io/twitter/follow/${options.username}?style=social)`;
       },
-      async QUOTES(content, options) {
-        const quotes = require('./quotes.json');
-        const random = Math.floor(Math.random() * quotes.length);
-        const quote = quotes[random];
-        const author = `- ${quote.author}`;
-        return `<h3>"${quote.quote}"</h3>\n${'&nbsp'.repeat(Math.round(quote.quote.length/2))}<small><i>${author}</i></small>`;
-      },
       /* Match <!-- PUNTORIGEN:START (THANKS_TO) --> */
       async THANKS_TO(content, options) {
         let stars = await get_users();
