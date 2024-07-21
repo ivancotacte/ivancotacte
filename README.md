@@ -36,3 +36,20 @@
 
 <h2 align="center"> Listen With Me </h2>
 <br/>
+<h3 align="center"> Top Artists of Playlist </h3>
+
+<div align="center">
+<div style="text-align:center"><img src="https://card.elwan.ch/?username=31hah4yq6es2tjearprp6ir2bmhi" /></div>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hah4yq6es2tjearprp6ir2bmhi&count=5">
+    </td>
+    <td>
+      <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31hah4yq6es2tjearprp6ir2bmhi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
+    </td>
+  </tr>
+</table>
+
+</div>
