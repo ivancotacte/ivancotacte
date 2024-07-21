@@ -4,11 +4,10 @@ on:
     schedule:
         - cron: '*/5 * * * *'
     push:
-        branches:
-        - main
 
 jobs:
-  build:
+  execute:
+    name: Update README.md
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
