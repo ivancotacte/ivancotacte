@@ -33,7 +33,8 @@
     </div>
 </div>
 
-### Top Repositories
+<h2 align="center">Top Repositories</h2>
+<br/>
 <div align="center">
   <table>
     <tr>
