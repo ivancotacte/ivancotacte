@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Be strong. Be confident. Be the star of your own life.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The more often a stupidity is repeated, the more it gets the appearance of wisdom.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
