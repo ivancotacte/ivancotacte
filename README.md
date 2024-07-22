@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>In order for you to be the BEST you can be for others, first you must be BEST for yourself.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Seek not the good in external things;seek it in yourselves.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
