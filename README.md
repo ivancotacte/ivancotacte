@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>He who cheats the earth will be cheated by the earth.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The greatest deception men suffer is from their own opinions.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
