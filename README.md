@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Your next step is simple. You are the first domino.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>There are no second chances in life, except to feel remorse.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
