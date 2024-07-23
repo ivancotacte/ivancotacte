@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>There is only one thing in the world worse than being talked about, and that is not being talked about. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
