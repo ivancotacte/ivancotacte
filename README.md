@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Forget safety. Live where you fear to live.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Luck is a matter of preparation meeting opportunity.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
