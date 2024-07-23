@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The past has no power over the present moment. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Dreams provide nourishment for the soul, just as a meal does for the body.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
