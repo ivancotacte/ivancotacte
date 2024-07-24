@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Surround yourself only with people who are going to take you higher.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>There's more to life than being a passenger.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
