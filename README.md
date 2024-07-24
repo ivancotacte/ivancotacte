@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Embody what you teach, and teach only what you have embodied.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
