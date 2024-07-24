@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Be not glad at the misfortune of another, though he may be your enemy. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Success is the sum of small efforts, repeated day in and day out.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
