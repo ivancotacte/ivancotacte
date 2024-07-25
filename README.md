@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Opportunities don't often come along. So, when they do, you have to grab them.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Better to light a candle than to curse the darkness. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
