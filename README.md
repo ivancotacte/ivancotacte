@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
