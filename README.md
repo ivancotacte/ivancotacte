@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Whatever you think the world is withholding from you, you are withholding from the world.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
