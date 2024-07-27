@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You don't need to be better than anyone else, you just need to be better than you used to be.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
