@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Until you make the unconscious conscious, it will direct your life and you will call it fate.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Everyone must choose one of two pains: The pain of discipline or the pain of regret.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
