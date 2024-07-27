@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>I'd rather welcome change than cling to the past.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
