@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>In all chaos there is a cosmos, in all disorder a secret order.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>New opinions are always suspected, and usually opposed, without any other reason but because they are not common.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
