@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>No one returns from a long journey the same person they were before.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
