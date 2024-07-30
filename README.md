@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>There are two things a person should never be angry at, what they can help, and what they cannot.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The world doesn't always give you want, but it often gives you what you need.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
