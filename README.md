@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A tiger doesn't lose sleep over the opinion of sheep.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
