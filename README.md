@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The most important single ingredient in the formula of success is knowing how to get along with people.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Death is not sad; the sad thing is that most people don't really live at all.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
