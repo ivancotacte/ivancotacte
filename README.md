@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>At the end of the day, let there be no excuses, no explanations, no regrets.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Life is about choice. You can choose to be a victim or anything else you like to be.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
