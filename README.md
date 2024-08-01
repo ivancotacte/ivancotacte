@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Blessed is he who expects nothing, for he shall never be disappointed.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Before preparing to improve the world, first look around your own home three times. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
