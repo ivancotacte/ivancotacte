@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>What people need and what they want may be very different.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Wealth is the product of man's capacity to think.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
