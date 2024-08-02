@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The sun is new each day.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The secret of life is to fall seven times and to get up eight times.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
