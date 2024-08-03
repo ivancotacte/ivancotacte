@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Human beings can alter their lives by altering their attitudes of mind.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
