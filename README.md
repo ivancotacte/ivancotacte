@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The positive thinker sees the invisible, feels the intangible, and achieves the impossible.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Life is really simple, but men insist on making it complicated. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
