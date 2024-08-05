@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>To do great work one must be very idle as well as very industrious.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
