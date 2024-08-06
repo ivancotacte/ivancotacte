@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Distant water does not put out a nearby fire.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If it is not right, do not do it, if it is not true, do not say it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
