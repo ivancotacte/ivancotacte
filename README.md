@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you're not failing every now and again, it's a sign you're not doing anything very innovative.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>I succeeded by saying what everyone else is thinking.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
