@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Truth is like the sun. You can shut it out for a time, but it ain't going away.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
