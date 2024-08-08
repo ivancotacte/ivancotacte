@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>When you are totally at peace with yourself, nothing can shake you.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Life must be a constant education; one must learn everything, from speaking to dying.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
