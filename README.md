@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Be approximately right rather than exactly wrong.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Superstars think like superstars long before the fans or the press anoint them.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
