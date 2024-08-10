@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Genius is the ability to act rightly without precedent - the power to do the right thing the first time.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Do not believe that you will reach your destination without leaving the shore. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
