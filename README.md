@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Have the fearless attitude of a hero and the loving heart of a child.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
