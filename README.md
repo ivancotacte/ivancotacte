@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you care about someone enough, you'll always be there for them no matter what.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you want others to be happy, practice compassion. If you want to be happy, practice compassion.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
