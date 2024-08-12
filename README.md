@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Death walks faster than the wind and never returns what he has taken.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The idea of ourselves is our escape from the fact of what we really are.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
