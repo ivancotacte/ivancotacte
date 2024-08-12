@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
