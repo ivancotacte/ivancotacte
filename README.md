@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>People tend to complicate their own lives, as if living weren't already complicated enough.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
