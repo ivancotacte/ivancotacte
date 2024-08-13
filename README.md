@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Only when you can be extremely pliable and soft can you be extremely hard and strong.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>I didn't get there by wishing for it or hoping for it, but by working for it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
