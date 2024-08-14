@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Life is filled with secrets. You can't learn them all at once.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It is truth that liberates, not your effort to be free.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
