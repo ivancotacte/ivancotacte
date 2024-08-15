@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Your mind will make you rich or poor, depending on the use you put to it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
