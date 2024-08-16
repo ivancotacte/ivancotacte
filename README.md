@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You become stronger with every problem you face and every obstacle you overcome.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
