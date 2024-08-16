@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Constantly think about how you could be doing things better.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
