@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>As a matter of fact is an expression that precedes many an expression that isn't.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>There is only one thing that makes a dream impossible to achieve: the fear of failure.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
