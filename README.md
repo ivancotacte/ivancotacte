@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It isn't that they can't see the solution. It is that they can't see the problem.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Imagination is everything. It is the preview of life's coming attractions.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
