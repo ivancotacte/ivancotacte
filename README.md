@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Happiness is the meaning and the purpose of life, the whole aim and end of human existence.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
