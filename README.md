@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The more you feed your mind with positive thoughts, the more you can attract great things into your life.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
