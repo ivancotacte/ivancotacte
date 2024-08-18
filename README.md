@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>We are all faced with a series of great opportunities brilliantly disguised as impossible situations. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
