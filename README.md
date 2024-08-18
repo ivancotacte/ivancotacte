@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The two most important days in your life are the day you are born and the day you find out why.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>To a mind that is still, the entire universe surrenders.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
