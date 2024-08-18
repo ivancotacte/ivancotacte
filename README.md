@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Patience is a bitter plant, but its fruit is sweet.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A man is but a product of his thoughts. What he thinks he becomes.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
