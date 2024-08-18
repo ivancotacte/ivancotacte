@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The big thing is to make a winning effort. I'm not obsessed with wins.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You can not live your life just based on what everyone else thinks.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
