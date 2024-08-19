@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Failure is the highway to success.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It's possible in ways both large or small to make a difference in someone's life.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
