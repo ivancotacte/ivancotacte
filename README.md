@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Real learning comes about when the competitive spirit has ceased.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The busy man is never wise and the wise man is never busy.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
