@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>People should pursue what they're passionate about. That will make them happier than pretty much anything else.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you always do what you've always done, you'll always get what you've always got. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
