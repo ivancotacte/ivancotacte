@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't be afraid that you do not know something. Be afraid of not learning about it.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
