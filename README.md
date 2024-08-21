@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It is hard to fail, but it is worse never to have tried to succeed.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Real learning comes about when the competitive spirit has ceased.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
