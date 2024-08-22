@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Find the game where you can win, and then commit your life to playing it; and play to win.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
