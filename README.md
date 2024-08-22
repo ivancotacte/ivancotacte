@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Only by acceptance of the past, can you alter it.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>We can spend our whole lives escaping from the monsters of our minds.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
