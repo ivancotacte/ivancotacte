@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Expect the best of yourself, and then do what is necessary to make it a reality.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>I am always doing that which I can not do, in order that I may learn how to do it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
