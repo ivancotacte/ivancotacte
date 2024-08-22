@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>To succeed takes more than the desire to win. It also takes the acceptance that we could fail.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Open your eyes and look within. Are you satisfied with the life you're living?</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
