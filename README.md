@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A thing must be loved before it is lovable.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
