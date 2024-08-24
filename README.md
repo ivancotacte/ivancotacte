@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Every one of us is the sum total of his own thoughts.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Desire for the fruits of work must never be your motive in working.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
