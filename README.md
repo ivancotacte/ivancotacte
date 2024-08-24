@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The more you take responsibility for your past and present, the more you are able to create the future you seek.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
