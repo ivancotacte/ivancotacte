@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Short cuts make long delays.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you do not conquer self, you will be conquered by self.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
