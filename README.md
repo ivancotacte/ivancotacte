@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Extraordinary results happen only when you give the best you have to become the best you can be at your most important work.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Everything will be ok in the end. If it's not ok, it's not the end.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
