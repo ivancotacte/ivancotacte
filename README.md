@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The impossible can always be broken down into possibilities.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Your life does not get better by chance, it gets better by change.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
