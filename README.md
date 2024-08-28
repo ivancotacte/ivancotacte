@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Love doesn't need reason. It speaks from the irrational wisdom of the heart.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Success is nothing more than a few simple disciplines practiced every day.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
