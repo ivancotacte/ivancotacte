@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You can never cross the ocean unless you have the courage to lose sight of the shore.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
