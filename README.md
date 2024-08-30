@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You cannot teach a crab to walk straight.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Opportunity is missed by most people because it is dressed in overalls and looks like work.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
