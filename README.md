@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>At the center of your being you have the answer; you know who you are and you know what you want.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
