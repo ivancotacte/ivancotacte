@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you take responsibility for yourself you will develop a hunger to accomplish your dream.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>When you're at the end of your rope, tie a knot and hold on.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
