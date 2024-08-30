@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It is amazing what you can accomplish if you do not care who gets the credit.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you want to make God laugh, tell him about your plans. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
