@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Fear is a natural reaction to moving closer to the truth.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The heart wants what it wants - or else it does not care.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
