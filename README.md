@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Unless a man is master of his soul, all other kinds of mastery amount to little.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
