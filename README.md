@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Life is filled with secrets. You can't learn them all at once.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
