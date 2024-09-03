@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
