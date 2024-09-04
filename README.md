@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>One mistake does not have to rule a person's entire life.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Keep smiling, because life is a beautiful thing and there's so much to smile about.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
