@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Stop wasting time defending your problems and work on addressing them instead.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You use a glass mirror to see your face; you use works of art to see your soul.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
