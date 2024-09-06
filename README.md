@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>We tend to live up to our expectations.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The constant assertion of belief is an indication of fear.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
