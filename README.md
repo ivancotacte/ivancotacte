@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Only those who do nothing at all make no mistakes.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you tell the truth, you don't have to remember anything.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
