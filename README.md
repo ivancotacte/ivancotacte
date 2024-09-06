@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
