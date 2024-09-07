@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Find the game where you can win, and then commit your life to playing it; and play to win.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Experience is a comb which nature gives us when we are bald. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
