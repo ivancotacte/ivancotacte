@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Confidence is like a dragon where, for every head cut off, two more heads grow back.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Be the silent watcher of your thoughts and behavior. You are beneath the thinker.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
