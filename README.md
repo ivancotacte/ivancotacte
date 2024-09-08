@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Identify your problems, but give your power and energy to solutions.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
