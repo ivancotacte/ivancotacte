@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>There is no way to happiness - happiness is the way.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Stop wasting time looking at someone else's reality while doing nothing about yours.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
