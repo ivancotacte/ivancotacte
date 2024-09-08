@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The more people you help become successful the more successful you become.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
