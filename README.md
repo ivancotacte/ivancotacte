@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Obstacles are those frightful things you see when you take your eyes off your goal.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Thinking is the hardest work there is, which is probably the reason why so few engage in it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
