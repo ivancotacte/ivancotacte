@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>When you reach the end of your rope, tie a knot in it and hang on.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Once you choose hope, anything's possible.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
