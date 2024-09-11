@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>At every moment where language can't go, that's your mind.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The way to change others' minds is with affection, and not anger.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
