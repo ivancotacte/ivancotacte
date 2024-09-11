@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The trouble with most of us is that we'd rather be ruined by praise than saved by criticism.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
