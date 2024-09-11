@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>We can see through others only when we can see through ourselves.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>To the world you may be one person; but to one person you may be the world.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
