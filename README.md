@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>To the world you may be one person; but to one person you may be the world.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Everything you look at can become a fairy tale and you can get a story from everything you touch.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
