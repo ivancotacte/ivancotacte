@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>We cannot expect to be happy always... by experiencing evil as well as good we become wise.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
