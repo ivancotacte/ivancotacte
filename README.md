@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The more you feed your mind with positive thoughts, the more you can attract great things into your life.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>When the time is gone, you can never get it back.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
