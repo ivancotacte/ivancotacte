@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you care about someone enough, you'll always be there for them no matter what.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
