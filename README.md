@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Without education, we are in a horrible and deadly danger of taking educated people seriously.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Nothing can survive without food. Everything we consume acts either to heal us or to poison us.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
