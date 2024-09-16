@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Life can be the scariest and most beautiful thing simultaneously.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It is better to light a single candle than to curse the darkness.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
