@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The greatest of all mistakes is to do nothing because you think you can only do a little.  </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Your dream has to be bigger than your fear.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
