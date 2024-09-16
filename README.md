@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You may think I'm small, but I have a universe inside my mind.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The best thing to hold onto in life is each other.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
