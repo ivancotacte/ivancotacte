@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It is better to change an opinion than to persist in a wrong one.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The greatest step towards a life of simplicity is to learn to let go.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
