@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Keep your eyes on the stars, but remember to keep your feet on the ground.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>To lead an orchestra, you must turn your back on the crowd.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
