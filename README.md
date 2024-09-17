@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>No need to hurry. No need to sparkle. No need to be anybody but oneself.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
