@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you run you stand a chance of losing, but if you don't run you've already lost.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Death is not an ending. It is a transformation.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
