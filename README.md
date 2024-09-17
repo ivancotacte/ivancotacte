@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It's easier to go down a hill than up it but the view is much better at the top.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Conquer the devils with a little thing called love.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
