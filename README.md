@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Never let the fear of striking out keep you from playing the game.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Only when you can be extremely pliable and soft can you be extremely hard and strong.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
