@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It isn't that they can't see the solution. It is that they can't see the problem.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The more reasons you have for achieving your goal, the more determined you will become.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
