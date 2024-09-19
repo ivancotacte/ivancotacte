@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It is only depth of character that determines the profundity with which we face life.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
