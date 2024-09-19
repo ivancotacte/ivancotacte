@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The mind can calculate, but the spirit yearns, and the heart wants what the heart wants.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
