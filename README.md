@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Dreams are for dreamers. Goals are for achievers.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
