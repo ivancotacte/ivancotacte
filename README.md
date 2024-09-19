@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Turn off your mind, relax, and float downstream.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Study logic and math, because once you've mastered them, you won't fear any book.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
