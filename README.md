@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>We take care of the future best by taking care of the present now.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You can start changing our world for the better daily, no matter how small the action.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
