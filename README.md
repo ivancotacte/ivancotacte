@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Our truest life is when we are in dreams awake.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
