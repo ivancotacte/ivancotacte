@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Think and wonder, wonder and think.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
