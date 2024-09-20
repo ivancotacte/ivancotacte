@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It is only depth of character that determines the profundity with which we face life.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The thing about smart people is that they seem like crazy people to dumb people.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
