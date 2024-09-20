@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>We cannot always do great things in life, but we can do small things with great love.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The secret of success lies not in doing your own work, but in recognizing the right man to do it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
