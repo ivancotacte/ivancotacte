@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You don't have to be great to start, but you have to start to be great.  </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Our truest life is when we are in dreams awake.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
