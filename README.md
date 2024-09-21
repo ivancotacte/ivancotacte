@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't let the silly little dramas of each day get you down. For you are here to do great things.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You make your own luck if you stay at it long enough.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
