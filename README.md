@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>To be truly ignorant, be content with your own knowledge.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
