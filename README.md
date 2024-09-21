@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Reading should be a pleasure, not a chore.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
