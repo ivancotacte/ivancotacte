@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Whether you have a problem in your life or not depends upon your own attitude, your own understanding.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
