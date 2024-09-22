@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Failure is a great teacher. If you're open to it every mistake has a lesson to offer.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
