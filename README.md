@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
