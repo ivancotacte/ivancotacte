@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A loving heart is the truest wisdom.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Night is a more quiet time to work. It aids thought.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
