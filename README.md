@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Zen insists that the whole trouble is just our failure to realize that there is no problem.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Remember to look up at the stars and not down at your feet.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
