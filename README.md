@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Work harder on yourself than you do on your job.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Just try to be the best you can be; never cease trying to be the best you can be. That's in your power.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
