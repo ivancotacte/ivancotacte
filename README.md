@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Selfishness and greed, individual or national, cause most of our troubles.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
