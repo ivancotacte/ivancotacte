@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>We cannot always do great things in life, but we can do small things with great love.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you are ever the smartest person in the room, you are in the wrong room.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
