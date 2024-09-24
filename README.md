@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The true soldier fights not because he hates what is in front of him, but because he loves what is behind him.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>All our knowledge has its origins in our perceptions.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
