@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Peace is letting it be. Letting life flow, letting emotions flow through you.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Success is a poor teacher.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
