@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>All things come into being by conflict of opposites.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The pen is the tongue of the mind. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
