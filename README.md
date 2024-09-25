@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Whatever your heart clings to and confides in, that is really your God.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
