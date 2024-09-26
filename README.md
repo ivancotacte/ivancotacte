@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Life is from the inside out. When you shift on the inside, life shifts on the outside.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
