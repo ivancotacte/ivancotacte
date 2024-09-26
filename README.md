@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Success is not final, failure is not fatal: it is the courage to continue that counts.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You are always your own best guru, your own best teacher, the answers are always inside you.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
