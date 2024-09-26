@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Find your Light; They can't love you if they can't see you.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Wise people, even though all laws were abolished, would still lead the same life.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
