@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Giving back involves a certain amount of giving up.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Whatever you do in life, surround yourself with smart people who'll argue with you.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
