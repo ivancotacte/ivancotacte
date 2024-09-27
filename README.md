@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Do not look upon this world with fear and loathing. Bravely face whatever the gods offer.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Live life as though nobody is watching, and express yourself as though everyone is listening.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
