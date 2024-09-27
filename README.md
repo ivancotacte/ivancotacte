@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you see someone without a smile give them one of yours.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Success is never final; failure is never fatal.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
