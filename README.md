@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Among the things you can give and still keep are your word, a smile, and a grateful heart.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The ladder of success is best climbed by stepping on the rungs of opportunity.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
