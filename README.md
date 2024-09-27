@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The positive thinker sees the invisible, feels the intangible, and achieves the impossible.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
