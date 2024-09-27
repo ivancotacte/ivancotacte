@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>To live is to be willing to die over and over again.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Make your stand today. On this spot. On this day.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
