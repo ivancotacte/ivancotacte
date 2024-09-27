@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Some of us learn from other people's mistakes and the rest of us have to be other people.  </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>I dream my painting and I paint my dream.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
