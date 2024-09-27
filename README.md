@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Go as far as you can see and you will see further.  </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Adults are just children who earn money.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
