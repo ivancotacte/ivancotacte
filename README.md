@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It is what we make out of what we have, not what we are given, that separates one person from another.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
