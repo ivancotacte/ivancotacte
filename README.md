@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A day wasted on others is not wasted on one's self.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
