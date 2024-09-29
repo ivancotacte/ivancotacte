@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>We are always complaining that our days are few, and acting as though there would be no end of them.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
