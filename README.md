@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Sometimes a change of perspective is all it takes to see the light.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Life is a process. We are a process. The universe is a process.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
