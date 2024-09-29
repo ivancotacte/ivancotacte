@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you take responsibility for yourself you will develop a hunger to accomplish your dream.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>All wealth is the product of labor.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
