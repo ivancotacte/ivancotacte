@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Never allow a person to tell you no who doesn't have the power to say yes.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
