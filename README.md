@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Talk sense to a fool and he calls you foolish.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
