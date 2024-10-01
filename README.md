@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Make improvements, not excuses. Seek respect, not attention.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
