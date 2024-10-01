@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A warrior does not give up what he loves, he finds the love in what he does.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
