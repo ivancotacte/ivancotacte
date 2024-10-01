@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Death smiles at us all. All we can do is smile back.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
