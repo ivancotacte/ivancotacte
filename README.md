@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Do not go where the path may lead, go instead where there is no path and leave a trail.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
