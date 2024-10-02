@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You cannot control the behavior of others, but you can always choose how you respond to it.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The older you get, the better you get. Unless you're a banana.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
