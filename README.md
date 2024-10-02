@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>He suffers more than necessary, who suffers before it is necessary.  </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Being wrong brings the opportunity for growth.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
