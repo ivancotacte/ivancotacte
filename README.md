@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You are what you believe in. You become that which you believe you can become.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>I do not exist to impress the world. I exist to live my life in a way that will make me happy.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
