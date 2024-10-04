@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>In the long run, the sharpest weapon of all is a kind and gentle spirit.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The older you get the stronger the wind gets - and it's always in your face.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
