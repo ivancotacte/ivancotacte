@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Do something to move yourself toward your major goal every day.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't wait for extraordinary opportunities. Seize common occasions and make them great.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
