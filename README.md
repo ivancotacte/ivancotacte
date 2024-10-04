@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>There are more people who wish to be loved than there are who are willing to love. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
