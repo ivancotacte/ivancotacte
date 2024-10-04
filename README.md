@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The goal is not to be perfect by the end, the goal is to be better today.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It is not what we get. But who we become, what we contribute... that gives meaning to our lives.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
