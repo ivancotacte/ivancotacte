@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The only defense against the world is a thorough knowledge of it.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>I admire those who do good and expect nothing in return.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
