@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It is during our darkest moments that we must focus to see the light.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>He that can have patience can have what he will.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
