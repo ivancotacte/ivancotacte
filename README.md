@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>First learn the meaning of what you say, and then speak.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It is your attitude, not your aptitude, that determines your altitude.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
