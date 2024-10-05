@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Life without love is like a tree without blossoms or fruit.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>No one can confidently say that he will still be living tomorrow.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
