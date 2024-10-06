@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Everything you've ever wanted is on the other side of fear.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Among the things you can give and still keep are your word, a smile, and a grateful heart.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
