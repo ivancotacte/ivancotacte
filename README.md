@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It's much better to do good in a way that no one knows anything about it.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Instead of worrying about what you cannot control, shift your energy to what you can create.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
