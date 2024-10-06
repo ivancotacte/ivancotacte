@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>When I let go of what I am, I become what I might be.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't listen to the person who has the answers; listen to the person who has the questions.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
