@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The wise accomplish all that they want without arousing the envy or scorn of others.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>We must learn to live together as brothers or perish together as fools.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
