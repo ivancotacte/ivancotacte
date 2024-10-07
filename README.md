@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Everyday you can take a tiny step in the right direction.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Meditate. It won't be fun but it will surface what you need to deal with.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
