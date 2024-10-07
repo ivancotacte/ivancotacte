@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Everybody needs a passion. That's what keeps life interesting.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Reality is the leading cause of stress among those in touch with it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
