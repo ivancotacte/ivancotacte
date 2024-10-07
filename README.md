@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Our view of the world is truly shaped by what we decide to hear.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
