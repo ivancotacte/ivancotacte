@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The soul should always stand ajar, ready to welcome the ecstatic experience.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>From morning till night, we should never rely on a single thing.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
