@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Everyone sees what you appear to be, few experience what you really are.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
