@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>In order to be irreplaceable one must always be different.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Tension is who you think you should be. Relaxation is who you are.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
