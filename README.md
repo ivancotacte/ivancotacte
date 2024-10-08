@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You can avoid reality, but you cannot avoid the consequences of avoiding reality.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Success is going from failure to failure without losing your enthusiasm</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
