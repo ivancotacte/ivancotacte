@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It is difficult to free fools from the chains they revere. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The secret of happiness is not in doing what you like but in liking what you have to do.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
