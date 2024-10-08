@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you've made a mistake, it's better just to laugh at it.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Your worth consists in what you are and not in what you have.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
