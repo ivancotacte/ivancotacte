@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>From error to error one discovers the entire truth.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The people who succeed are irrationally passionate about something.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
