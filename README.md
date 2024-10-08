@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You can discover what your enemy fears most by observing the means he uses to frighten you.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Write to help yourself, publish to help others.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
