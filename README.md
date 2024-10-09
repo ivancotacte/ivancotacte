@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>What the mind can conceive, it can achieve.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you want something you've never had you must be willing to do something you've never done.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
