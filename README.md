@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You have the potential for greatness.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Greatest success comes just one step beyond the point at which defeat overtakes you.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
