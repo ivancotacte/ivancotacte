@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Most people get ahead during the time that others waste.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>All human wisdom is contained in these two words - Wait and Hope</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
