@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Be strong. Be confident. Be the star of your own life.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The world would go on even without you. Don't take yourself so seriously.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
