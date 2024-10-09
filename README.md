@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>All human wisdom is contained in these two words - Wait and Hope</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Never whine, never complain, never try to justify yourself.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
