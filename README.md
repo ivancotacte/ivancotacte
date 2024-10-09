@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Anyone who wants to achieve a dream must stay strong, focused and steady.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Goals are the fuel in the furnace of achievement.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
