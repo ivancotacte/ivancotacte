@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Be brave to stand for what you believe in even if you stand alone.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
