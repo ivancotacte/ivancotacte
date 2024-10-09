@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Care about what other people think and you will always be their prisoner.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You must find the place inside yourself where nothing is impossible.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
