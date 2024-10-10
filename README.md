@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>To belittle, you have to be little.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Any fool can turn a blind eye but who knows what the ostrich sees in the sand.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
