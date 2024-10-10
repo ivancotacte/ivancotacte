@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Always do your best. What you plant now, you will harvest later.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
