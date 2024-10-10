@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't look for meaning in the words. Listen to the silences.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The more you are grateful for what you have the more you will have to be grateful for.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
