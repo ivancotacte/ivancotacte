@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Change will not come if we wait for some other person, or if we wait for some other time.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>When you are tough on yourself, life is going to be infinitely easier on you.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
