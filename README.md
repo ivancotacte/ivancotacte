@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Talent is luck. The important thing in life is courage.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
