@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you can't feed a hundred people, then feed just one.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
