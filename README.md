@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
