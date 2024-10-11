@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It is not enough to win a war; it is more important to organize the peace.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Do your duty and a little more and the future will take care of itself.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
