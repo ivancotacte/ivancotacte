@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>When your intuition is strong, follow it.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Be not afraid of growing slowly, be afraid only of standing still. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
