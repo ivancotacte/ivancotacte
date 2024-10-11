@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Doubt is an uncomfortable condition, but certainty is a ridiculous one.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
