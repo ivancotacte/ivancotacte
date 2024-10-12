@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Play your part in life, but never forget that it is only a role.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The Art of Peace begins with you.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
