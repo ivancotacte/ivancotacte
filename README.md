@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Is it really possible to tell someone else what one feels?</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>No grand idea was ever born in a conference, but a lot of foolish ideas have died there.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
