@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Educating the mind without educating the heart is no education at all.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Falling down is not failure. Failure comes when you stay where you have fallen.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
