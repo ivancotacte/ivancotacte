@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Never argue with stupid people, they will drag you down to their level and then beat you with experience.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If there's a definition of freedom, I think it's this: living life on your terms.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
