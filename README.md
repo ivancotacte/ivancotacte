@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The only difference between success and failure is the ability to take action.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>All you need is passion. If you have a passion for something, you'll create the talent.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
