@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If there's a definition of freedom, I think it's this: living life on your terms.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>He who cheats the earth will be cheated by the earth.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
