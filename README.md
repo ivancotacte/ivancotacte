@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Live in the sunshine, swim the sea, drink the wild air.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Smell the cheese often so you know when it is getting old.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
