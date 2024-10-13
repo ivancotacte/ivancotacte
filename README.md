@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>I have lost friends, some by death...others by sheer inability to cross the street.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
