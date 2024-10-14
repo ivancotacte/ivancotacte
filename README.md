@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Trust your instincts: my first reaction is almost invariably the right one.  </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Happiness is not the absence of problems, it's the ability to deal with them.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
