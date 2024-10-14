@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Either get busy living or get busy dying.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Never allow a person to tell you no who doesn't have the power to say yes.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
