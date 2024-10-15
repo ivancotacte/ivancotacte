@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The ego wants to go fast. The soul needs to go slow.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
