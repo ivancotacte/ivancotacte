@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Whatever satisfies the soul is truth.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you do not push the boundaries, you will never know where they are.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
