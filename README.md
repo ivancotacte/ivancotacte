@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Things do not have meaning. We assign meaning to everything.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't blame others. it won't make you a better person.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
