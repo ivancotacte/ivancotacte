@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Closing your eyes and listening to silence is self-care.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>He who has overcome his fears will truly be free.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
