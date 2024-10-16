@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Wrong turns are as important as right turns. More important, sometimes.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The whole is greater than the sum of its parts.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
