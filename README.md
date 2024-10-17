@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't let your learning lead to knowledge. Let your learning lead to action.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Time stays long enough for anyone who will use it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
