@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Success in any endeavor depends on the degree to which it is an expression of your true self. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
