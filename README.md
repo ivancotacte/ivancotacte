@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>While some of us act without thinking, too many of us think without acting.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If ever you feel like an animal among men, be a lion.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
