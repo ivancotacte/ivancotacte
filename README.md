@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Do not fight with pigs - you will be smeared in mud but the pig will like it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
