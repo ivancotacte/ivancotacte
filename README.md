@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The desire for more positive experience is itself a negative experience.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It is best to begin at the beginning.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
