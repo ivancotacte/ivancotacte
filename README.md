@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
