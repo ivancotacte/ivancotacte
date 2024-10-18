@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>What one does is what counts. Not what one had the intention of doing.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
