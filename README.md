@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>To avoid criticism, do nothing, say nothing, and be nothing.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Make improvements, not excuses. Seek respect, not attention.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
