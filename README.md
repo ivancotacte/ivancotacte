@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you don't make things happen then things will happen to you.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Fears are nothing more than a state of mind.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
