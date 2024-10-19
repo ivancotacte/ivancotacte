@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Embody what you teach, and teach only what you have embodied.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
