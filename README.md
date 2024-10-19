@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Generosity is giving more than you can, and pride is taking less than you need.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Life is not just the passing of time. Life is the collection of experiences and their intensity.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
