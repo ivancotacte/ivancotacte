@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The power of human thought grows exponentially with the number of minds that share that thought.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The first step is to establish that something is possible; then probability will occur.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
