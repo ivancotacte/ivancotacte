@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>20 percent of your activities will account for 80 percent of your results.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
