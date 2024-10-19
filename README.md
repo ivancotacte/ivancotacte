@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Only by acceptance of the past, can you alter it.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>We know nothing of tomorrow, our business is to be good and happy today.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
