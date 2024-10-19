@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You have a brain and mind of your own. Use it, and reach your own decisions.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
