@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The meaning of life is that it stops.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
