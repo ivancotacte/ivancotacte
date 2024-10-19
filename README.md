@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>To be prepared is half the victory. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You are the only real obstacle in your path to a fulfilling life.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
