@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Where there's life, there's hope.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Do what you can, with what you have, where you are.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
