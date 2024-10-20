@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Death walks faster than the wind and never returns what he has taken.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Tis not too late to seek a newer world.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
