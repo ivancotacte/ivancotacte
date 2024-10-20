@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>To be totally at leisure for one day is to be immortal for one day. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Sometimes it is harder to deprive oneself of a pain than of a pleasure.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
