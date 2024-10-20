@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Mistakes are always forgivable, if one has the courage to admit them. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Everything has its beauty, but not everyone sees it. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
