@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Some of us learn from other people's mistakes and the rest of us have to be other people.  </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>One day, in retrospect, the years of struggle will strike you as the most beautiful.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
