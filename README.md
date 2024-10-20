@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The mind can calculate, but the spirit yearns, and the heart wants what the heart wants.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
