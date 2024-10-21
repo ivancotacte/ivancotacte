@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Instead of worrying about what you cannot control, shift your energy to what you can create.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
