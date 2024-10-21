@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The less you try to impress, the more peaceful you can be.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The act of taking the first step is what separates the winners from the losers.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
