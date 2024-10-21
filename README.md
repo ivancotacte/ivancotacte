@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The future belongs to those who believe in the beauty of their dreams.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
