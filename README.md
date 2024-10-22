@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>When you consider things like the stars, our affairs don't seem to matter very much, do they?</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>We know nothing of tomorrow, our business is to be good and happy today.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
