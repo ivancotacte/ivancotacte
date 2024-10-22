@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Listening well is as powerful as talking well, and is also as essential to true conversation.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Death and life have their determined appointments; riches and honors depend upon heaven. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
