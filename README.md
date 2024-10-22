@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The final mystery is oneself.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Failure is simply the opportunity to begin again, this time more intelligently.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
