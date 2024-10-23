@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you try, you might get exactly what you want. If you don't, you don't.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
