@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You need a plan to build a house. To build a life, it is even more important to have a plan or goal.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It's what you do in the present that will redeem the past and thereby change the future.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
