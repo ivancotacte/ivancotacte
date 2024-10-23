@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>There is no path to Peace. Peace is the path.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A heart is not judged by how much you love, but by how much you are loved by others.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
