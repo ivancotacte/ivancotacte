@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>When I let go of what I am, I become what I might be.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>All you need is the plan, the road map, and the courage to press on to your destination.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
