@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>We're kept from our goal not by obstacles, but by a clear path to a lesser goal.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
