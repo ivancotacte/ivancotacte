@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A clear conscience never fears midnight knocking.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Wisdom is doing now what you are going to be happy with later on.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
