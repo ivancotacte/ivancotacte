@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Take interest and even delight in doing the small things well.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>In life you need either inspiration or desperation.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
