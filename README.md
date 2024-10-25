@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The chief danger in life is that you may take too many precautions.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
