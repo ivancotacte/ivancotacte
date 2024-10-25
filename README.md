@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Tall oaks grow from little acorns.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Dreams are the royal road to the unconscious. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
