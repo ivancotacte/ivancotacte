@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you set your goals ridiculously high and its a failure, you will fail above everyone elses success.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Care about what other people think and you will always be their prisoner.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
