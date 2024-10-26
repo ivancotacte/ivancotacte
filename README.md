@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Let us always meet each other with smile, for the smile is the beginning of love.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If we will be quiet and ready enough, we shall find compensation in every disappointment.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
