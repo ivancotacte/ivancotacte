@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Nature does not hurry, yet everything is accomplished.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Fear does not have any special power unless you empower it by submitting to it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
