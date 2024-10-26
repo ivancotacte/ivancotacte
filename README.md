@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>All we have to decide is what to do with the time that is given to us.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
