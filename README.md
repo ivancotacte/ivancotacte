@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>This is the most simple and basic component of life: our struggles determine our successes.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Happiness must be grown in one's own garden.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
