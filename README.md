@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The journey is what brings us happiness not the destination.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Silence is the great teacher and to learn its lessons you must pay attention to it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
