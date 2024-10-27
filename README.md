@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't shortchange yourself when it comes to investing in your own better future.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You can't tell big dreams to small minded people.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
