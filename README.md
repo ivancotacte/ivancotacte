@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Among the things you can give and still keep are your word, a smile, and a grateful heart.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
