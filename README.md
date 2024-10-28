@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Always focus on the front windshield and not the rear view mirror.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You are not what you think you are, You are not what others think you are, You are what you think others think you are.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
