@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It is during our darkest moments that we must focus to see the light.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
