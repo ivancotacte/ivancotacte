@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>We can't help everyone, but everyone can help someone.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Before you embark on a journey of revenge, dig two graves. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
