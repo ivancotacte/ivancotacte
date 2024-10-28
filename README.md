@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>All our knowledge has its origins in our perceptions.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
