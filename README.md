@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Facts are the enemy of truth. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>People do not decide their futures, they decide their habits and their habits decide their futures.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
