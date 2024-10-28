@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>To arrive at the simplest truth requires years of contemplation.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
