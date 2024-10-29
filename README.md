@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>We have a duty to maintain the light of consciousness to make sure it continues into the future.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Your best life will not be found in comfort. It will be found in fighting for what you believe in.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
