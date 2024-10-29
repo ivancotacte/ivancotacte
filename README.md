@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>What you become is far more important than what you get.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The roots of education are bitter, but the fruit is sweet.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
