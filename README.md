@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>There is only the one reality, neither to be realized nor attained.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If fear is too strong, the genius is suppressed.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
