@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Paths are made by walking.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Always forgive your enemies - nothing annoys them so much. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
