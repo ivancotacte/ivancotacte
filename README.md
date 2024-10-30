@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>What the mind can conceive and believe, and the heart desire, you can achieve.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Appear weak when you are strong, and strong when you are weak.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
