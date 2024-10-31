@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You make your own luck if you stay at it long enough.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Wake up and smile! Wake up and be grateful!</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
