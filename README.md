@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Nothing is really work unless you would rather be doing something else. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
