@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>People tend to complicate their own lives, as if living weren't already complicated enough.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You can't wait for inspiration. You have to go after it with a club. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
