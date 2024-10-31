@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>People think you're crazy if you talk about things they don't understand.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Each day provides it's own gifts.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
