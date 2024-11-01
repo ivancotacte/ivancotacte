@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Your world is a living expression of how you are using and have used your mind.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
