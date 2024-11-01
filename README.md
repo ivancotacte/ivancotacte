@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>What worries you, masters you.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Meditate. It won't be fun but it will surface what you need to deal with.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
