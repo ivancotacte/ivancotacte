@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't let the past steal your present.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The whole of life, from the moment you are born to the moment you die, is a process of learning.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
