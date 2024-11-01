@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Time is a game played beautifully by children.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It's not the size of the dog in the fight, it's the size of the fight in the dog.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
