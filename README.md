@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>To live is the rarest thing in the world. Most people exist, that is all. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
