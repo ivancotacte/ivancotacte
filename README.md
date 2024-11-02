@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The greatest treasures are those invisible to the eye but found by the heart.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Catch, then, O catch the transient hour; Improve each moment as it flies! </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
