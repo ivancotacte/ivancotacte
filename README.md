@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
