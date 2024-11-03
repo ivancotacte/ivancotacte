@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Go confidently in the direction of your dreams! Live the life you've imagined.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you don't have time to do it right, when will you have time to do it over?</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
