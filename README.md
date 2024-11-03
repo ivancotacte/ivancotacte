@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You must either modify your dreams or magnify your skills.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
