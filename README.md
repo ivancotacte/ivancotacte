@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Try all things, hold fast that which is good.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
