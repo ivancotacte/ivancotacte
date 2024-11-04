@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>To be fully alive is to feel that everything is possible.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>There are more people who wish to be loved than there are who are willing to love. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
