@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The person who says something is impossible should not interrupt the person who is doing it.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Everyone wants to go to Heaven, but no one wants to die.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
