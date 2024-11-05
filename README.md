@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Be a master of change rather than a victim of change.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>He who cannot be a good follower cannot be a good leader.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
