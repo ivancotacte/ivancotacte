@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>I am not the outcome. I am never the result. I am only the effort.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Have the fearless attitude of a hero and the loving heart of a child.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
