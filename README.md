@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Happiness is a gift and the trick is not to expect it, but to delight in it when it comes.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Peace of mind is that mental condition in which you have accepted the worst.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
