@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You know the more one does the more one can do.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The most wasted day of all is that on which we have not laughed.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
