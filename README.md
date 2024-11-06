@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>We should not look back unless it is to derive useful lessons from past errors.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>All happiness depends on courage and work.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
