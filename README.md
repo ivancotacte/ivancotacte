@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Trying to define yourself is like trying to bite your own teeth.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Not doing it is certainly the best way to not getting it.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
