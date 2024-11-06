@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The thing about smart people is that they seem like crazy people to dumb people.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
