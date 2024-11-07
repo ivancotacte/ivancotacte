@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Just do what must be done. This may not be happiness but it is greatness.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
