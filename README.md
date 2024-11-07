@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You can have the mind or you can have the moment.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>No man ever steps in the same river twice, for it's not the same river and he's not the same man.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
