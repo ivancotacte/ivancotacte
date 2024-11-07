@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>No idea, no matter how good, will work if it doesn't get used.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A good character is the best tombstone. Carve your name on hearts, not on marble.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
