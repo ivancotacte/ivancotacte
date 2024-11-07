@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The successful warrior is the average man, with laser-like focus.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Passion is energy. Feel the power that comes from focusing on what excites you. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
