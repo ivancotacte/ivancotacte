@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>From the errors of others, a wise man corrects his own.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Investing in yourself is the best investment you will ever make.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
