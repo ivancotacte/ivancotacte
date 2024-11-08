@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A golden cage is still just a cage.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
