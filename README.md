@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Always turn a negative situation into a positive situation.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>All our dreams can come true, if we have the courage to pursue them.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
