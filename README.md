@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Where words fail, music speaks.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The wisdom of life consists in the elimination of the nonessentials.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
