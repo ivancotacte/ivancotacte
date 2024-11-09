@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It is far easier to start something than it is to finish it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
