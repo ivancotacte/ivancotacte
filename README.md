@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Only put off until tomorrow what you are willing to die having left undone.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Never to suffer would never to have been blessed.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
