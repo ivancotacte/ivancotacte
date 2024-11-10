@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Attitude drives actions. Actions drive results. Results drive lifestyles.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
