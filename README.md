@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>What people need and what they want may be very different.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Life is much more successfully looked at from a single window.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
