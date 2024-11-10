@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
