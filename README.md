@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A clear conscience is the sure sign of a bad memory.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Thoughts become things. If you see it in your mind, you will hold it in your hand.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
