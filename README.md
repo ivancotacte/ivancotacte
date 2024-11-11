@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>We have to walk in a way that we only print peace and serenity on the Earth. Walk as if you are kissing the Earth with your feet.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Today I begin a new life. I will greet this day with love in my heart.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
