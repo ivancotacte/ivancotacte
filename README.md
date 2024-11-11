@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The only way to 'find out if it will work out' is to do it.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
