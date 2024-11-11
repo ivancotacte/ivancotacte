@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Failure is a great teacher. If you're open to it every mistake has a lesson to offer.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Just because something isn't a lie does not mean that it isn't deceptive.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
