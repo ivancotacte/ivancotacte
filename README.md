@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Be happy in the moment, that's enough. Each moment is all we need, not more.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Confidence is the greatest friend.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
