@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Talk to someone about themselves and they'll listen for hours.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>When you judge others, you do not define them, you define yourself.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
