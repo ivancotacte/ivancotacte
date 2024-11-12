@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If I cannot do great things. I can do small things in a great way.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Everything has its beauty, but not everyone sees it. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
