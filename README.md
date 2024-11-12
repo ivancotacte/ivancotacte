@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Too many of us are not living our dreams because we are living our fears.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
