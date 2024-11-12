@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Learn from the rejection and turn it into an opportunity!</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Every great change is preceded by chaos.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
