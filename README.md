@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>An ounce of performance is worth pounds of promises.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>There is no path to Happiness. Happiness is the path.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
