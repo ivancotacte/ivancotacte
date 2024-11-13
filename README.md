@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Until you make the unconscious conscious, it will direct your life and you will call it fate.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
