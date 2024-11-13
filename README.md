@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A leader is one who knows the way, goes the way, and shows the way.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
