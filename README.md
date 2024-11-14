@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you're really truthful with yourself, it's a wonderful guidance.  </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
