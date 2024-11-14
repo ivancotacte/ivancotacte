@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Start each day with a positive thought and a grateful heart.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
