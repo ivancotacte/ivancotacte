@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Show me a hero, and I'll write you a tragedy.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
