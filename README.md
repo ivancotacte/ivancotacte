@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Success comes from knowing that you did your best to become the best that you are capable of becoming.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Faults are yours to fix, not to curse.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
