@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You can't make someone feel good about themselves until you feel good about yourself.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Successful people ask better questions, and as a result, they get better answers.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
