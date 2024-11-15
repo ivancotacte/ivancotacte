@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you aren't sure which way to do something, do it both ways and see which works better.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>To be in harmony with the wholeness of things is not to have anxiety over imperfections.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
