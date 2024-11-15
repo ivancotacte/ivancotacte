@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Successful people tend to become more successful because they are always thinking about their successes.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Loss is nothing else but change and change is nature's delight.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
