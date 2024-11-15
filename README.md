@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Our life isn't how much we can take out, but how much we can put in.  </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It is well known that those who do not trust themselves never trust others.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
