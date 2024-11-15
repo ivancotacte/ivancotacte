@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Many a man has failed because he had his wishbone where his backbone should have been.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The chief enemy of creativity is good sense.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
