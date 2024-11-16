@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The two most powerful warriors are patience and time.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Those who seek the easy way do not seek the true way.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
