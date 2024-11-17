@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Originality is the fine art of remembering what you hear but forgetting where you heard it. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
