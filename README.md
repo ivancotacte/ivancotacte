@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Knowledge is learning something everyday. Wisdom is letting go of something everyday.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>When you believe in a thing, believe in it all the way, implicitly and unquestionable.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
