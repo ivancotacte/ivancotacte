@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>When you are able to employ your will always for constructive purposes, you become the controller of your destiny.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
