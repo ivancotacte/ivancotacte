@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It is the mark of an educated mind to be able to entertain a thought without accepting it.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
