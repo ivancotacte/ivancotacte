@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Life may be full of pain but that's not an excuse to give up.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The more people you help become successful the more successful you become.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
