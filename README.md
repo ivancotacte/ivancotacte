@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>I do not seek. I find.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Becoming a great leader doesn't mean being perfect. it means living with your imperfections.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
