@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
