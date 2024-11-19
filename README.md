@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>When you are totally at peace with yourself, nothing can shake you.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
