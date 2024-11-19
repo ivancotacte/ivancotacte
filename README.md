@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Correct what you can. Learn from what you can't.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
