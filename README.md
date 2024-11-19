@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>He who wishes to be obeyed must know how to command.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The best of us sometimes eat our words.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
