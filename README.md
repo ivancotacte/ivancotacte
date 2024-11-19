@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>One of the advantages of being disorganized is that one is always having surprising discoveries.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Repetition does not transform a lie into a truth.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
