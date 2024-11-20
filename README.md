@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>My mind seems to have become a kind of machine for grinding general laws out of large collections of facts.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Imagination is everything. It is the preview of life's coming attractions.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
