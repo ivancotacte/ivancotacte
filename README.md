@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>All we have to decide is what to do with the time that is given to us.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
