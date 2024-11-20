@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Anyone who reads a book with a sense of obligation does not understand the art of reading.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>In youth we run into difficulties. In old age difficulties run into us. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
