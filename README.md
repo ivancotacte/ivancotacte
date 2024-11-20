@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Better a diamond with a flaw than a pebble without one.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The fastest way to change is to laugh at your own folly.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
