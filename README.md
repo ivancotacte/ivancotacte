@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>What we know is a drop, what we don't know is an ocean. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Most people fail in life not because they aim too high and miss, but because they aim too low and hit.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
