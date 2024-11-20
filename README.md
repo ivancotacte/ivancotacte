@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You must be willing to do what others won't do, to have what others won't have.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Love is merely the name for the desire and pursuit of the whole.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
