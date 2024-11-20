@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The most important thing in communication is to hear what isn't being said.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>There is a big difference between being centered and being self-centered.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
