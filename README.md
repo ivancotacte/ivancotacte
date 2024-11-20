@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>There will always be suffering. But we must not suffer over the suffering.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You can't have anything worthwhile without difficulties.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
