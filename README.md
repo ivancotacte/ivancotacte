@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It will never rain roses: when we want to have more roses, we must plant more roses.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You are what you believe yourself to be.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
