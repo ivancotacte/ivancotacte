@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>We must have strong minds, ready to accept facts as they are.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
