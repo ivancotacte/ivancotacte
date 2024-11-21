@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you're afraid - don't do it, - if you're doing it - don't be afraid! </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You drown not by falling into a river, but by staying submerged in it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
