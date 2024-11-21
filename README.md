@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>In the beginner's mind there are many possibilities, but in the expert's mind there are few.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
