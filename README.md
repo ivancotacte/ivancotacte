@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The only difference between success and failure is the ability to take action.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you want to see things just as they are, then you yourself must practice just as you are.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
