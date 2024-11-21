@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Stop wasting time looking at someone else's reality while doing nothing about yours.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
