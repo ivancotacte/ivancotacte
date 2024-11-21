@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
