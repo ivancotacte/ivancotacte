@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Every limit is a beginning as well as an ending.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It is difficult to free fools from the chains they revere. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
