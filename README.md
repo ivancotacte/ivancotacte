@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Nourish the mind like you would your body. The mind cannot survive on junk food.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>We must have strong minds, ready to accept facts as they are.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
