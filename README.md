@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It is impossible for a man to learn what he thinks he already knows.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
