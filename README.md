@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The man who removes a mountain begins by carrying away small stones.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Life has the name of life, but in reality it is death.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
