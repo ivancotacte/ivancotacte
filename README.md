@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>To get angry is like to revenge yourself for the guilt of others.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
