@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>We must create our own world or we will die from inaction.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Life may be full of pain but that's not an excuse to give up.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
