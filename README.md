@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Genius, in truth, means little more than the faculty of perceiving in an unhabitual way.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Catch, then, O catch the transient hour; Improve each moment as it flies! </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
