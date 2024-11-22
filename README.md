@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It is our experiences that mold us into who we are...during times of adversity our true character will show.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
