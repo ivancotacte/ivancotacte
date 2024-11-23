@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>No one ever is defeated until defeat has been accepted as a reality.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>By the practice of meditation, you will find that you are carrying within your heart a portable paradise.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
