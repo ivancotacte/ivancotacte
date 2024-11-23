@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>We suffer more often in imagination than in reality.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Remember, hope is a good thing, maybe the best of things.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
