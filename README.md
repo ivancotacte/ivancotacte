@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't concern yourself with the money. Be of service. Build. Work. Dream. Create.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Repetition does not transform a lie into a truth.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
