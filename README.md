@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
