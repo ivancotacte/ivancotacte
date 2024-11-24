@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Death and life have their determined appointments; riches and honors depend upon heaven. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>What do we live for if not to make life less difficult for each other?</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
