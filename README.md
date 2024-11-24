@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Respect is earned by effort not age, all things age without effort.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Nothing good ever comes of violence.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
