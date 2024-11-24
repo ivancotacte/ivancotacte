@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Happiness is an effect of doing what you love, not an end goal to be achieved.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you have to be in a soap opera try not to be cast in the worst role.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
