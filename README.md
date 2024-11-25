@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Genius is one percent inspiration and ninety-nine percent perspiration.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
