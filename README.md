@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The important thing is not to stop questioning. Curiosity has its own reason for existing.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>I no doubt deserved my enemies, but I don't believe I deserved my friends.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
