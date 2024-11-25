@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Love is the energy of life.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
