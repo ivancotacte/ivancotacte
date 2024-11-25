@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The energy of the mind is the essence of life.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
