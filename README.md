@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Simplicity is a difficult thing to achieve.  </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The wise learn many things from their enemies.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
