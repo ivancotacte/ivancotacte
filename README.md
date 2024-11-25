@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Take care of your body. It's the only place you have to live.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Action may not always bring happiness, but there is no happiness without action.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
