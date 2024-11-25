@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>With self-discipline, almost anything is possible.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The health of nations is more important than the wealth of nations.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
