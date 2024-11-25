@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Our view of the world is truly shaped by what we decide to hear.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>That some achieve great success is proof to all that others can achieve it as well.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
