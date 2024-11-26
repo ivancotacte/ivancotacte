@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Emancipate yourself from mental slavery, none but ourselves can free our mind.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Man suffers only because he takes seriously what the gods made for fun.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
