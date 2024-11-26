@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>See what you're doing wrong, laugh at it, change and do better.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If I can pay the bills, I'm happy.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
