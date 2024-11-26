@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>No man is happy who does not think himself so.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>We have to live life with a sense of urgency so not a minute is wasted.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
