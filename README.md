@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Management is doing things right; leadership is doing the right things.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't let someone elses. opinion become your reality.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
