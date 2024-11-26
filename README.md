@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Success is achieved and maintained by those who try and keep trying. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The birth of the mind is the death of the senses.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
