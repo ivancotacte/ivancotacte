@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>For the things we have to learn before we can do them, we learn by doing them.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The biggest room in the world is the room for improvement.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
