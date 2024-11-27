@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Presents are made for the pleasure of who gives them, not the merits of who receives them.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Success is like reaching an important birthday and finding you're exactly the same.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
