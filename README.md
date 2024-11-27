@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It's not what we do once in a while that shapes our lives, but what we do consistently.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
