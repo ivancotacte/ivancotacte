@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It is literally true that you can succeed best and quickest by helping others succeed.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Find something you love and do it better than everyone else.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
