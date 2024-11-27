@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Life is essentially an endless series of problems. The solution to one problem is merely the creation of another.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't spend time beating on a wall, hoping to transform it into a door.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
