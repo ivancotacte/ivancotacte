@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It does not matter how slowly you go so long as you do not stop.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The biggest adventure is what lies ahead.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
