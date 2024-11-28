@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Just get out and do it. You will be very, very glad that you did.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A wise man will be master of his mind, a fool will be its slave.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
