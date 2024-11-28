@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>True wealth is of the heart, not of the purse.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Do not try to be on the side of the majority, but live according to your inner laws.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
