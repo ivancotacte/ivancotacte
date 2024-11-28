@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A person is only by the thoughts that he chooses.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>There is no truth. There is only perception.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
