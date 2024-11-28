@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Greatness comes from living with purpose and passion.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Throughout this life, you can never be certain of living long enough to take another breath.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
