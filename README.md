@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The difference between treason and patriotism is only a matter of dates.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>When things go wrong, don't go with them.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
