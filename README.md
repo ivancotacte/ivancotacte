@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Today is the oldest you've ever been, and the youngest you'll ever be again.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Raise your words, not voice. It is rain that grows flowers, not thunder.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
