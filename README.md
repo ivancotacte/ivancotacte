@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Rivers know this: there is no hurry. We shall get there some day.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Where you are right now doesn't have to determine where you'll end up.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
