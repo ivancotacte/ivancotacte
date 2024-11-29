@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Do not use life to give life to death. Do not use death to bring death to life.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Learn from the mistakes of others. You can't live long enough to make them all yourself.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
