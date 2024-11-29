@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Do not follow the ideas of others, but learn to listen to the voice within yourself.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If we have no peace, it is because we have forgotten that we belong to each other.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
