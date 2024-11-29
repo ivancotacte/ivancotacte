@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A good stance and posture reflect a proper state of mind.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>There are as many opinions as there are experts.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
