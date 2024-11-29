@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Whatever your mind can conceive and believe, it can achieve.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you chase two rabbits, you catch none.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
