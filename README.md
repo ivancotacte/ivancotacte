@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The dream is free, but the hustle is sold separately.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Creative people are often found either disagreeable or intimidating by mediocrities.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
