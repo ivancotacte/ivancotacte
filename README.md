@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Choose to be optimistic, it feels better.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If I can stop one heart from breaking, I shall not live in vain.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
