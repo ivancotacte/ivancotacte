@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Persistence is very important. You should not give up unless you are forced to give up.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You give but little when you give of your possessions. It is when you give of yourself that you truly give.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
