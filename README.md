@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The best revenge is to be unlike him who performed the injury.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
