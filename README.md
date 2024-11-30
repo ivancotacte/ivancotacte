@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A gentleman is one who puts more into the world than he takes out.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
