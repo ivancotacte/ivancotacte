@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Every second you have on this planet is very precious and it's your responsibility that you're happy.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It takes a very long time to become young.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
