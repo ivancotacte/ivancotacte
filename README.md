@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't be afraid to give up the good to go for the great.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A clear conscience is the sure sign of a bad memory.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
