@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you truly love Nature, you will find beauty everywhere. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Remember we're all in this alone.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
