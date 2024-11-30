@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>I learned the value of hard work by working hard. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
