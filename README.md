@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A golden cage is still just a cage.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Nothing is particularly hard if you divide it into small jobs. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
