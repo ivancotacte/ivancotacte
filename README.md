@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The only way out is through.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
