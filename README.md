@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You can't build a reputation on what you are going to do. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Words, once they are printed, have a life of their own.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
