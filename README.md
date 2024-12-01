@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Whatever you are, be a good one.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
