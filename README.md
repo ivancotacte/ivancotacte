@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Life is simply what our feelings do to us.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Re-examine all that you have been told... dismiss that which insults your soul.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
