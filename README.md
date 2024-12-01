@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The less you talk about your shame, the more of it you have.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Take care of your body. It's the only place you have to live.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
