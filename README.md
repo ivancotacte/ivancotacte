@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The question is not what you look at, but what you see.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Doing the best at this moment puts you in the best place for the next moment.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
