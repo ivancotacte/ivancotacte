@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Nothing brings down walls as surely as acceptance.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
