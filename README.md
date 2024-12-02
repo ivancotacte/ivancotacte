@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Have the courage to follow your heart and intuition. They somehow know what you truly want to become.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
