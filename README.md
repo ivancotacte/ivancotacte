@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Your vision will become clear only when you can look into your own heart.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Success is stumbling from failure to failure with no loss of enthusiasm.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
