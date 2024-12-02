@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The past has no power over the present moment. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you do not get the chills when you set your goal you're not setting big enough goals.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
