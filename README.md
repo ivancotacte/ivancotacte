@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>When you repeat a mistake, it is not a mistake anymore: it is a decision.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>To seek is to suffer. To seek nothing is bliss.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
