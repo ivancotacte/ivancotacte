@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If anything is worth doing, do it with all your heart.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
