@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Have a vision. Be demanding.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
