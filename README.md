@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>People don't care how much you know until they know how much you care.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Be thankful for everything that happens in your life; it's all an experience.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
