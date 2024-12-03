@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Be brave to stand for what you believe in even if you stand alone.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
