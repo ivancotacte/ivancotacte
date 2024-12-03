@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't let anyone define you. You define yourself.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
