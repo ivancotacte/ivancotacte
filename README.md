@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Common sense is not so common. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Some people don't like change, but you need to embrace change if the alternative is disaster.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
