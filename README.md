@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Nothing is really work unless you would rather be doing something else. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
