@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Poverty and hardship are created by false thinking.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you spend too much time thinking about a thing, you'll never get it done. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
