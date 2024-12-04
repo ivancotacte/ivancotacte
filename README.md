@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The best way to not feel hopeless is to get up and do something.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Make peace with your inner turmoil.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
