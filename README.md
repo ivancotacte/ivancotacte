@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Never do to others what you would not like them to do to you. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The biggest adventure you can ever take is to live the life of your dreams. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
