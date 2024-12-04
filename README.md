@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Darkness is the absence of light.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It is not titles that honour men, but men that honour titles.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
