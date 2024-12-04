@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>We have no more right to consume happiness without producing it than to consume wealth without producing it.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>What do we live for, if it is not to make life less difficult for each other?</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
