@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>I do not exist to impress the world. I exist to live my life in a way that will make me happy.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>I have no methods; all I do is accept people as they are.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
