@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Where your talents and the needs of the world cross, there lies your vocation.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
