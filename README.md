@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Care about what other people think and you will always be their prisoner.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>To be of use to the world is the only way to be happy.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
