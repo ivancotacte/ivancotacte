@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Genius is one percent inspiration and ninety-nine percent perspiration.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>I am not proud, but I am happy; and happiness blinds, I think, more than pride.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
