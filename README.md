@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The heart wants what it wants. There's no logic. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Do every act of your life as if it were your last.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
