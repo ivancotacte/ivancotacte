@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It matters not what someone is born, but what they grow to be.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Be kind whenever possible. It is always possible.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
