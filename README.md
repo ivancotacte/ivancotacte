@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It's the possibility of having a dream come true that makes life interesting.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Music is like creating an emotional painting. The sounds are the colors.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
