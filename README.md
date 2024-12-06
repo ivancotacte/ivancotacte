@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Even the smallest person can change the course of the future.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You are not one person, but three: The one you think you are; The one others think you are; The one you really are.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
