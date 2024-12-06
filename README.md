@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>We have more possibilities available in each moment than we realize.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A man should do his job so well that the living, the dead, and the unborn could do it no better.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
