@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Always be a first rate version of yourself and not a second rate version of someone else.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Life isn't about finding yourself. Life is about creating yourself.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
