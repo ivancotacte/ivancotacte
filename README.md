@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't spend time beating on a wall, hoping to transform it into a door.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You may delay, but time will not.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
