@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Health is the greatest of all possessions.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>There is nothing more frightful than ignorance in action.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
