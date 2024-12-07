@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A hero is an ordinary person doing things in an extra ordinary way.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you don't find the time, if you don't do the work, you don't get the results.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
