@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Lust, anger and greed are the three gates to self-destructive hell.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
