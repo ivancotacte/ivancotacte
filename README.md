@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You have power over your mind - not outside events. Realize this, and you will find strength.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Words without actions are the assassins of idealism.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
