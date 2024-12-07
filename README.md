@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Faithless is he that says farewell when the road darkens.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>I live by letting things happen.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
