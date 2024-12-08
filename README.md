@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>For the things we have to learn before we can do them, we learn by doing them.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
