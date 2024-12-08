@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Trust your instincts: my first reaction is almost invariably the right one.  </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>I never said it would be easy, I only said it would be worth it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
