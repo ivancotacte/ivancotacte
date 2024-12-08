@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The only difference between success and failure is the ability to take action.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Each of us is a unique strand in the intricate web of life and here to make a contribution.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
