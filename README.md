@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Expect the best of yourself, and then do what is necessary to make it a reality.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Fear is a natural reaction to moving closer to the truth.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
