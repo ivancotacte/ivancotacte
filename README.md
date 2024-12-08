@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Those who cannot change their minds cannot change anything.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>With self-discipline, almost anything is possible.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
