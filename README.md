@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>When you want something in life, you just gotta reach out and grab it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
