@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>We meet ourselves time and again in a thousand disguises on the path of life.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
