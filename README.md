@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Hope is not a strategy. Luck is not a factor. Fear is not an option.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
