@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Do not look for approval except for the consciousness of doing your best.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Your problem isn't the problem. Your reaction is the problem.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
