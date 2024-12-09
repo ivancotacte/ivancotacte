@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Storms don't last forever.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>For every minute you are angry you lose sixty seconds of happiness.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
