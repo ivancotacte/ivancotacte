@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Would you rather learn to deal with the truth now than be forced to do so later on?</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Little minds have little worries, big minds have no time for worries.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
