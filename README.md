@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Embody what you teach, and teach only what you have embodied.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
