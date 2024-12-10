@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Question everything. Learn something. Answer nothing.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The fear of death is more to be feared, than death itself.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
