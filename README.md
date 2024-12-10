@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Creative people are often found either disagreeable or intimidating by mediocrities.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Your best life will not be found in comfort. It will be found in fighting for what you believe in.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
