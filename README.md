@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Live calmly. The time will come when the flowers bloom by themselves.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Waste no more time arguing about what a good man should be. Be one.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
