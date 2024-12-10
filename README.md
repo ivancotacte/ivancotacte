@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you don't know, the thing to do is not to get scared, but to learn.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You are the average of the five people you spend most time with.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
