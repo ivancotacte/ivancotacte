@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Your best life will not be found in comfort. It will be found in fighting for what you believe in.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Success is about creating value.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
