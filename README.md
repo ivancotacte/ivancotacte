@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
