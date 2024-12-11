@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>No tree, it is said, can grow to heaven unless its roots reach down to hell.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
