@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Your work is to discover your work and then, with all your heart, to give yourself to it.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
