@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The power of man has grown in every sphere, except over himself.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Everyone has the right to make his own decisions, but none has the right to force his decision on others.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
