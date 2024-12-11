@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Not engaging in ignorance is wisdom. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You already have every characteristic necessary for success if you recognize, claim, develop and use them.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
