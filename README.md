@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Focus is a matter of deciding what things you're not going to do.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't wait for the right opportunity: create it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
