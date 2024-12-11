@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>While we may not be able to control all that happens to us, we can control what happens inside us.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Trusting our intuition often saves us from disaster. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
