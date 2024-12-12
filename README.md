@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you don't program yourself, life will program you.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The more you like yourself, the less you are like anyone else, which makes you unique.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
