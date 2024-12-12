@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>In the End, we will remember not the words of our enemies, but the silence of our friends.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Words, once they are printed, have a life of their own.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
