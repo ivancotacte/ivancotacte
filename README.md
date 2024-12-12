@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Great things are not accomplished by those who yield to trends and fads and popular opinion.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
