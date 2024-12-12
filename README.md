@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>No one can compete with you on being you. Most of life is a search for who and what needs you the most.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>There are two things a person should never be angry at, what they can help, and what they cannot.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
