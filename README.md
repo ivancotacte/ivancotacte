@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The chief cause of failure and unhappiness is trading what you want most for what you want right now.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
