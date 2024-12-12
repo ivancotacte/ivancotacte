@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If we all did the things we are capable of doing, we would literally astound ourselves.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Life doesn't get easier or more forgiving, we get stronger and more resilient.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
