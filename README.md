@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Every day do something that will inch you closer to a better tomorrow.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You can start changing our world for the better daily, no matter how small the action.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
