@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A man sees in the world what he carries in his heart.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Great things happen to those who don't stop believing, trying, learning, and being grateful.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
