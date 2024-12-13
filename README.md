@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Remember that the best relationship is one in which your love for each other exceeds your need for each other.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>When angry count to ten before you speak. If very angry, count to one hundred.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
