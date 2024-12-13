@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Those who attain the middle Dominate the whole.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
