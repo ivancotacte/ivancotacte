@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The most virtuous are those who content themselves with being virtuous without seeking to appear so.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Life is about not knowing and then doing something anyway.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
