@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The trouble with most of us is that we'd rather be ruined by praise than saved by criticism.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>One day, in retrospect, the years of struggle will strike you as the most beautiful.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
