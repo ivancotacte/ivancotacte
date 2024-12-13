@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Someday death will take us to another star.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
