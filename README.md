@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Be grateful for what you have now, and nothing should be taken for granted.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
