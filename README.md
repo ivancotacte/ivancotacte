@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Life is one long process of getting tired.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
