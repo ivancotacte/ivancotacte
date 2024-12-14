@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The power to make and break habits and learning how to do that is really important.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You do not read a book for the book's sake, but for your own.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
