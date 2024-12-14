@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You'll get more from being a peacemaker than a warrior.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
