@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Doubt is an uncomfortable condition, but certainty is a ridiculous one.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Just living is not enough... one must have sunshine, freedom, and a little flower. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
