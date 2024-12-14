@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Wheels of justice grind slow but grind fine.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The world makes way for the man who knows where he is going.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
