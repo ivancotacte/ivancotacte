@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If a thing is worth doing, it is worth doing badly.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>We lie the loudest when we lie to ourselves.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
