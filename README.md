@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't live the same year 75 times and call it a life.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Argue for your limitations and sure enough, they're yours.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
