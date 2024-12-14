@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>People who say it cannot be done should not interrupt those who are doing it.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The greatest test of courage on earth is to bear defeat without losing heart.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
