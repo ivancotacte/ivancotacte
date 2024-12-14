@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The ego wants comfort and certainty. The soul wants to live fully.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>In the long run, the sharpest weapon of all is a kind and gentle spirit.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
