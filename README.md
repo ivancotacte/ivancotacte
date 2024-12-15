@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Tension is who you think you should be. Relaxation is who you are.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
