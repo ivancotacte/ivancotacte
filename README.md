@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>We are all in the gutter, but some of us are looking at the stars. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
