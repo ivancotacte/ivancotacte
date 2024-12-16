@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
