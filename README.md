@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Success is about doing the right thing, not about doing everything right.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
