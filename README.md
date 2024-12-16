@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>To find yourself, think for yourself.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Fallacies do not cease to be fallacies because they become fashions.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
