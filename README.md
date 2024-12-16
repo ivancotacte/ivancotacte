@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Judgments prevent us from seeing the good that lies beyond appearances.  </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>There is no one giant step that does it. It's a lot of little steps.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
