@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Winners are not people who never fail, but people who never quit.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
