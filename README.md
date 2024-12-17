@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
