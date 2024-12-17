@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Do not use life to give life to death. Do not use death to bring death to life.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The opportunity of defeating the enemy is provided by the enemy himself.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
