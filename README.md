@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Strive for excellence, not perfection, because we don't live in a perfect world.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Life is too important to be taken seriously.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
