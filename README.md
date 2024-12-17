@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Motivation is what gets you started. Habit is what keeps you going.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Confidence is what you have before you understand the problem.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
