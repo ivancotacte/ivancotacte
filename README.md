@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You can often change your circumstances by changing your attitude.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
