@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Thinking is difficult, that's why most people judge.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Life is what happens to you while you're busy making other plans.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
