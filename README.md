@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Problems remain as problems because people are busy defending them rather than finding solutions.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Management is doing things right; leadership is doing the right things.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
