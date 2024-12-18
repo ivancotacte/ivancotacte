@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It's the little things done consistently over time, straight from your heart, that have the greatest impact.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
