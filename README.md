@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Stay away from people who makes you feel like you are wasting their time.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Life is a long lesson in humility. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
