@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The person who is his own master cannot tolerate another boss. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>People are doing the best that they can from their own level of consciousness.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
