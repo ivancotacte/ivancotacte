@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>My powers are ordinary. Only my application brings me success.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It doesn't matter what you do, only how well you do it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
