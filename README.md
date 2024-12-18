@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
