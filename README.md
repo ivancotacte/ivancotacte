@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Real growth comes through intense, difficult, and challenging situations.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
