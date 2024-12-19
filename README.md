@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't want anything. Then you get everything.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
