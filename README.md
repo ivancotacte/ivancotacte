@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If your mind is empty, it is always ready for anything, it is open to everything.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Simple words, repeated daily, can change your life.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
