@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Words can only have a positive effect on others if and when they are ready to listen.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
