@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Life is a process. We are a process. The universe is a process.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
