@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Every man desires to live long, but no man wishes to be old.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>In order to attain the impossible, one must attempt the absurd.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
