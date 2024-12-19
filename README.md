@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It is our experiences that mold us into who we are...during times of adversity our true character will show.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
