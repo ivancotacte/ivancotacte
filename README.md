@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Perfection is not attainable, but if we chase perfection we can catch excellence.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Our stories may be singular, but our destination is shared.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
