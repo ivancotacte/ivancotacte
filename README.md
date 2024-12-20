@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The pain of parting is nothing to the joy of meeting again.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The more something scares you, the more you should do it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
