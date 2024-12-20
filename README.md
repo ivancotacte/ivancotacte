@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If I have seen further than others, it is by standing upon the shoulders of giants.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>As you think, you travel, and as you love, you attract.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
