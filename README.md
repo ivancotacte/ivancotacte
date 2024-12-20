@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Great acts are made up of small deeds.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Men trust their ears less than their eyes.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
