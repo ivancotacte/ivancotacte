@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It is truth that liberates, not your effort to be free.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
