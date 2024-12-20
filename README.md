@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Small men think they are small; great men never know they are great. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't be pushed by your problems; be led by your dreams.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
