@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The more something scares you, the more you should do it.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Focus is a matter of deciding what things you're not going to do.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
