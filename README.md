@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>I think self-awareness is probably the most important thing towards being a champion. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Start each day with a positive thought and a grateful heart.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
