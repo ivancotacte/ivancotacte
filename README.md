@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You cannot push anyone up a ladder unless he is willing to climb a little himself.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Every saint has a past, and every sinner has a future.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
