@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Everyone must choose one of two pains: The pain of discipline or the pain of regret.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Champions keep playing until they get it right.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
