@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Cease striving. Then there will be transformation.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
