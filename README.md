@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If the only prayer you ever say in your entire life is thank you, it will be enough.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Failure is acceptable. Not trying is a whole different ball park.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
