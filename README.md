@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>I know not all that may be coming, but be it what it will, I'll go to it laughing.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Working hard for something we don't care about is called stress: Working hard for something we love is called passion.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
