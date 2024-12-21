@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Love the life you live, live the life you love.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
