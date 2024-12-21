@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Trust, like the soul, never returns once it is gone.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The future belongs to those who learn more skills and combine them in creative ways.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
