@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The longer we dwell on our misfortunes, the greater is their power to harm us.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>As long as a human being worries about when he will die, and what he has that is his, all of his works are zero.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
