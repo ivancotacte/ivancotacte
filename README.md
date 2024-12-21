@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
