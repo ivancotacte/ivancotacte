@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>What kills the creative force is not age or lack of talent, but our own spirit, our own attitude.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
