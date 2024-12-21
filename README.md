@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Wisdom is the oneness of mind that guides and permeates all things.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You cannot find peace by avoiding life.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
