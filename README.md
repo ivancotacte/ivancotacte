@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Never do things others can do and will do if there are things others cannot do or will not do.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It is only depth of character that determines the profundity with which we face life.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
