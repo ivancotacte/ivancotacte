@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't be afraid that you do not know something. Be afraid of not learning about it.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Your best life will not be found in comfort. It will be found in fighting for what you believe in.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
