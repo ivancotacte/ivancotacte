@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>When we think about our strengths, we are strong. When we think about our weaknesses, we are weak.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>We have more possibilities available in each moment than we realize.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
