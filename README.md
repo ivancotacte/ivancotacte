@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Poetry is written with tears, fiction with blood, and history with invisible ink.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You can only lose something that you have, but you cannot lose something that you are.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
