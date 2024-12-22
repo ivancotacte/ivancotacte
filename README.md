@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Success is the progressive realization of a worthy goal or ideal.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
