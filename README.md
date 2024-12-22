@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Nothing can bring you peace but yourself.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Adults are just children who earn money.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
