@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Do what you feel in your heart to be right - for you'll be criticized anyway.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It's necessary to get the losers out of your life if you want to live your dream.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
