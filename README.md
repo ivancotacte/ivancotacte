@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Unless you change how you are, you will always have what you got.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Everything that is done in the world is done by hope.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
