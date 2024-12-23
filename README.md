@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You're never given a dream without also being given the power to make it true.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It's not how much we give but how much love we put into giving.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
