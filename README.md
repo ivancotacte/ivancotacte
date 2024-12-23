@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>I have never in my life learned anything from any man who agreed with me.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
