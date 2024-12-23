@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You talk when you cease to be at peace with your thoughts.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
