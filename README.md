@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>There are no secrets to success. It is the result of preparation, hard work, and learning from failure.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It's not what you've got; it's what you do that makes the difference.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
