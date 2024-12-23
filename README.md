@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>How many times do you have to get hit over the head until you figure out who's hitting you?</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>No great discovery was ever made without a bold guess. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
