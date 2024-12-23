@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Where there is anger, there is always pain underneath.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
