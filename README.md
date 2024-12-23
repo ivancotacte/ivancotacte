@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Love and compassion are necessities, not luxuries. Without them, humanity cannot survive.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Life is like a beautiful melody, only the lyrics are messed up.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
