@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>One loses many laughs by not laughing at oneself.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
