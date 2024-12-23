@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The quality of your life is the quality of your relationships.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You can't get to a place that you don't believe exists.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
