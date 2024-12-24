@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Be the change that you want to see in the world.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
