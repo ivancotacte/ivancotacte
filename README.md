@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Never spend your money before you have earned it.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
