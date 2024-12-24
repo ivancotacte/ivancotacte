@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>There is nothing more truly artistic than to love people.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Sometimes adversity is what you need to face in order to become successful.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
