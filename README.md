@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Make failure your teacher, not your undertaker.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
