@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A friend to all is a friend to none.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The best revenge is to be unlike him who performed the injury.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
