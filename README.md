@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
