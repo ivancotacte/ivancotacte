@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Great things are not accomplished by those who yield to trends and fads and popular opinion.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
