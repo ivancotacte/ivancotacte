@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>I wasn't brave, I just didn't have time to be scared.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You can have results or excuses, but not both.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
