@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>An intelligence test sometimes shows a man how smart he would have been not to have taken it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
