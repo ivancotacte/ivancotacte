@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Sometimes adversity is what you need to face in order to become successful.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The more one judges, the less one loves.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
