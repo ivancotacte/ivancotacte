@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Force has no place where there is need of skill. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Growth is in a series of mistakes. That's the only way you learn.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
