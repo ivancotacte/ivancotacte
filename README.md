@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It's not whether you get knocked down, its whether you get back up.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
