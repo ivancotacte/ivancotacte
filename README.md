@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Never allow someone to be your priority while allowing yourself to be their option.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>There is nothing in the world so irresistibly contagious as laughter and good humor.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
