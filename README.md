@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>What lies behind us and what lies before us are tiny matters compared to what lies within us.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>I wasn't brave, I just didn't have time to be scared.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
