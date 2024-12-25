@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>What we know is a drop, what we don't know is an ocean. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>As a man thinketh in his heart, so shall he be.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
