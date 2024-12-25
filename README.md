@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>True life is lived when tiny changes occur.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Discontent is the first necessity of progress.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
