@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>To live outside the law, you must be honest. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>I don't ever give up. I'd have to be dead or completely incapacitated.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
