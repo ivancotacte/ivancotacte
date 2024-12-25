@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You have a brain and mind of your own. Use it, and reach your own decisions.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A strong man overcomes an obstacle, a wise man goes the whole way.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
