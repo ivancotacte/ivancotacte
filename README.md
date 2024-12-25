@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Whenever you find yourself on the side of the majority, it is time to reform.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Our deeds determine us, as much as we determine our deeds.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
