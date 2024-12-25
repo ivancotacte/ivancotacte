@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Be mindful. Be grateful. Be positive. Be true. Be kind.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>What the mind can conceive, it can achieve.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
