@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The first step is to establish that something is possible; then probability will occur.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Wherever you are, it's the place you need to be.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
