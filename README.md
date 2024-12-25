@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Keep your face always toward the sunshine -  shadows will fall behind you.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Even the smallest person can change the course of the future.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
