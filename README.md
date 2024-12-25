@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Be brave to stand for what you believe in even if you stand alone.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
