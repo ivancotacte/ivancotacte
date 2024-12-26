@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you don't know where you're going, you will probably end up somewhere else.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Failure is an option here. If things are not failing, you are not innovating enough.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
