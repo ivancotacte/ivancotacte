@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Engage in those actions and thoughts that nurture the good qualities you want to have.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
