@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The person who never made a mistake never tried anything new.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You cannot teach a crab to walk straight.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
