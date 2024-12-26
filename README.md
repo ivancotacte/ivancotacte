@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It's not how much money you make, it's how much money you keep.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
