@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>When you are totally at peace with yourself, nothing can shake you.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
