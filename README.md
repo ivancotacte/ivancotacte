@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
