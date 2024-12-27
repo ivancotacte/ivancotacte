@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>He that can have patience can have what he will.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
