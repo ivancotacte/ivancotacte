@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Within every desire is the mechanics of its fulfillment.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>To become what you are not, behave as you do not.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
