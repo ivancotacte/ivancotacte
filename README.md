@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
