@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The man who does not value himself, cannot value anything or anyone.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
