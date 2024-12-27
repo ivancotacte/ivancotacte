@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The attempt to escape from pain, is what creates more pain.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
