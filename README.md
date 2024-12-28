@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Words used to attract the dull of wit are not to be relied on.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If someone betrays you once, it's their fault; if they betray you twice, it's your fault.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
