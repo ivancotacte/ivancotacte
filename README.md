@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If someone betrays you once, it's their fault; if they betray you twice, it's your fault.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
