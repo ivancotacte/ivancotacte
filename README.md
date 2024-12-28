@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Trust is the foundation of great leadership.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Intelligent men are cruel. Stupid men are monstrously cruel.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
