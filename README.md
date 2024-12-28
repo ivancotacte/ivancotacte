@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Sometimes, the only way to evolve is to open ourselves fully.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Friends ask you questions; enemies question you.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
