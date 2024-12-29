@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>We will act consistently with our view of who we truly are, whether that view is accurate or not.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Wake up and smile! Wake up and be grateful!</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
