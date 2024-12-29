@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>As mortals, we're ruled by conditions, not by ourselves.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Rivers know this: there is no hurry. We shall get there some day.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
