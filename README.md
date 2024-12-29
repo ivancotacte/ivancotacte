@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>When you have a dream, you've got to grab it and never let go.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
