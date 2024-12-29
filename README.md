@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Reversing your treatment of the man you have wronged is better than asking his forgiveness.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
