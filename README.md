@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Human beings can alter their lives by altering their attitudes of mind.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
