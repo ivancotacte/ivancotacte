@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Outstanding people have one thing in common: an absolute sense of mission.  </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>All has not been said and never will be.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
