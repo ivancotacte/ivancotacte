@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Of all men's miseries the bitterest is this: to know so much and to have control over nothing. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
