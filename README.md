@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>To arrive at the simplest truth requires years of contemplation.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Do you have the patience to wait until your mud settles and the water is clear?</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
