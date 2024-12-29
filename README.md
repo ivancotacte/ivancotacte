@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You may be disappointed if you fail, but you are doomed if you don't try. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Outstanding people have one thing in common: an absolute sense of mission.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
