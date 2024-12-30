@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Cleverness is not wisdom.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A day wasted on others is not wasted on one's self.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
