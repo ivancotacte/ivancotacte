@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>She who loves roses must be patient and not cry out when she is pierced by thorns.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The smallest act of kindness is worth more than the greatest intention.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
