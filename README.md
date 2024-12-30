@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Let not your mind run on what you lack as much as on what you have already.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Public opinion is the worst of all opinions.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
