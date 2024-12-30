@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Walk slowly but never walk backward.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The road to success and the road to failure are almost exactly the same.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
