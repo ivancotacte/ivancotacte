@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Time flies whether you are having fun or not.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Listening well is as powerful as talking well, and is also as essential to true conversation.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
