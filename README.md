@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If everyone is moving forward together, then success takes care of itself.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>How much pain they have cost us, the evils which have never happened.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
