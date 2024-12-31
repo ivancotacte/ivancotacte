@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Do not look upon this world with fear and loathing. Bravely face whatever the gods offer.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
