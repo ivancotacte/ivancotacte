@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Great minds are always feared by lesser minds.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Thinking is the hardest work there is. That is why so few people engage in it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
