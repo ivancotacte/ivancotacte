@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>One of the first signs of the beginning of understanding is the wish to die. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
