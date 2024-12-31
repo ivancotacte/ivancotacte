@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You will face many defeats in life, but never let yourself be defeated.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Remember, today is the tomorrow you worried about yesterday.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
