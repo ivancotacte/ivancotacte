@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Life comes at us in waves. We can't predict or control those waves, but we can learn to surf.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>To improve is to change, so to be perfect is to change often.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
