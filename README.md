@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>What you get by achieving your goals is not as important as what you become by achieving your goals.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
