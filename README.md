@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>One's best success comes after their greatest disappointments.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
