@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A Quitter never wins - and - a Winner never quits.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you want work well done, select a busy man; the other kind has no time.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
