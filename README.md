@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The dead receive more flowers than the living because regret is stronger than gratitude.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>My definition of success is control.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
