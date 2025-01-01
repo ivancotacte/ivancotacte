@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The big thing is to make a winning effort. I'm not obsessed with wins.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
