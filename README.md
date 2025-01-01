@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The big thing is to make a winning effort. I'm not obsessed with wins.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
