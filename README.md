@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
