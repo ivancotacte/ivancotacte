@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Walking with a friend in the dark is better than walking alone in the light.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Catch, then, O catch the transient hour; Improve each moment as it flies! </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
