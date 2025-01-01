@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>In order to control myself I must first accept myself by going with and not against my nature.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>There is no absolute success in the world, only constant progress.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
