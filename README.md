@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The divine is not something high above us. It is in heaven, it is in earth, it is inside us.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You're only given a little spark of madness. You mustn't lose it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
