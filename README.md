@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>He who laughs at himself never runs out of things to laugh at.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Get mad, then get over it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
