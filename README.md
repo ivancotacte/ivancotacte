@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Stop comparing yourself to others and focus on your own improvement.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
