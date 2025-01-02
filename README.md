@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You play the hand you're dealt. I think the game's worthwhile.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
