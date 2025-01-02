@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>People have the illusion that all over the world, all the time, all kinds of fantastic things are happening.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
