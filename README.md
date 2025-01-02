@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The best teacher is experience and not through someone's distorted point of view.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
