@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Character is doing what you don't want to do but know you should do.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
