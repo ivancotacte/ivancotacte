@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>No kind action ever stops with itself. One kind action leads to another. Good example is followed.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
