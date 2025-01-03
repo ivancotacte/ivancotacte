@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A lot of people have gone further than they thought they could because someone else thought they could.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Listen to what you know instead of what you fear.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
