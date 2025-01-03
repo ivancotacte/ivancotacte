@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Your business is not to 'get somewhere' - it is to be here.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
