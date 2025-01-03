@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Great things are not done by impulse, but by a series of small things brought together.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>In order to be walked over, you have to be lying down.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
