@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It is better to fail in originality than to succeed in imitation.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Nothing is more creative...nor destructive...than a brilliant mind with a purpose.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
