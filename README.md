@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Know the rules well, so you can break them effectively.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Do not follow the ideas of others, but learn to listen to the voice within yourself.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
