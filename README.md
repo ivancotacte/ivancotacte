@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Happiness is a quality of the soul...not a function of one's material circumstances.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A little progress each day adds up to big results.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
