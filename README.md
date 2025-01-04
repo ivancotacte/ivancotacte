@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>There are no limitations to the mind except those we acknowledge...</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
