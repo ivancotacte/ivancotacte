@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>What is planted in each person's soul will sprout.  </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Words have no power to impress the mind without the exquisite horror of their reality.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
