@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Not why the addiction but why the pain.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
