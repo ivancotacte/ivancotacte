@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Reversing your treatment of the man you have wronged is better than asking his forgiveness.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>People are not disturbed by things, but by the views they take of them.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
