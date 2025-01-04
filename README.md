@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>What gets measured gets improved.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Surrender to what is. Let go of what was. Have faith in what will be.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
