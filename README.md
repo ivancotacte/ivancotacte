@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The successful warrior is the average man, with laser-like focus.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>What the caterpillar calls the end of the world, the master calls a butterfly.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
