@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The measure of who we are is what we do with what we have.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Time is a game played beautifully by children.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
