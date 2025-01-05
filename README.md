@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>There is a wisdom of the head, and there is a wisdom of the heart.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Nothing has any power over me other than that which I give it through my conscious thoughts.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
