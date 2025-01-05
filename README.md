@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Maybe you are searching among the branches, for what only appears in the roots.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
