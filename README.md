@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It's not whether you get knocked down, its whether you get back up.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
