@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Life needs to be more than just solving problems every day. You need to wake up and be excited about the future.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>In order to attain the impossible, one must attempt the absurd.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
