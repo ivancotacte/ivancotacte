@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You just can't beat the person who never gives up. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It's not whether you get knocked down, its whether you get back up.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
