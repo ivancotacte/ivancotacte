@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>That some achieve great success is proof to all that others can achieve it as well.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You have to give up some of the old so that you can make room for the new.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
