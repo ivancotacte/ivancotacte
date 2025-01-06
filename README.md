@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Change happens when the pain of holding on becomes greater than the fear of letting go.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Inspire yourself to be great. Being good isn't good enough.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
