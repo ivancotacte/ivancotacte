@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Tis not too late to seek a newer world.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The key to immortality is first living a life worth remembering. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
