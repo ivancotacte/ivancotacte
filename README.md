@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Over time, loneliness gets inside you and doesn't go away.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>There are dark shadows on the earth, but its lights are stronger in the contrast.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
