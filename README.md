@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>New beginnings are disguised as painful endings.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Every strike brings me closer to the next home run. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
