@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't let the fear of losing be greater than the excitement of winning.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Life is trying things to see if they work.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
