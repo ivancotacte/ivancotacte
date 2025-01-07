@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>When the fish is caught we pay no more attention to the trap.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Peace is not the absence of conflict, but the ability to cope with it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
