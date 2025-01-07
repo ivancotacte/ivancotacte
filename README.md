@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>There is no significance in life without struggle.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The primary cause of unhappiness is never the situation but your thoughts about it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
