@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Anger begins with folly, and ends with repentance. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
