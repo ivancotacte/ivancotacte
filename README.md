@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Your world is a living expression of how you are using and have used your mind.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Fear of death is fear of the Unknown.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
