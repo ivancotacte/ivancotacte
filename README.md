@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Conquer the devils with a little thing called love.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Man invented language to satisfy his deep need to complain.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
