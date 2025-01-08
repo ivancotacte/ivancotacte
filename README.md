@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Out of your vulnerabilities will come your strength.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Comedy = tragedy + time.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
