@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
