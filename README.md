@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If it entertains you now but will bore you someday, it's a distraction. Keep looking.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Live simply, expect little, give much.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
