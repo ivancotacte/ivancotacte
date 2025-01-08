@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>When the fish is caught we pay no more attention to the trap.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Your mind will make you rich or poor, depending on the use you put to it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
