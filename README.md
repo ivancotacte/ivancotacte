@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Know your gifts and share them.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You can never get enough of what you don't need to make you happy.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
