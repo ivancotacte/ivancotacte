@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>No man becomes rich unless he enriches others.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>When the fish is caught we pay no more attention to the trap.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
