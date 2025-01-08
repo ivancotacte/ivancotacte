@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Those who are enlightened never stop forging themselves.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Life has more imagination than we carry in our dreams.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
