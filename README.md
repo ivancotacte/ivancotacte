@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Be the change that you want to see in the world.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Fear can hold you prisoner. Hope can set you free.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
