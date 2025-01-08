@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Life does not get better by chance, it gets better by change.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
