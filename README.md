@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It is during our darkest moments that we must focus to see the light.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Have the fearless attitude of a hero and the loving heart of a child.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
