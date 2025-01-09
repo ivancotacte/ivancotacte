@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Many people spend more time looking at their failures than focusing on their successes.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Give more than you think you can, trusting that you are richer than you think.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
