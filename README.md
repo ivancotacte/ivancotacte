@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Have the fearless attitude of a hero and the loving heart of a child.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Inner peace is when you realize that, in the end, nothing matters.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
