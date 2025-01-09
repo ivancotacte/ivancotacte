@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The only man who never makes mistakes is the man who never does anything.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Rudeness is the weak man's imitation of strength.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
