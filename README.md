@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>How you think when you lose determines how long it will be until you win.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you do not conquer self, you will be conquered by self.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
