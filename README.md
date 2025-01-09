@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A zen master's life is one continuous mistake.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Your business is not to 'get somewhere' - it is to be here.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
