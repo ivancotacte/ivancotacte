@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>First say to yourself what you would be; and then do what you have to do.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
