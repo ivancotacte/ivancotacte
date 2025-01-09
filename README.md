@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Life must be a constant education; one must learn everything, from speaking to dying.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't just sit there. Do something. The answers will follow.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
