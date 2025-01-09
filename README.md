@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>I have no methods; all I do is accept people as they are.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Great ones are willing to get burned time and again as they sharpen their swords in the fire.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
