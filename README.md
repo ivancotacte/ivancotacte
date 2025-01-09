@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>But better die than live mechanically a life that is a repetition of repetitions.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The best time to plant a tree was 20 years ago. The second best time is now.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
