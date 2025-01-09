@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The more knowledge you have, the more you're free to rely on your instincts.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>In nature there is no alienation. Everything belongs.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
