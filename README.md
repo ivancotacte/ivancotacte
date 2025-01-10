@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The quicker you let go of old cheese, the sooner you find new cheese.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>We must not sit down and wait for miracles. Up and be going!</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
