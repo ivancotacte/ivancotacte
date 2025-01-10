@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You have to make time, even for something as universal as staring at the stars.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
