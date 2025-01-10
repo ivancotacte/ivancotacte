@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
