@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A vital part of the happiness formula is self-discipline. Whoever conquers himself knows deep happiness that fills the heart with joy.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
