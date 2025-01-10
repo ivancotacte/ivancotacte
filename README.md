@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Integrity is telling myself the truth. And honesty is telling the truth to other people.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
