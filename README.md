@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Only I can change my life. No one can do it for me.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>We have a choice everyday regarding the attitude we will embrace for that day.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
