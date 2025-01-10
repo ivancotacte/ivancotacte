@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Public opinion is the worst of all opinions.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Intense love does not measure, it just gives.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
