@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Not doing it is certainly the best way to not getting it.  </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The purpose of life is to contribute in some way to making things better.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
