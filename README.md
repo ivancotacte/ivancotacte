@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The beautiful journey of today can only begin when we learn to let go of yesterday.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>What the mind can conceive and believe, and the heart desire, you can achieve.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
