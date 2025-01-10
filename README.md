@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Try not to become a man of success, but rather try to become a man of value.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Stop comparing yourself to others and focus on your own improvement.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
