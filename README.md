@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Leaders think and talk about solutions. Followers think and talk about the problems.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you think you can do a thing or think you can't do a thing, you're right.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
