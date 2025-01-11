@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>In the beginner's mind there are many possibilities, but in the expert's mind there are few.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You're braver than you believe, and stronger than you seem, and smarter than you think.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
