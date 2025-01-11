@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Anything worth doing is worth doing slowly.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
