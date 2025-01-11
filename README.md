@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Remember the entrance to the sanctuary is inside you.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The quality of your commitments will determine the course of your life.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
