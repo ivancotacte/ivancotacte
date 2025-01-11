@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Character is the result of two things: mental attitude and the way we spend our time.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
