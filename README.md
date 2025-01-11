@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Kind words can be short and easy to speak, but their echoes are truly endless.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't look for meaning in the words. Listen to the silences.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
