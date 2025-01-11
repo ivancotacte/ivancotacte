@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The mind can calculate, but the spirit yearns, and the heart wants what the heart wants.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Why compare yourself with others? No one in the entire world can do a better job of being you than you.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
