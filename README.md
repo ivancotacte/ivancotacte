@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Rich people have small TVs and big libraries, and poor people have small libraries and big TVs.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
