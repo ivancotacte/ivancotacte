@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Today I begin a new life. I will greet this day with love in my heart.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The person who says something is impossible should not interrupt the person who is doing it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
