@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Life is like stepping onto a boat which is about to sail out to sea and sink.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
