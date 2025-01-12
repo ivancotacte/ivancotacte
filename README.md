@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
