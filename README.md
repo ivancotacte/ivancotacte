@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>All our dreams can come true, if we have the courage to pursue them.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
