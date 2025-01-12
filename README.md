@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It all depends on what you choose to believe.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Write to help yourself, publish to help others.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
