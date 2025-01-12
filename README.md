@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you correct your mind, the rest of your life will fall into place.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
