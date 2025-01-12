@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You become a worrier by practicing worry. You become free of worry by practicing the opposite.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Fears are nothing more than a state of mind.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
