@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>What one does is what counts. Not what one had the intention of doing.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>With the new day comes new strength and new thoughts.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
