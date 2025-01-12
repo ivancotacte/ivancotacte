@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Self-knowledge is the beginning of self-correction.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Greatness comes from living with purpose and passion.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
