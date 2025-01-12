@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Respect was invented to cover the empty place where love should be.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A dead thing can go with the stream, but only a living thing can go against it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
