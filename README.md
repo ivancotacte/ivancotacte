@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Good things aren't supposed to just fall into your lap.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Life is like underwear, should be changed twice a day.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
