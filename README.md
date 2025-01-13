@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Be yourself; everyone else is already taken </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Setting goals is the first step in turning the invisible into the visible.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
