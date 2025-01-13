@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Do not take life too seriously. You will never get out of it alive.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Failure is a prerequisite for great success. If you want success faster, double your rate of failure.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
