@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The eyes of others our prisons; their thoughts our cages.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
