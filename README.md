@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A dream you dream alone is only a dream. A dream you dream together is reality.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Human beings believe just as they breathe - in order to survive.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
