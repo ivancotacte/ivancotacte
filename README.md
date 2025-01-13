@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You can never cross the ocean unless you have the courage to lose sight of the shore.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Your chances of success in any undertaking can always be measured by your belief in yourself.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
