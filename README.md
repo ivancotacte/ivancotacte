@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Trust in dreams, for in them is the hidden gate to eternity.  </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Who looks outside, dreams; who looks inside, awakes.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
