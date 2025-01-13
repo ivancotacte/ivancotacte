@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You'll never find rainbows if you're looking down.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
