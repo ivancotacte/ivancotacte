@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Make yourself so useful to other people, that they think you are irreplaceable.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The only limits in your life are those that you set yourself.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
