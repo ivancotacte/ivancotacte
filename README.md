@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Most of the evil in this world is done by people with good intentions.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Good things aren't supposed to just fall into your lap.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
