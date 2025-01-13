@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
