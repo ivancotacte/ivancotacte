@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>No one is useless in this world who lightens the burdens of another.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You are the only problem you will ever have and you are the only solution.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
