@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Success is getting what you want... Happiness is wanting what you get.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
