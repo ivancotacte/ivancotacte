@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>People who have goals succeed because they know where they're going. It's that simple.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
