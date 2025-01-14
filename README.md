@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Truth is the offspring of silence and meditation.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>All life is an experiment. The more experiments you make, the better.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
