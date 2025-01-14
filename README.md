@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Your goals are the road maps that guide you and show you what is possible for your life.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>When you can't make them see the light, make them feel the heat.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
