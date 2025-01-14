@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Being ignorant is not so much a shame, as being unwilling to learn.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
