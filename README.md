@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Use your smile to change the world but don't let the world change your smile.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Be - don't try to become </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
