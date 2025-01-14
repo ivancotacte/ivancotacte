@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Do Something. If it works, do more of it. If it doesn't, do something else.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
