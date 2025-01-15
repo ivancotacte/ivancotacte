@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
