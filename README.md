@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Action is the foundational key to all success.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Arise, slay thy enemies, enjoy a prosperous kingdom.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
