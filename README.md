@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't gain the world and lose your soul. Wisdom is better than silver and gold.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The scariest monsters are the ones that lurk within our souls.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
