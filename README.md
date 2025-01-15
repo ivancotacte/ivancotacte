@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It is easier to fight for one's principles than to live up to them. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
