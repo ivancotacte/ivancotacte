@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>With self-discipline, almost anything is possible.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The measure of wisdom is how calm you are when facing any given situation.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
