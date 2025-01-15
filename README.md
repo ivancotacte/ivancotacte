@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>All human beings can alter their lives by altering their attitudes.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>All that a man achieves and all that he fails to achieve is the direct result of his own thoughts.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
