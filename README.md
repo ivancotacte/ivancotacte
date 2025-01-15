@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>When you judge another, you do not define them, you define yourself</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
