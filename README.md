@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You don't have to control your thoughts; you just have to stop letting them control you.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>What you seek is seeking you.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
