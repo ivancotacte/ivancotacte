@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>All that a man achieves and all that he fails to achieve is the direct result of his own thoughts.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Knowing is not enough, we must apply. Willing is not enough, we must do.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
