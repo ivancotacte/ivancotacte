@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>I alone cannot change the world, but I can cast a stone across the waters to create many ripples.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
