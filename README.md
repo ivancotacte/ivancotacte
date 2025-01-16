@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>From error to error one discovers the entire truth.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Amateurs sit and wait for inspiration, the rest of us just get up and got to work.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
