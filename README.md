@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>I am thankful to all those who said no. It's because of them, I did it myself.  </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
