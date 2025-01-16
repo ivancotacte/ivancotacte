@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Life is what happens to you while you're busy making other plans.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
