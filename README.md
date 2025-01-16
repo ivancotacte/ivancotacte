@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You are not the drop in the ocean, but the ocean in the drop.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Keep your friends close, and your enemies closer.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
