@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>I alone cannot change the world, but I can cast a stone across the waters to create many ripples.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Do not allow your inner doubts to keep you from achieving what you can do.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
