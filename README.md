@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Life and the simple beauty of it is too good to pass up.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Never settle for the crumbs of life.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
