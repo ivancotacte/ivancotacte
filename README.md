@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It is what we make out of what we have, not what we are given, that separates one person from another.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Pursue what catches your heart, not what catches your eyes.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
