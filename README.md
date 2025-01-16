@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Big people don't make people feel small.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
