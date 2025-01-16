@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Pursue what catches your heart, not what catches your eyes.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Words are the clothes thoughts wear.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
