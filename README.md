@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Tension is who you think you should be. Relaxation is who you are.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
