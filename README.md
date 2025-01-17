@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Do the difficult things while they are easy and do the great things while they are small.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The deeper the truth in a creative work, the longer it will live.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
