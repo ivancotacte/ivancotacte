@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>There is no greater agony than bearing an untold story inside you.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you don't break your ropes while you're alive, do you think ghosts will do it after?</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
