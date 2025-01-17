@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Circumstances do not make the man, they reveal him.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
