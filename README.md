@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Your gift is something that you can do innately better than anything else.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It's not what you've got; it's what you do that makes the difference.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
