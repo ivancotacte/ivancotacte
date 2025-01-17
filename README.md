@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Truth is not something outside to be discovered, it is something inside to be realized.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
