@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The more something scares you, the more you should do it.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>There is no greater agony than bearing an untold story inside you.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
