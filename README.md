@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Old age is like everything else. To make a success of it, you've got to start young.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't let the noise of others opinions drown out your inner voice.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
