@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A real friend is one who walks in when the rest of the world walks out.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>To travel is to be alive, but to get somewhere is to be dead.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
