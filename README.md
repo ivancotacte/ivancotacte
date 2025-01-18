@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The best way to understanding is a few good examples.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The greatest gift that you can give to others is the gift of unconditional love and acceptance. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
