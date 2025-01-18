@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It's easier to go down a hill than up it but the view is much better at the top.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
