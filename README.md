@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Rich people have small TVs and big libraries, and poor people have small libraries and big TVs.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
