@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The finish line is just the beginning of a whole new race.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
