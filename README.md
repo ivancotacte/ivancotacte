@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>I am who I am today because of the choices I made yesterday.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Only in the agony of parting do we look into the depths of love.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
