@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The dream is free, but the hustle is sold separately.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
