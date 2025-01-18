@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Successful people do what unsuccessful people are not willing to do.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
