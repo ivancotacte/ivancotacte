@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
