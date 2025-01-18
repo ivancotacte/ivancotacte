@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Before you can see the Light, you have to deal with the darkness.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It is our choices that show what we truly are, far more than our abilities.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
