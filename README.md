@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>To be angry is to revenge the faults of others on ourselves.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It is literally true that you can succeed best and quickest by helping others succeed.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
