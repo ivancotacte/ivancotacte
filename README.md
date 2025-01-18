@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The foolish reject what they see, not what they think; the wise reject what they think, not what they see.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>When you are content to be simply yourself and don't compare or compete, everybody will respect you. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
