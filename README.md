@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Magic is believing in yourself, if you can do that, you can make anything happen.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't want anything. Then you get everything.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
