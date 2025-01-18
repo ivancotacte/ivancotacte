@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You need to be doing fewer things for more effect instead of doing more things with side effects.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A goal is a dream with a deadline.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
