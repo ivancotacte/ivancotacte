@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Just throw away all thoughts of imaginary things, and stand firm in that which you are.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Be approximately right rather than exactly wrong.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
