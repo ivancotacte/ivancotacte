@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>I must also have a dark side if I am to be whole.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Each time we don't say what we wanna say, we're dying.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
