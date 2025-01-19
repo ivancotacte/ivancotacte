@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Be as fluid as water, do not give your enemies anything solid to attack.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>One small positive thought can change your whole day.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
