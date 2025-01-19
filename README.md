@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Focus on how far you have come in life rather than looking at the accomplishments of others.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Dreams are the touchstones of our characters.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
