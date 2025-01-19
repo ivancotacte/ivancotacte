@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The world is open for play, everything and everybody is mockable in a wonderful way.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Dream big and dare to fail.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
