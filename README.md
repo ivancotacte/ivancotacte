@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Nothing makes a man broad-minded like adversity.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Failure is feedback. Learn from it and move on.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
