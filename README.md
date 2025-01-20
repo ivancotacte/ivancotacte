@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Continuous effort - not strength or intelligence - is the key to unlocking our potential.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>No problem can be solved from the same level of consciousness that created it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
