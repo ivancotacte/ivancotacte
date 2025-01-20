@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Generosity is giving more than you can, and pride is taking less than you need.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
