@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>One beam, no matter how big, cannot support an entire house on its own.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Every failure brings with it the seed of an equivalent success.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
