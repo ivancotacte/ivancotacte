@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Work is always an antidote to depression.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Before anything else, preparation is the key to success.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
