@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Do not be so open-minded that your brains fall out.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Everyday is a second chance.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
