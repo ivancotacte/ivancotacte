@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Sometimes letting things go is an act of far greater power than defending or hanging on.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you can see it in your mind, you can hold it in your mind.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
