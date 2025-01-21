@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Your only obligation in any lifetime is to be true to yourself.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Dream big. Start small. But most of all, start.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
