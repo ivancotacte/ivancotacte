@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>To the world you may be one person; but to one person you may be the world.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>One mistake does not have to rule a person's entire life.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
