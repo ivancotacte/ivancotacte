@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It is ignorance that causes most mistakes.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
