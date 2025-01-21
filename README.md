@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A loving heart is the truest wisdom.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Conflict cannot survive without your participation. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
