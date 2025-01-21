@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Unless someone truly has the power to say no, they never truly have the power to say yes.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Happiness is only real, when shared.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
