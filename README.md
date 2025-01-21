@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Your neighbor is the man who needs you.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>No one can compete with you on being you. Most of life is a search for who and what needs you the most.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
