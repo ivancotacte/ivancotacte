@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You're always free to change your mind and choose a different future, or a different past.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
