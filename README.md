@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>When you have to make a choice and don't make it, that is in itself a choice.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>There is no fear for one whose mind is not filled with desires.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
