@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The hardest arithmetic to master is that which enables us to count our blessings.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>One must be deeply aware of the impermanence of the world.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
