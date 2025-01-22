@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Turn off your mind, relax, and float downstream.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Every hour of every day is an unspeakably perfect miracle.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
