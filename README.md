@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you've made a mistake, it's better just to laugh at it.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Life needs to be more than just solving problems every day. You need to wake up and be excited about the future.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
