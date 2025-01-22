@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Never regret your past. Rather, embrace it as the teacher that it is.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Ponder and deliberate before you make a move.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
