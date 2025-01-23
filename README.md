@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Your mind is infinite, it's your doubts that are limiting.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Follow your heart, listen to your inner voice, stop caring about what others think.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
