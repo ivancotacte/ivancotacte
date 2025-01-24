@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Opportunity often comes disguised in the form of misfortune or temporary defeat.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
