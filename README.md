@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Do not look for a sanctuary in anyone except your self.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
