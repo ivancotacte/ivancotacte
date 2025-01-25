@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Love never keeps a man from pursuing his destiny.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The world doesn't always give you want, but it often gives you what you need.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
