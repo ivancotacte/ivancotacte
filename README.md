@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The world doesn't always give you want, but it often gives you what you need.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
