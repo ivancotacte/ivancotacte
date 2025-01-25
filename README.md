@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>TEAMWORK: the fuel that allows common people attain uncommon results.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
