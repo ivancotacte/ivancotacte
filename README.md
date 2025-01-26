@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Nothing ever goes away until it has taught us what we need to know.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't settle, and don't struggle.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
