@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A vital part of the happiness formula is self-discipline. Whoever conquers himself knows deep happiness that fills the heart with joy.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It is truth that liberates, not your effort to be free.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
