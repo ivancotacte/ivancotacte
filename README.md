@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Turn your face to the sun, as flowers know how to do.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>We are willing to believe anything other than the truth.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
