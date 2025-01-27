@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Only those who dare to fail greatly can ever achieve greatly.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The degree of responsibility you take for your life determines how much change you can create in it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
