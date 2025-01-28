@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you are going to achieve excellence in big things, you develop the habit in little matters.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>There is only one thing that makes a dream impossible to achieve: the fear of failure.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
