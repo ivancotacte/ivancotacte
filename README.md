@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Confidence is consistency of thinking about what is possible and how to make it possible.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Focused, hard work is the real key to success.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
