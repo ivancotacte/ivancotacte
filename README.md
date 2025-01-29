@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Life belongs to the living, and he who lives must be prepared for changes.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
