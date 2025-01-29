@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Look to the beauty of this day, miracles are all around you.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you are lucky enough to find love, remember it is there and don't throw it away.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
