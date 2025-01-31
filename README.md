@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Absence makes the heart grow fonder.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A rational person can find peace by cultivating indifference to things outside of their control.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
