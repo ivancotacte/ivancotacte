@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Words are the clothing of our thoughts.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Let the beauty of what you love be what you do.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
