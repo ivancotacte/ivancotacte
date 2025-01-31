@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Force has no place where there is need of skill. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
