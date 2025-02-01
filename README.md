@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Work as though you would live forever, and live as though you would die today. Go another mile.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Death is not an ending. It is a transformation.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
