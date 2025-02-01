@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Mind is the creator of everything. You should therefore guide it to create only good.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
