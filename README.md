@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The Truth is realized in an instant; the Act is practiced step by step.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
