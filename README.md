@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Age is a very high price to pay for maturity.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
