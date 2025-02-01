@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>There are three classes of people: those who see. Those who see when they are shown. Those who do not see.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Mind is the creator of everything. You should therefore guide it to create only good.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
