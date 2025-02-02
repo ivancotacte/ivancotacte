@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It's not the love you make. It's the love you give. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
