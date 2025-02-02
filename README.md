@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>When reading, only read. When eating, only eat. When thinking, only think.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A man is literally what he thinks.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
