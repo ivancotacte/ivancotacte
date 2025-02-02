@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
