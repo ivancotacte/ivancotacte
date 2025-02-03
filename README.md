@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Human beings believe just as they breathe - in order to survive.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The most creative act you will ever undertake is the act of creating yourself.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
