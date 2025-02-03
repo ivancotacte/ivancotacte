@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Conscience is a dog that does not stop us from passing but that we cannot prevent from barking.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Man invented language to satisfy his deep need to complain.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
