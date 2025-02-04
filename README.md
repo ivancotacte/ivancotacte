@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>To wish you were someone else is to waste the person you are.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You are not only responsible for what you say, but also for what you do not say. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
