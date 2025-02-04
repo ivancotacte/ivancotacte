@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Kindness is a language which the deaf can hear and the blind can see.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you think adventure is dangerous, try routine; it is lethal.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
