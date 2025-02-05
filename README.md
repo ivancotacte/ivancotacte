@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't be pushed by your problems; be led by your dreams.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
