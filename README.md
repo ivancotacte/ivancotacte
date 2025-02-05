@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Nothing is too high for a man to reach, but he must climb with care and confidence</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The river that flows in you also flows in me.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
