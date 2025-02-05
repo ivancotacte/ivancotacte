@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You become stronger with every problem you face and every obstacle you overcome.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
