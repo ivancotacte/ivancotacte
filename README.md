@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Remember, hope is a good thing, maybe the best of things.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Happiness is the meaning and the purpose of life, the whole aim and end of human existence.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
