@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It doesn't matter how much you want. What really matters is how much you want it.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>However difficult life may seem, there is always something you can do and succeed at.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
