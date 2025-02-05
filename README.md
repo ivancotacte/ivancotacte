@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Happiness is the meaning and the purpose of life, the whole aim and end of human existence.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Work for something because it is good, not just because it stands a chance to succeed.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
