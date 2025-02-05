@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It's not what you pay a man, but what he costs you that counts.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>What you get by achieving your goals is not as important as what you become by achieving your goals.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
