@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It is easy to discover what another has discovered before.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The wiser you get, the less you care to look like a fool.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
