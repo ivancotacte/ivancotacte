@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The search for happiness is one of the chief sources of unhappiness.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Whatever happens always happens on time.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
