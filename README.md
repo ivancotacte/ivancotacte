@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Smell the cheese often so you know when it is getting old.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Your life does not get better by chance, it gets better by change.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
