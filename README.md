@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Why live an ordinary life, when you can live an extraordinary one.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>What do we live for, if it is not to make life less difficult for each other?</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
