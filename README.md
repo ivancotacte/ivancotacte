@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Being ignorant is not so much a shame, as being unwilling to learn.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Why live an ordinary life, when you can live an extraordinary one.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
