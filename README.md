@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Whatever you think the world is withholding from you, you are withholding from the world.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If light is in your heart, you will find your way home.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
