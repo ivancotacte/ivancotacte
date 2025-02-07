@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You use a glass mirror to see your face; you use works of art to see your soul.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
