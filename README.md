@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>To avoid criticism, do nothing, say nothing, and be nothing.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A single act of kindness throws out roots in all directions, and the roots spring up and make new trees.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
