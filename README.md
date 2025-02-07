@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Rest and be kind, you don't have to prove anything.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
