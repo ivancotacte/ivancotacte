@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The eye with which I see God is the same eye with which God sees me.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Never argue with stupid people, they will drag you down to their level and then beat you with experience.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
