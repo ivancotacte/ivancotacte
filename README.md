@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Instead of thinking outside the box, get rid of the box.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The only thing new in the world is the history you do not know.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
