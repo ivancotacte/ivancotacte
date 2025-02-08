@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Given the choice between the experience of pain and nothing, I would choose pain.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>We can either add to our character each day, or we can fritter away our energies in distractions.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
