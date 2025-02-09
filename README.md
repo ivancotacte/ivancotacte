@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Nothing makes a man broad-minded like adversity.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>To a mind that is still, the entire universe surrenders.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
