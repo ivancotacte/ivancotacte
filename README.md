@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
