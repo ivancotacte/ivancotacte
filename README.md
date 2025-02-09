@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The only limits in your life are those that you set yourself.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>I cannot make my days longer so I strive to make them better.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
