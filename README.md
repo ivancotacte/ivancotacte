@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The foolish reject what they see, not what they think; the wise reject what they think, not what they see.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
