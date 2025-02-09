@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>I am not proud, but I am happy; and happiness blinds, I think, more than pride.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The ability to observe without evaluating is the highest form of intelligence.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
