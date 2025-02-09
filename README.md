@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If what you're doing is not your passion, you have nothing to lose.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Where there is no struggle, there is no strength. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
