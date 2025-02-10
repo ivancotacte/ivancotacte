@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The older you get the stronger the wind gets - and it's always in your face.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
