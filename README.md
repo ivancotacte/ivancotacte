@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It doesn't matter where you are, you are nowhere compared to where you can go.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Real growth comes through intense, difficult, and challenging situations.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
