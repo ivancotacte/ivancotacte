@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Some people are old at 18 and some are young at 90. Time is a concept that humans created.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The more reasons you have for achieving your goal, the more determined you will become.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
