@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>One loses many laughs by not laughing at oneself.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
