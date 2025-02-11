@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>No man is happy unless he believes he is.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Educating the mind without educating the heart is no education at all.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
