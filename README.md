@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>When we allow negative messages to fester in our head, they take on a life of their own.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
