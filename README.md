@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The goal of an artist is to create the definitive work that cannot be surpassed.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>To bear trials with a calm mind robs misfortune of its strength and burden.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
