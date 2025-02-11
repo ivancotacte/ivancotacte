@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>No great discovery was ever made without a bold guess. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>I like the dreams of the future better than the history of the past.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
