@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Behind every beautiful thing, there's some kind of pain.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
