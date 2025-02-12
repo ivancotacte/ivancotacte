@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>My mind seems to have become a kind of machine for grinding general laws out of large collections of facts.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Always keep your eyes open. Keep watching. Because whatever you see can inspire you.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
