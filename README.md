@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you cannot understand something, then you have understood it incorrectly.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
