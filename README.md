@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Logic is like the sword - those who appeal to it shall perish by it.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You have as much laughter as you have faith.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
