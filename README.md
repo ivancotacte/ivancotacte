@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>In matters of style, swim with the current; in matters of principle, stand like a rock.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
