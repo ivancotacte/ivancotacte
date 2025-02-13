@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>I do not exist to impress the world. I exist to live my life in a way that will make me happy.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
