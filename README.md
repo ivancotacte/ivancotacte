@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Do you want to know who you are? Don't ask. Act! Action will delineate and define you.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>When you are content to be simply yourself and don't compare or compete, everybody will respect you. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
