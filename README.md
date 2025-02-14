@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Happiness depends on your mindset and attitude.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
