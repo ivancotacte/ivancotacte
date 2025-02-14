@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Empty yourself of everything - let the mind become still.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>People seldom do what they believe in. They do what is convenient, then repent.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
