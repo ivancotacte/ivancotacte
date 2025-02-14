@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Heart is what separates the good from the great.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
