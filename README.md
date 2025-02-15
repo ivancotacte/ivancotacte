@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A good stance and posture reflect a proper state of mind.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>How to get more opportunity: Create more opportunity for others.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
