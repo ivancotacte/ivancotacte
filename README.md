@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you want peace, you won't get it with violence.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you do not conquer self, you will be conquered by self.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
