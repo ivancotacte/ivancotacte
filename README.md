@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Courage is fear that has said its prayers and decided to go forward anyway.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A hut full of laughter is richer than a palace full of sadness.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
