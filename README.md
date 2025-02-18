@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
