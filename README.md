@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It doesn't matter where you are coming from. All that matters is where you are going. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
