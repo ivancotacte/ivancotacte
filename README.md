@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>For changes to be of any true value, they've got to be lasting and consistent.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
