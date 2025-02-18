@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Creativity is the greatest rebellion in existence.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Hardly anybody recognizes the most significant moments of their life at the time they happen.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
