@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>To achieve, you need thought. You have to know what you are doing and that's real power.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The only normal people are the ones you don't know very well.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
