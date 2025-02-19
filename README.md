@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Do not bite at the bait of pleasure, till you know there is no hook beneath it.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Even if you're sure you can win, be careful that you can live with what you lose.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
