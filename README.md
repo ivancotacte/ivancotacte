@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>People are doing the best that they can from their own level of consciousness.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>He who fails to plan, plans to fail.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
