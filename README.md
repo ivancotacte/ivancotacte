@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A clear conscience is the sure sign of a bad memory.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The shoe that fits one person pinches another; there is no recipe for living that suits all cases.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
