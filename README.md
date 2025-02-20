@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>When the time is gone, you can never get it back.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Everything eaten is killed. Every meal is a sacrifice.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
