@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You live by what you thrill to, and there's the end of it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
