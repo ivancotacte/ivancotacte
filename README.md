@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Insanity: doing the same thing over and over again and expecting different results.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
