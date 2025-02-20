@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
