@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The decisions of our past are the architects of our present.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You can't let your failures define you. You have to let your failures teach you.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
