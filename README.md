@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You do not read a book for the book's sake, but for your own.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you want to make God laugh, tell him about your plans. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
