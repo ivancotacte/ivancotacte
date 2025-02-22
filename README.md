@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>We make a living by what we get, but we make a life by what we give.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
