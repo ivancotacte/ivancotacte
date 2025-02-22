@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Ideas do not reach perfection in a day, no matter how much study is put upon them.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
