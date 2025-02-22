@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Do not pray for an easy life, pray for the strength to endure a difficult one.  </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The time is now, the place is here. Stay in the present.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
