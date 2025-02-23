@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Live calmly. The time will come when the flowers bloom by themselves.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>We can't help everyone, but everyone can help someone.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
