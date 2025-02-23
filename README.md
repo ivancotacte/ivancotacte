@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Never feel shame for trying and failing, for he who has never failed is he who has never tried.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Our joy does not have to be based on our circumstances.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
