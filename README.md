@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>None of us can change our yesterdays but all of us can change our tomorrows.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Quality is not an act, it is a habit.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
