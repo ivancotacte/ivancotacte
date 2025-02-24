@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>In the middle of chaos lies opportunity.  </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Every traveler has a home of his own, and he learns to appreciate it the more from his wandering.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
