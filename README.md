@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>I put my heart and soul into my work, and I have lost my mind in the process.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
