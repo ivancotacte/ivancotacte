@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>One must be poor to know the luxury of giving.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Life is a traveling to the edge of knowledge, then a leap taken.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
