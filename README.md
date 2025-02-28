@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Death is not sad; the sad thing is that most people don't really live at all.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The longer we dwell on our misfortunes, the greater is their power to harm us.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
