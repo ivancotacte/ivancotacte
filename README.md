@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>I'm not afraid of death, but I'm in no hurry to die.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Persistence is very important. You should not give up unless you are forced to give up.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
