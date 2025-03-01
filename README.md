@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The deeper the truth in a creative work, the longer it will live.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
