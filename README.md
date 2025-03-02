@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>To plant a garden is to believe in tomorrow.  </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You are not stuck where you are unless you decide to be.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
