@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Turn your wounds into wisdom. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A comfort zone is a beautiful place, but nothing ever grows there.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
