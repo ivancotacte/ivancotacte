@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It's easier to lose than to win.  </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
