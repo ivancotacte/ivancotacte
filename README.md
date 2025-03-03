@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>My guiding principle is this: Guilt is never to be doubted. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Those who realize their folly are not true fools.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
