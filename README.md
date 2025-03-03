@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Quality is more important than quantity. One home run is much better than two doubles.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Even a hare will bite when it is cornered. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
