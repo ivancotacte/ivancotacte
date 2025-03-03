@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you build the guts to do something, anything, then you better save enough to face the consequences.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
