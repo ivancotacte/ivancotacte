@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Never take your position for granted and never let any favors you receive go to your head.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Your goals are the road maps that guide you and show you what is possible for your life.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
