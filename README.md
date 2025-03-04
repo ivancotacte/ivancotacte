@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Just because something isn't a lie does not mean that it isn't deceptive.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The few who do are the envy of the many who only watch.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
