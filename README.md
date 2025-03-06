@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>As you think, so shall you become. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
