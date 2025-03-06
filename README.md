@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>No one can confidently say that he will still be living tomorrow.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
