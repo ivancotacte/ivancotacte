@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>To forget the whole world is easy; to make the whole world forget you is hard.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A diamond is a piece of charcoal that handled stress exceptionally well.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
