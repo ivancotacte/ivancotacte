@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>He who leaves the game wins it.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A single dream is more powerful than a thousand realities.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
