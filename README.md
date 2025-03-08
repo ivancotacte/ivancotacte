@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Do something to move yourself toward your major goal every day.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>To achieve, you need thought. You have to know what you are doing and that's real power.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
