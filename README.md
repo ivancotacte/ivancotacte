@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Start the day with love, spend the day with love, fill the day with love and end the day with love.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>With the new day comes new strength and new thoughts.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
