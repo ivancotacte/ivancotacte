@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Abundance of knowledge does not teach men to be wise.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A man with outward courage dares to die: a man with inner courage dares to live.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
