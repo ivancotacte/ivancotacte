@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Fear not the path of Truth for the lack of People walking on it.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Working hard for something we don't care about is called stress: Working hard for something we love is called passion.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
