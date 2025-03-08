@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Circumstances rule men; men do not rule circumstances. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Obstacles are those frightful things you see when you take your eyes off your goals.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
