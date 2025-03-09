@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you've never eaten while crying you don t know what life tastes like.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Rivers know this: there is no hurry. We shall get there some day.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
