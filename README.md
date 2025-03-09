@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You can calculate the worth of a man by the number of his enemies.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you quit once it becomes a habit.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
