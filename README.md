@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A lie can travel half way around the world while the truth is putting on its shoes.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>There can be no deep disappointment where there is not deep love.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
