@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You are always your own best guru, your own best teacher, the answers are always inside you.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You drown not by falling into a river, but by staying submerged in it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
