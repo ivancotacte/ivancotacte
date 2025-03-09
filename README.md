@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>I put my heart and soul into my work, and I have lost my mind in the process.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
