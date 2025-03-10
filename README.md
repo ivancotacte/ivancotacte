@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>There is always risk, so learn to manage risk instead of avoiding it.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Persistence is very important. You should not give up unless you are forced to give up.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
