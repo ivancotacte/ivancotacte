@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Do not bite at the bait of pleasure, till you know there is no hook beneath it.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>In order to control myself I must first accept myself by going with and not against my nature.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
