@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It all depends on what you choose to believe.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Mistake is a mistake only if you make it twice.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
