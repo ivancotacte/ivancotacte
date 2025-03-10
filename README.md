@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't hate the player. Change the game.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The more you take responsibility for your past and present, the more you are able to create the future you seek.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
