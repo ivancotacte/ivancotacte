@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The older you get the stronger the wind gets - and it's always in your face.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
