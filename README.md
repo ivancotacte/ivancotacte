@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Learning is a gift, even when pain is your teacher.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Being in a good frame of mind helps keep one in the picture of health.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
