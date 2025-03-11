@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>He who permits himself to tell a lie once, finds it much easier to do it the second time.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
