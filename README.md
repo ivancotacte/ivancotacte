@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Everyone wants to go to Heaven, but no one wants to die.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The majority of what you want will come from the minority of what you do.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
