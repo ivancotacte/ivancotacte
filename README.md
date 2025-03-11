@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Progress comes to those who train and train; reliance on secret techniques will get you nowhere.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
