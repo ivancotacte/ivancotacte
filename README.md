@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Only I can change my life. No one can do it for me.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Chop your own wood and it will warm you twice. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
