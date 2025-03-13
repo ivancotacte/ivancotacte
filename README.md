@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>We can either add to our character each day, or we can fritter away our energies in distractions.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Make your life a mission - not an intermission.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
