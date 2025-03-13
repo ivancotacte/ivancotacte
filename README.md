@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you are unable to find the truth right where you are, where else do you expect to find it?</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
