@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It's the unknown we fear when we look upon death and darkness, nothing more.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
