@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The consequences of today are determined by the actions of the past. To change your future, alter your decisions today.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Where we fall are the stepping-stones for our journey.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
