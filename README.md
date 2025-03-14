@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Of all men's miseries the bitterest is this: to know so much and to have control over nothing. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
