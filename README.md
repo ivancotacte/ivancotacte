@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>What lies behind us and what lies before us are tiny matters compared to what lies within us.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
