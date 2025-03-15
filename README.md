@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>How many times do you have to get hit over the head until you figure out who's hitting you?</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
