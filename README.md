@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Heal the past, live the present, dream the future.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>One must be deeply aware of the impermanence of the world.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
