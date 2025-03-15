@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>First say to yourself what you would be; and then do what you have to do.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
