@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Life is and will ever remain an equation incapable of solution, but it contains certain known factors. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Give a girl the right shoes, and she can conquer the world.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
