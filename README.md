@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>In order to carry a positive action, we must develop here a positive vision.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>We must have strong minds, ready to accept facts as they are.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
