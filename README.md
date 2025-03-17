@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You're only given a little spark of madness. You mustn't lose it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
