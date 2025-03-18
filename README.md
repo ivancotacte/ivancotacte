@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>There are two things a person should never be angry at, what they can help, and what they cannot.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Focused, hard work is the real key to success.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
