@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
