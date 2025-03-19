@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>I am not what happened to me, I am what I choose to become.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It takes half your life before you discover life is a do-it-yourself project.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
