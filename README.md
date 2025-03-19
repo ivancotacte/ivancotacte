@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Dance first. Think later. It's the natural order.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>In the midst of movement and chaos, keep stillness inside of you.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
