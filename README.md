@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>I've always lived in the moment.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It's easier to go down a hill than up it but the view is much better at the top.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
