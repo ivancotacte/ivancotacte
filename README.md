@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Deliberately seek the company of people who influence you to think and act on building the life you desire.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
