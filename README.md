@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The clock indicates the moment...but what does eternity indicate?</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
