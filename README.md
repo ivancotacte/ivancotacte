@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It is useless to attempt to reason a man out of a thing he was never reasoned into.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>We're kept from our goal not by obstacles, but by a clear path to a lesser goal.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
