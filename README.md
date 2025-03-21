@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
