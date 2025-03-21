@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The destiny of man is in his own soul. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
