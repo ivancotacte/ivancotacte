@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Most people dabble their way through life, never deciding to master anything in particular.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Speak when you are angry - and you'll make the best speech you'll ever regret.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
