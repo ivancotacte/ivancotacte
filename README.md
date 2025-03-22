@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Man is affected not by events but by the view he takes of them.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
