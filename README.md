@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The more something scares you, the more you should do it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
