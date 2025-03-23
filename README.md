@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you believe you can, you can. If you believe you can't, then, well you can't.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
