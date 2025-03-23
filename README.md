@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>We need a backbone, not a wishbone.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Everyone thinks of changing the world, but no one thinks of changing himself.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
