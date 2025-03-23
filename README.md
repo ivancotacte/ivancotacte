@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Everything has its beauty, but not everyone sees it. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>If you don't like something change it; if you can't change it, change the way you think about it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
