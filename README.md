@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Your heart is the size of an ocean. Go find yourself in its hidden depths.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
