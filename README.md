@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>People think about what they don't want and attract more of the same.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Change is hard at first, messy in the middle and gorgeous at the end.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
