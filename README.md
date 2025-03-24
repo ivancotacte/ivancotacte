@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Do the difficult things while they are easy and do the great things while they are small.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Your heart is the size of an ocean. Go find yourself in its hidden depths.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
