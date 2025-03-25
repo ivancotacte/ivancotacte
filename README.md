@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The goal is not to show how great you are to others, but how vulnerable you are to yourself.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
