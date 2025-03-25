@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The river that flows in you also flows in me.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>I would rather be hated for who I am than loved for who I'm not.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
