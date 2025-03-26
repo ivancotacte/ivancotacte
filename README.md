@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Success is not how high you have climbed, but how you make a positive difference to the world.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Faith is taking the first step even when you don't see the whole staircase.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
