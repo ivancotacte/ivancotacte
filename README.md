@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You can't let your failures define you. You have to let your failures teach you.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
