@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>One loyal friend is worth ten thousand relatives.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>It's the job that's never started that takes the longest to finish.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
