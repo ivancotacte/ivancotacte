@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Do what you can, with what you have, where you are.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
