@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't try to be young. Just open your mind. Stay interested in stuff.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
