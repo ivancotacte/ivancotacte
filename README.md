@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>I wasn't brave, I just didn't have time to be scared.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
