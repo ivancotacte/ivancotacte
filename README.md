@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The future will be shaped by those willing to commit their minds and their bodies to the task.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
