@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't bother people for help without first trying to solve the problem yourself.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
