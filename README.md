@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>To the mind that is still, the whole universe surrenders.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The enemy is a very good teacher.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
