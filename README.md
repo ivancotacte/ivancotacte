@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>All men who have achieved great things have been great dreamers. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
