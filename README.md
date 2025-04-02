@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Our greatest glory is not in never falling, but in rising every time we fall. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
