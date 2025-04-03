@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It is what we make out of what we have, not what we are given, that separates one person from another.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>There is only one thing in the world worse than being talked about, and that is not being talked about. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
