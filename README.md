@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Never do things others can do and will do if there are things others cannot do or will not do.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
