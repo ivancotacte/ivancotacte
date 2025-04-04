@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Be a good animal, true to your instincts.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Until you change how you get things done, you'll never know what works best.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
