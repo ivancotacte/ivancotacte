@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Talent is luck. The important thing in life is courage.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The final mystery is oneself.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
