@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Understanding that rests in what it does not understand is the finest.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Growth is in a series of mistakes. That's the only way you learn.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
