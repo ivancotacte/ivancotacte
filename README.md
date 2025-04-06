@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>No man can get rich himself unless he enriches others.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't be afraid that you do not know something. Be afraid of not learning about it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
