@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. </h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The greatest of all mistakes is to do nothing because you think you can only do a little.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
