@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Art, like morality, consists of drawing the line somewhere.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Realistic people do not accomplish extraordinary things.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
