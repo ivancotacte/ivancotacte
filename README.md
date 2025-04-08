@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>The only real security that a man can have in this world is a reserve of knowledge, experience and ability. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
