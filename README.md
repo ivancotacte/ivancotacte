@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Take time like the river that never grows stale. Keep going and steady. No hurry, no rush.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>No man ever steps in the same river twice, for it's not the same river and he's not the same man.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
