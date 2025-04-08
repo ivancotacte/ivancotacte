@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Better a diamond with a flaw than a pebble without one.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>By failing to prepare, you are preparing to fail.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
