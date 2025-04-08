@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>We have no more right to consume happiness without producing it than to consume wealth without producing it.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>We would accomplish many more things if we did not think of them as impossible.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
