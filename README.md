@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>What are we doing here, that is the question.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Take away love and our earth is a tomb.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
