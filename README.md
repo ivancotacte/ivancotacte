@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Do not wait for leaders; do it alone, person to person.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Happiness is pretty simple: someone to love, something to do, something to look forward to.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
