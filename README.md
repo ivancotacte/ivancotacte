@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Patience is not the ability to wait but the ability to keep a good attitude while waiting.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
