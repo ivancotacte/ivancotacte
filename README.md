@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>May you find grace as you surrender to life. May you find happiness, as you stop seeking it.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You are what you do, not what you say you'll do.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
