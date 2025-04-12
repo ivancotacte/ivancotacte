@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>If you want work well done, select a busy man; the other kind has no time.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
