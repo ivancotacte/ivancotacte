@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>We learn to walk by falling down. If we never fell down, we would never walk.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Stop wasting time defending your problems and work on addressing them instead.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
