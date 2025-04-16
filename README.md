@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Everyone has the right to make his own decisions, but none has the right to force his decision on others.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
