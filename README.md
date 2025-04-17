@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
