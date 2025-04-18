@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A hut full of laughter is richer than a palace full of sadness.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>I dream my painting and I paint my dream.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
