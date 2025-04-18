@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Animals don't hate, and we're supposed to be better than them.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>We tend to live up to our expectations.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
