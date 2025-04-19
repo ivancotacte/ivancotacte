@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>When angry count to ten before you speak. If very angry, count to one hundred.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
