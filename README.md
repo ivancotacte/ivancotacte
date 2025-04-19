@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Age is a very high price to pay for maturity.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>You can't climb the ladder of success with your hands in your pockets.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
