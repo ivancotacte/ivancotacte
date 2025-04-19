@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A bird does not sing because it has an answer. It sings because it has a song.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>In order for you to be the BEST you can be for others, first you must be BEST for yourself.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
