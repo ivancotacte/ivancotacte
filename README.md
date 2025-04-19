@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>A dream doesn't become reality through magic it takes sweat, determination and hard work.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Don't allow your mind to tell your heart what to do. The mind gives up easily.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
