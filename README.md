@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
