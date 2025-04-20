@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Never confuse a single defeat with a final defeat.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>We are all in the gutter, but some of us are looking at the stars. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
