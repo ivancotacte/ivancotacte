@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The moment you doubt whether you can fly, you cease for ever to be able to do it.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>People have the illusion that all over the world, all the time, all kinds of fantastic things are happening.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
