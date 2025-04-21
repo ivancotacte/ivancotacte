@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Everything you look at can become a fairy tale and you can get a story from everything you touch.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>There is no fear for one whose mind is not filled with desires.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
