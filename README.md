@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>He who laughs at himself never runs out of things to laugh at.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Far and away the best prize that life has to offer is the chance to work hard at work worth doing.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
