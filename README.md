@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>Some men see things as they are and ask why. Others dream things that never were and ask why not.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Be kind, for everyone you meet is fighting a harder battle.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
