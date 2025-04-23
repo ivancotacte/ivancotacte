@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It is useless to attempt to reason a man out of a thing he was never reasoned into.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
