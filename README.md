@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>The way to change others' minds is with affection, and not anger.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Learn to sit back and observe, not everything needs a reaction.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
