@@ -48,7 +48,7 @@
     </table>
 </div>
 
-<!-- IVANCOTACTE:START (QUOTES) --><h3>It is up to each of us to sing as we feel moved by the overall song of life.</h3>
+<!-- IVANCOTACTE:START (QUOTES) --><h3>Become the kind of leader that people would follow voluntarily, even if you had no title or position.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
