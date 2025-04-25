@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. </h3>
+<h3>When the world pushes you to your knees, you're in the perfect position to pray.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
