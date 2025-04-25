@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>A fear of weakness only strengthens weakness.</h3>
+<h3>You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
