@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise. </h3>
+<h3>Life is growth. If we stop growing, technically and spiritually, we are as good as dead.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
