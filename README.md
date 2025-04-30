@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Work as though you would live forever, and live as though you would die today. Go another mile.</h3>
+<h3>Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
