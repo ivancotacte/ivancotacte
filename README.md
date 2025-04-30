@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim.</h3>
+<h3>A wise man can learn more from a foolish question than a fool can learn from a wise answer.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
