@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with.</h3>
+<h3>Talk sense to a fool and he calls you foolish.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
