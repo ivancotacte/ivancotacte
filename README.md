@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Peace is letting it be. Letting life flow, letting emotions flow through you.</h3>
+<h3>The real measure of your wealth is how much you'd be worth if you lost all your money.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
