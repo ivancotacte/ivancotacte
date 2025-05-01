@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.</h3>
+<h3>Outstanding people have one thing in common: an absolute sense of mission.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
