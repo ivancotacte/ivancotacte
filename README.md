@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Giving is living. If you stop wanting to give, there's nothing more to live for.</h3>
+<h3>Live and act within the limit of your knowledge and keep expanding it to the limit of your life.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
