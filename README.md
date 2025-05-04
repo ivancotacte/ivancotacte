@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>I don't walk away from things that I think are unfinished.</h3>
+<h3>Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
