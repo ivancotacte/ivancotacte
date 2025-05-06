@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>My guiding principle is this: Guilt is never to be doubted. </h3>
+<h3>Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
