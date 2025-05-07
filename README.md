@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.</h3>
+<h3>Just do what must be done. This may not be happiness but it is greatness.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
