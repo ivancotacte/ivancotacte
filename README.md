@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>When you repeat a mistake, it is not a mistake anymore: it is a decision.</h3>
+<h3>I am thankful to all those who said no. It's because of them, I did it myself.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
