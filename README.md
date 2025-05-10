@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy.</h3>
+<h3>You are the only real obstacle in your path to a fulfilling life.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
