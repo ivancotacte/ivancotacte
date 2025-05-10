@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Good things aren't supposed to just fall into your lap.</h3>
+<h3>It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
