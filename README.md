@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them.</h3>
+<h3>Failure is an option here. If things are not failing, you are not innovating enough.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
