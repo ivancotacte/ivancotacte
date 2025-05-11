@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.</h3>
+<h3>The goal of an artist is to create the definitive work that cannot be surpassed.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
