@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Successful people are not without problems. They're simply people who've learned to solve their problems.</h3>
+<h3>We have a duty to maintain the light of consciousness to make sure it continues into the future.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
