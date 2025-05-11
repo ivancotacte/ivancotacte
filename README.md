@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The goal of an artist is to create the definitive work that cannot be surpassed.</h3>
+<h3>We are most nearly ourselves when we achieve the seriousness of the child at play.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
