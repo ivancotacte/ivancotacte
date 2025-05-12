@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Believe in your infinite potential. Your only limitations are those you set upon yourself.</h3>
+<h3>Successful people do what unsuccessful people are not willing to do.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
