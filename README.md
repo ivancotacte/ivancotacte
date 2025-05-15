@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>A man that flies from his fear may find that he has only taken a short cut to meet it.</h3>
+<h3>If we have no peace, it is because we have forgotten that we belong to each other.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
