@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>No need to hurry. No need to sparkle. No need to be anybody but oneself.</h3>
+<h3>Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
