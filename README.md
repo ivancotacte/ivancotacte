@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Re-examine all that you have been told... dismiss that which insults your soul.</h3>
+<h3>If you are lucky enough to find love, remember it is there and don't throw it away.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
