@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage.</h3>
+<h3>Do not follow the ideas of others, but learn to listen to the voice within yourself.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
