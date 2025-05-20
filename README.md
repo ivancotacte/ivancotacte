@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Given the choice between the experience of pain and nothing, I would choose pain.</h3>
+<h3>Our greatest glory is not in never falling, but in rising every time we fall. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
