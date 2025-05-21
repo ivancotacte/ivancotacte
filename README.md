@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The strength of a wall is neither greater nor less than the courage of the men who defend it. </h3>
+<h3>Hardly anybody recognizes the most significant moments of their life at the time they happen.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
