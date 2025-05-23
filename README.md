@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand.</h3>
+<h3>It is amazing what you can accomplish if you do not care who gets the credit.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
