@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.</h3>
+<h3>It is easier to fight for one's principles than to live up to them. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
