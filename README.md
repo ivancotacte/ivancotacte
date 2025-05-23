@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The trouble with the rat race is that even if you win, you're still a rat.</h3>
+<h3>Without education, we are in a horrible and deadly danger of taking educated people seriously.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
