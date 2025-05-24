@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The spirit is beyond destruction. No one can bring an end to spirit which is everlasting.</h3>
+<h3>People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
