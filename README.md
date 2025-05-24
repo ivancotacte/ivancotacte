@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Decide whether or not the goal is worth the risks involved. If it is, stop worrying.</h3>
+<h3>The more knowledge you have, the more you're free to rely on your instincts.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
