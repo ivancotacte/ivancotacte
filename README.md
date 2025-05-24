@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it.</h3>
+<h3>You are the only problem you will ever have and you are the only solution.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
