@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The most important thing is to enjoy your life, to be happy, it's all that matters.</h3>
+<h3>Coming together is a beginning, staying together is progress, and working together is success. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
