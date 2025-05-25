@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will.</h3>
+<h3>Troubles are often the tools by which God fashions us for better things.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
