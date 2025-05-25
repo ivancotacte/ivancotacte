@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!</h3>
+<h3>I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
