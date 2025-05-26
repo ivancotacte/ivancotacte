@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The Truth is realized in an instant; the Act is practiced step by step.</h3>
+<h3>To escape from the world means that one's mind is not concerned with the opinions of the world.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
