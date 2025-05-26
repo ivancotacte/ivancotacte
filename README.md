@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way.</h3>
+<h3>The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
