@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If life were predictable it would cease to be life, and be without flavor.</h3>
+<h3>The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
