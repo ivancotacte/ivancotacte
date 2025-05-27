@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it.</h3>
+<h3>Maybe you are searching among the branches, for what only appears in the roots.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
