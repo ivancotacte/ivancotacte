@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.</h3>
+<h3>Every failure brings with it the seed of an equivalent success.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
