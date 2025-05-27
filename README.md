@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Do you want to know who you are? Don't ask. Act! Action will delineate and define you.</h3>
+<h3>No man will make a great leader who wants to do it all himself or to get all the credit for doing it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
