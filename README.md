@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Life is from the inside out. When you shift on the inside, life shifts on the outside.</h3>
+<h3>Everyone you meet is fighting a battle you know nothing about. Be kind. Always.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
