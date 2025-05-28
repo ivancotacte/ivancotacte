@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. </h3>
+<h3>Opportunity is missed by most people because it is dressed in overalls and looks like work.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
