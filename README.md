@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.</h3>
+<h3>The only way it gets better for you is when you get better. Better is not something you wish, it's something you become.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
