@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>We make a living by what we get, but we make a life by what we give.</h3>
+<h3>It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
