@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>No man can get rich himself unless he enriches others.</h3>
+<h3>Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
