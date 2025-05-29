@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive.</h3>
+<h3>You can't go forward and backwards at the same time.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
