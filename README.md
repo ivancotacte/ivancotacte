@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Enthusiasm is a vital element toward the individual success of every man or woman.</h3>
+<h3>Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
