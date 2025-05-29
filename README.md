@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>I didn't get there by wishing for it or hoping for it, but by working for it.</h3>
+<h3>Everyone has the right to make his own decisions, but none has the right to force his decision on others.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
