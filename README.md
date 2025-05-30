@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Always remember that you are absolutely unique. Just like everyone else. </h3>
+<h3>Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
