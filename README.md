@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Avoiding danger is no safer in the long run than exposure.</h3>
+<h3>If you are patient in one moment of anger, you will escape a hundred days of sorrow. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
