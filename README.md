@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you are patient in one moment of anger, you will escape a hundred days of sorrow. </h3>
+<h3>The whole world is a series of miracles, but we're so used to them we call them ordinary things.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
