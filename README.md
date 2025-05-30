@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>What's right is what's left if you do everything else wrong.</h3>
+<h3>To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
