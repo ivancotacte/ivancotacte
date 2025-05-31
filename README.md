@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>I try more and more to be myself, caring relatively little whether people approve or disapprove.</h3>
+<h3>Patience expands your options. If you insist on immediate gratification, your choices are severely limited.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
