@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Nothing ever goes away until it has taught us what we need to know.</h3>
+<h3>Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
