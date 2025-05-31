@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt.</h3>
+<h3>Don't let them drag you down by rumors. Just go with what you believe in.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
