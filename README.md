@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances.</h3>
+<h3>Although the world is full of suffering, it is also full of the overcoming of it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
