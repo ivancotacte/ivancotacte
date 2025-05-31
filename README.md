@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Instead of being intimidated by the limitations, be inspired to find new ways around them.</h3>
+<h3>As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
