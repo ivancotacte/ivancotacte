@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Often in the real world, it's not the smart that get ahead, but the bold.</h3>
+<h3>Don't try to be young. Just open your mind. Stay interested in stuff.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
