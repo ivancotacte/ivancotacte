@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. </h3>
+<h3>Presents are made for the pleasure of who gives them, not the merits of who receives them.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
