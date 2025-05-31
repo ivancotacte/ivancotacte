@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Failure will never overtake me if my determination to succeed is strong enough.</h3>
+<h3>Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
