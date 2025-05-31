@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Life is 10% what happens to you and 90% how you react to it. </h3>
+<h3>If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
