@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>You can calculate the worth of a man by the number of his enemies.</h3>
+<h3>Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
