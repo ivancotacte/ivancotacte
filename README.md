@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The person who is his own master cannot tolerate another boss. </h3>
+<h3>We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
