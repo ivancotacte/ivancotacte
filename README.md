@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.</h3>
+<h3>Yesterday is gone. Tomorrow has not yet come. We have only today.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
