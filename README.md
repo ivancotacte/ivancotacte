@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>When we have our body and mind in order, everything else will exist in the right place, in the right way.</h3>
+<h3>Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
