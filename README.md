@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Pain doesn't last. And when it's gone, we have something to show for it. Growth.</h3>
+<h3>The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
