@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Don't wait for extraordinary opportunities. Seize common occasions and make them great.</h3>
+<h3>You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
