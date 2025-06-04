@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The secret of life is to fall seven times and to get up eight times.</h3>
+<h3>Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
