@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution.</h3>
+<h3>We are all like the bright moon, we still have our darker side.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
