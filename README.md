@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Raise your words, not voice. It is rain that grows flowers, not thunder.</h3>
+<h3>Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
