@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work.</h3>
+<h3>I have no methods; all I do is accept people as they are.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
