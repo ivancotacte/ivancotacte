@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love.</h3>
+<h3>We must learn to live together as brothers or perish together as fools.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
