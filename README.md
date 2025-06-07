@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Listening well is as powerful as talking well, and is also as essential to true conversation.</h3>
+<h3>When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
