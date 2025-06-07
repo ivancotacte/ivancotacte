@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems.</h3>
+<h3>If you can handle rejection, you'll learn to get everything you want.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
