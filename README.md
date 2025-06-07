@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Knowing is not enough, we must apply. Willing is not enough, we must do.  </h3>
+<h3>Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
