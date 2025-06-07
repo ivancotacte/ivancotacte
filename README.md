@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>A warrior does not give up what he loves, he finds the love in what he does.</h3>
+<h3>There is always room in your life for thinking bigger, pushing limits and imagining the impossible.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
