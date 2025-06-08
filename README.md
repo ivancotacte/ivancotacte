@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Stop wasting time looking at someone else's reality while doing nothing about yours.</h3>
+<h3>Everything that is made beautiful and fair and lovely is made for the eye of one who sees.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
