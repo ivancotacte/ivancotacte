@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Don't let the fear of losing be greater than the excitement of winning.</h3>
+<h3>If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
