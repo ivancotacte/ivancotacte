@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>To escape from the world means that one's mind is not concerned with the opinions of the world.</h3>
+<h3>At first dreams seem impossible, then improbable, then inevitable.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
