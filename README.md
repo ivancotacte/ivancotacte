@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream.</h3>
+<h3>A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
