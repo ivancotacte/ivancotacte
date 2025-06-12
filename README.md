@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The deeper the truth in a creative work, the longer it will live.  </h3>
+<h3>If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
