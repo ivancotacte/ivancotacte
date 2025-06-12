@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly.</h3>
+<h3>Investing in yourself is the best investment you will ever make.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
