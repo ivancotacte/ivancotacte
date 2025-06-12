@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Kind words can be short and easy to speak, but their echoes are truly endless.</h3>
+<h3>You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
