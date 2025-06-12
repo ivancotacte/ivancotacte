@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing.</h3>
+<h3>The best teacher is experience and not through someone's distorted point of view.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
