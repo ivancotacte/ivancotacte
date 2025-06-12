@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Trust your instincts: my first reaction is almost invariably the right one.  </h3>
+<h3>Sometimes it is more important to discover what one cannot do, than what one can do.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
