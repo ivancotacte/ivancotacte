@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness.</h3>
+<h3>Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
