@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Anyone telling you it's pointless to share your perspective is sharing their perspective.</h3>
+<h3>Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
