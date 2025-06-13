@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Exceptional thinkers ignore their critics and go about their business making history.</h3>
+<h3>Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
