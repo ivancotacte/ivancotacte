@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.</h3>
+<h3>If you want something you've never had you must be willing to do something you've never done.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
