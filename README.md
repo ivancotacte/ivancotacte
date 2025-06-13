@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end.</h3>
+<h3>Until you make the unconscious conscious, it will direct your life and you will call it fate.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
