@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings.</h3>
+<h3>Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
