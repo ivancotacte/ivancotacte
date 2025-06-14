@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Only when I fall do I get up again.</h3>
+<h3>The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
