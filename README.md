@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Go confidently in the direction of your dreams. Live the life you've imagined.</h3>
+<h3>Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
