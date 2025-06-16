@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it.</h3>
+<h3>The harder you work, the harder it is to surrender.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
