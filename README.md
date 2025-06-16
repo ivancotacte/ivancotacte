@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Being in a good frame of mind helps keep one in the picture of health.</h3>
+<h3>We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
