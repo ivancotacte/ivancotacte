@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Do the hard jobs first. The easy jobs will take care of themselves.</h3>
+<h3>The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
