@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>We learn to walk by falling down. If we never fell down, we would never walk.</h3>
+<h3>Acknowledging the good that you already have in your life is the foundation for all abundance.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
