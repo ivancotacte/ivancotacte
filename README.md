@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Some of us learn from other people's mistakes and the rest of us have to be other people.  </h3>
+<h3>Anyone telling you it's pointless to share your perspective is sharing their perspective.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
