@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>It's the unknown we fear when we look upon death and darkness, nothing more.</h3>
+<h3>The mind can calculate, but the spirit yearns, and the heart wants what the heart wants.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
