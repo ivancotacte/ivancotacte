@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>He who permits himself to tell a lie once, finds it much easier to do it the second time.</h3>
+<h3>A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
