@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>He who possesses most must be most afraid of loss.</h3>
+<h3>Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
