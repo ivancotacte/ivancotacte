@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success.</h3>
+<h3>Happiness is the meaning and the purpose of life, the whole aim and end of human existence.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
