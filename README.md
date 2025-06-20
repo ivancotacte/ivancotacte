@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. </h3>
+<h3>Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
