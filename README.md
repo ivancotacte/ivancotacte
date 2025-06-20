@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Being in a good frame of mind helps keep one in the picture of health.</h3>
+<h3>Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live!</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
