@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head.</h3>
+<h3>Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
