@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>We cannot expect to be happy always... by experiencing evil as well as good we become wise.</h3>
+<h3>Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
