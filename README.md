@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy.</h3>
+<h3>Falling down is not failure. Failure comes when you stay where you have fallen.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
