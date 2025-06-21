@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated.</h3>
+<h3>The single most powerful asset we all have is our mind.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
