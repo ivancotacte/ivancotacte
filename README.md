@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Difficulties strengthen the mind, as labor does the body.  </h3>
+<h3>Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
