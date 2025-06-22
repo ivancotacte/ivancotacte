@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Genius is the ability to act rightly without precedent - the power to do the right thing the first time.</h3>
+<h3>Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
