@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience.</h3>
+<h3>Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
