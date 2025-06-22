@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Words can only have a positive effect on others if and when they are ready to listen.</h3>
+<h3>Instead of worrying about what you cannot control, shift your energy to what you can create.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
