@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Rest in reason; move in passion.</h3>
+<h3>Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
