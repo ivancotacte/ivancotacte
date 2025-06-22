@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>A scientific man ought to have no wishes, no affections, - a mere heart of stone.</h3>
+<h3>Tension is who you think you should be. Relaxation is who you are.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
