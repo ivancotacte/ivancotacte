@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts.</h3>
+<h3>There are more people who wish to be loved than there are who are willing to love. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
