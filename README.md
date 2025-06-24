@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Only when one allows themself the right to die, do they then give yourself the permission to live.</h3>
+<h3>Pain doesn't last. And when it's gone, we have something to show for it. Growth.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
