@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is.</h3>
+<h3>People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
