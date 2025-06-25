@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The eye with which I see God is the same eye with which God sees me.</h3>
+<h3>If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
