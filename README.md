@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>You talk when you cease to be at peace with your thoughts.</h3>
+<h3>If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
