@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Fear, uncertainty, and discomfort are your compasses toward growth.</h3>
+<h3>Deliberately seek the company of people who influence you to think and act on building the life you desire.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
