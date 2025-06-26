@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The true soldier fights not because he hates what is in front of him, but because he loves what is behind him.</h3>
+<h3>Whether you have a problem in your life or not depends upon your own attitude, your own understanding.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
