@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you're really truthful with yourself, it's a wonderful guidance.  </h3>
+<h3>It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
