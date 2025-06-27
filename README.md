@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>It is literally true that you can succeed best and quickest by helping others succeed.</h3>
+<h3>There is no limit to the amount of good you can do if you don't care who gets the credit.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
