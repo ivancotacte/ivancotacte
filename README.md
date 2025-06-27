@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else.</h3>
+<h3>It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
