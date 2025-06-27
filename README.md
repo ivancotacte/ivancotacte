@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy.</h3>
+<h3>You are not one person, but three: The one you think you are; The one others think you are; The one you really are.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
