@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>I have never let my schooling interfere with my education.</h3>
+<h3>Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
