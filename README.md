@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.</h3>
+<h3>It is literally true that you can succeed best and quickest by helping others succeed.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
