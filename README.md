@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Everybody has talent, but ability takes hard work.</h3>
+<h3>If you want to achieve greatness stop asking for permission.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
