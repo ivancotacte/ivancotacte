@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The more you take responsibility for your past and present, the more you are able to create the future you seek.</h3>
+<h3>Obstacles are those frightful things you see when you take your eyes off your goals.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
