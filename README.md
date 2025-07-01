@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Only those who dare to fail greatly can ever achieve greatly.</h3>
+<h3>Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
