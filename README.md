@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.</h3>
+<h3>Knowing is not enough, we must apply. Willing is not enough, we must do.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
