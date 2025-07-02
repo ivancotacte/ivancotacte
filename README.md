@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on.</h3>
+<h3>Most people achieved their greatest success one step beyond what looked like their greatest failure.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
