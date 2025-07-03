@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity.</h3>
+<h3>Rivers know this: there is no hurry. We shall get there some day.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
