@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>It's necessary to get the losers out of your life if you want to live your dream.</h3>
+<h3>Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
