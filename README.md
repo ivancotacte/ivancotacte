@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.</h3>
+<h3>Kindness is a language which the deaf can hear and the blind can see.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
