@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>He is not a lover who does not love forever.</h3>
+<h3>Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
