@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination.</h3>
+<h3>No problem can be solved from the same level of consciousness that created it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
