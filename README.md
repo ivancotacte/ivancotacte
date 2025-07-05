@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity.</h3>
+<h3>Do you have the patience to wait until your mud settles and the water is clear?</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
