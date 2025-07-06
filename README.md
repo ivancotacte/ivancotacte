@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand.</h3>
+<h3>Failure is a great teacher. If you're open to it every mistake has a lesson to offer.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
