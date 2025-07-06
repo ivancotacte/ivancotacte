@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Remember, today is the tomorrow you worried about yesterday.</h3>
+<h3>Originality is the fine art of remembering what you hear but forgetting where you heard it. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
