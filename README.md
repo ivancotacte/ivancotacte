@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The only people without problems are those in cemeteries.</h3>
+<h3>Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
