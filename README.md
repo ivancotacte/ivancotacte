@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Success is nothing more than a few simple disciplines practiced every day.</h3>
+<h3>Working hard for something we don't care about is called stress: Working hard for something we love is called passion.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
