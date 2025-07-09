@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love.</h3>
+<h3>Some people are old at 18 and some are young at 90. Time is a concept that humans created.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
