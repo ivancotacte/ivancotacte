@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The best way to predict the future is to create it.</h3>
+<h3>There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
