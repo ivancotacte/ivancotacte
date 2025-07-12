@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. </h3>
+<h3>Every time we liberate a woman, we liberate a man. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
