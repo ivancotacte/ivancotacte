@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Peace is letting it be. Letting life flow, letting emotions flow through you.</h3>
+<h3>Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
