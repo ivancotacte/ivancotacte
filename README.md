@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Through selfless service, you will always be fruitful and find the fulfillment of your desires.</h3>
+<h3>Very little is needed to make a happy life; it is all within yourself, in your way of thinking.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
