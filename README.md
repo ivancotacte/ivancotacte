@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>It's the unknown we fear when we look upon death and darkness, nothing more.</h3>
+<h3>Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
