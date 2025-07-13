@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't.</h3>
+<h3>Failure is a great teacher. If you're open to it every mistake has a lesson to offer.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
