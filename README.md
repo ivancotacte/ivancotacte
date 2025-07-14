@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>To accomplish big things, I am convinced you must first dream big dreams.</h3>
+<h3>If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
