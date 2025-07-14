@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Even when a friend does something you do not like, he continues to be your friend. </h3>
+<h3>I know not all that may be coming, but be it what it will, I'll go to it laughing.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
