@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The two most important days in your life are the day you are born and the day you find out why.</h3>
+<h3>By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
