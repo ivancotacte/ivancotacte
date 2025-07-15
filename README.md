@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself.</h3>
+<h3>Of all men's miseries the bitterest is this: to know so much and to have control over nothing. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
