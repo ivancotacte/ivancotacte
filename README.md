@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>All human beings can alter their lives by altering their attitudes.</h3>
+<h3>The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
