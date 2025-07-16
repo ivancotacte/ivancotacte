@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way.</h3>
+<h3>Pleasure can be supported by an illusion; but happiness rests upon truth. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
