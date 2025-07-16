@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Pleasure can be supported by an illusion; but happiness rests upon truth. </h3>
+<h3>Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
