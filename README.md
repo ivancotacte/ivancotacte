@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Never feel shame for trying and failing, for he who has never failed is he who has never tried.</h3>
+<h3>We can change our lives. We can do, have, and be exactly what we wish.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
