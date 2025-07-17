@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing.</h3>
+<h3>When you repeat a mistake, it is not a mistake anymore: it is a decision.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
