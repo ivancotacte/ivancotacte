@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>You have within you right now, everything you need to deal with whatever the world can throw at you.</h3>
+<h3>No tree, it is said, can grow to heaven unless its roots reach down to hell.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
