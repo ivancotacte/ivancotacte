@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>We should not look back unless it is to derive useful lessons from past errors.</h3>
+<h3>To judge a man by his weakest link or deed is like judging the power of the ocean by one wave.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
