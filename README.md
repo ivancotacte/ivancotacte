@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Happiness is not a goal...it's a by-product of a life well lived.</h3>
+<h3>The beautiful journey of today can only begin when we learn to let go of yesterday.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
