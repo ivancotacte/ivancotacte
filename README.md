@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know.</h3>
+<h3>If you have to be in a soap opera try not to be cast in the worst role.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
