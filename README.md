@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time.</h3>
+<h3>Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
