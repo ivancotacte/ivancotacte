@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you don't like something change it. If you can't change it, change your attitude about it. Don't complain.</h3>
+<h3>Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
