@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble.</h3>
+<h3>The only place where success comes before work is in the dictionary.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
