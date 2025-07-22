@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.</h3>
+<h3>I am thankful to all who said no to me. It is because of them that I'm doing it myself.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
