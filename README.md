@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>You can not live your life just based on what everyone else thinks.</h3>
+<h3>If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
