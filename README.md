@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Everyone must choose one of two pains: The pain of discipline or the pain of regret.</h3>
+<h3>The more often a stupidity is repeated, the more it gets the appearance of wisdom.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
