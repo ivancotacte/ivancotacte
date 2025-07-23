@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated.</h3>
+<h3>The trouble with the rat race is that even if you win, you're still a rat.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
