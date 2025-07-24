@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Thinking will not overcome fear but action will. </h3>
+<h3>You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
