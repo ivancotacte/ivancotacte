@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Whenever you do a thing, act as if all the world were watching.</h3>
+<h3>The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
