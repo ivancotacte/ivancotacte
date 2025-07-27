@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest.</h3>
+<h3>To know even one life has breathed easier because you have lived. This is to have succeeded.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
