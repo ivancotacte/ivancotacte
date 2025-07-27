@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has.</h3>
+<h3>The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
