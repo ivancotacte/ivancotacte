@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Nothing like a health problem to turn up the contrast dial for the rest of life.</h3>
+<h3>I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
