@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry.</h3>
+<h3>Insanity: doing the same thing over and over again and expecting different results.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
