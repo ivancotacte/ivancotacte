@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>When we allow negative messages to fester in our head, they take on a life of their own.</h3>
+<h3>Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
