@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen.</h3>
+<h3>Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
