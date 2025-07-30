@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Not all of us can do great things. But we can do small things with great love.</h3>
+<h3>There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
