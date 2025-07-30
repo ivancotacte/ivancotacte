@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.</h3>
+<h3>As soon as you truly commit to making something happen, the 'how' will reveal itself.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
