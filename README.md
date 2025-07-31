@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you can't argue both sides, you can't argue.</h3>
+<h3>Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
