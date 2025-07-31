@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Go and do the things you can't. That is how you get to do them.</h3>
+<h3>Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
