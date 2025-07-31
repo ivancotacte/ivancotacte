@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Not how long, but how well you have lived is the main thing.</h3>
+<h3>Rich people have small TVs and big libraries, and poor people have small libraries and big TVs.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
