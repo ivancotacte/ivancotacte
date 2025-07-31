@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you can't explain it simply, you don't understand it well enough.</h3>
+<h3>I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
