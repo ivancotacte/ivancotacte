@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Don't change your mind just because people are offended; change your mind if you're wrong.</h3>
+<h3>The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
