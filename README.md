@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>I skate to where the puck is going to be, not where it has been.</h3>
+<h3>The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
