@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution.</h3>
+<h3>If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
