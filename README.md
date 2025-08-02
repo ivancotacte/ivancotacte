@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Patience expands your options. If you insist on immediate gratification, your choices are severely limited.</h3>
+<h3>Pleasure is always derived from something outside you, whereas joy arises from within. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
