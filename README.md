@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff.</h3>
+<h3>Don't give up on your dreams, or your dreams will give up on you.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
