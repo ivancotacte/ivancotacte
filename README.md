@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>It is the greatest of all mistakes to do nothing because you can only do little; do something.</h3>
+<h3>It is indeed a radical act of love just to sit down and be quiet for a time by yourself.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
