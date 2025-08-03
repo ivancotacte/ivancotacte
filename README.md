@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The divine is not something high above us. It is in heaven, it is in earth, it is inside us.</h3>
+<h3>Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
