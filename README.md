@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Take into account that great love and great achievements involve great risk.</h3>
+<h3>Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
