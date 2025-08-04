@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Supreme excellence consists of breaking the enemy's resistance without fighting.</h3>
+<h3>You become stronger with every problem you face and every obstacle you overcome.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
