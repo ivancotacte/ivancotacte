@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If there is a book that you want to read, but it hasn't been written yet, then you must write it.</h3>
+<h3>Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
