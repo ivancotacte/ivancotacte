@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>You become stronger with every problem you face and every obstacle you overcome.</h3>
+<h3>If you build the guts to do something, anything, then you better save enough to face the consequences.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
