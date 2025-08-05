@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The world is open for play, everything and everybody is mockable in a wonderful way.</h3>
+<h3>A moving door hinge never corrodes. Flowing water never grows stagnant.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
