@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Life becomes easier and more beautiful when we can see the good in other people.</h3>
+<h3>If you set your goals ridiculously high and its a failure, you will fail above everyone elses success.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
