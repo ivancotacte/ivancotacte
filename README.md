@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided.</h3>
+<h3>Our life isn't how much we can take out, but how much we can put in.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
