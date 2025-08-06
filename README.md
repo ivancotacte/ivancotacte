@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>A fear of weakness only strengthens weakness.</h3>
+<h3>Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
