@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.</h3>
+<h3>Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
