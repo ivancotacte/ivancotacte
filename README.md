@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The greatest discovery of all time is that a person can change their future by merely changing their attitude.</h3>
+<h3>You don't need to be better than anyone else, you just need to be better than you used to be.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
