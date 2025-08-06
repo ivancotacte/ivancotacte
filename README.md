@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now.</h3>
+<h3>Only he who has no use for the empire is fit to be entrusted with it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
