@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more.</h3>
+<h3>Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
