@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future.</h3>
+<h3>An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
