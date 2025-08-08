@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you care about someone enough, you'll always be there for them no matter what.</h3>
+<h3>If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
