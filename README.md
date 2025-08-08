@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Opportunities multiply as they are seized.</h3>
+<h3>Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
