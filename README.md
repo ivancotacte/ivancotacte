@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.</h3>
+<h3>In the end, it's not the years in your life that count. It's the life in your years.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
