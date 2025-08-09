@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence.</h3>
+<h3>There is always risk, so learn to manage risk instead of avoiding it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
