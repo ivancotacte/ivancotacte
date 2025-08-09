@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Successful people tend to become more successful because they are always thinking about their successes.</h3>
+<h3>We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
