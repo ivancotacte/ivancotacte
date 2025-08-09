@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided.</h3>
+<h3>Repetition does not transform a lie into a truth.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
