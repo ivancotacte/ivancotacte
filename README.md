@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.</h3>
+<h3>When a man is penalized for honesty he learns to lie.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
