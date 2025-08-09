@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop.</h3>
+<h3>We have to walk in a way that we only print peace and serenity on the Earth. Walk as if you are kissing the Earth with your feet.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
