@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present.</h3>
+<h3>Gratitude is the fairest blossom which springs from the soul.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
