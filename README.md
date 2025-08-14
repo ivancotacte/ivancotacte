@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to.</h3>
+<h3>No matter what happens in life, never lose sight of who you are.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
