@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If the grass is greener on the other side, maybe that's because you're not taking good care of your grass.</h3>
+<h3>No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
