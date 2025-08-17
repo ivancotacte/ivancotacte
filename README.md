@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>It isn't that they can't see the solution. It is that they can't see the problem.</h3>
+<h3>When we think about our strengths, we are strong. When we think about our weaknesses, we are weak.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
