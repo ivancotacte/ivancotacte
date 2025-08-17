@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>When we think about our strengths, we are strong. When we think about our weaknesses, we are weak.</h3>
+<h3>The future belongs to those who believe in the beauty of their dreams.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
