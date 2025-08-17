@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become.</h3>
+<h3>Let not your mind run on what you lack as much as on what you have already.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
