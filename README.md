@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>We are born from a quiet sleep, and we die to a calm awakening</h3>
+<h3>Treat everyone with politeness and kindness, not because they are nice, but because you are.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
