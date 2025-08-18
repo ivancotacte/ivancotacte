@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen.</h3>
+<h3>The fewer the words, the better the prayer.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
