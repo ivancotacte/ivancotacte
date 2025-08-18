@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>To some degree, you control your life by controlling your time.</h3>
+<h3>You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
