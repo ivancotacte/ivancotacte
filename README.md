@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations.</h3>
+<h3>Happiness is not the absence of problems, it's the ability to deal with them.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
