@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.</h3>
+<h3>Change your thoughts and you change your world.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
