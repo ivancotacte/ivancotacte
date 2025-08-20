@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The more you feed your mind with positive thoughts, the more you can attract great things into your life.</h3>
+<h3>A dream doesn't become reality through magic it takes sweat, determination and hard work.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
