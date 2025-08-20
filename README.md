@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>You can do nothing to change the past, and the future will never come exactly as you plan or hope for.</h3>
+<h3>Happiness is an effect of doing what you love, not an end goal to be achieved.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
