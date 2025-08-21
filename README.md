@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus.</h3>
+<h3>You are the sky. Everything else - it's just the weather.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
