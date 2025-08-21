@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over.</h3>
+<h3>Many people will walk in and out of your life, but only true friends will leave footprints in your heart.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
