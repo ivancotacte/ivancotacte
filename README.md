@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything.</h3>
+<h3>Sometimes adversity is what you need to face in order to become successful.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
