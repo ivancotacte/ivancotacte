@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Don't worry about being successful, but work toward being significant and the success will naturally follow.</h3>
+<h3>It is useless to attempt to reason a man out of a thing he was never reasoned into.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
