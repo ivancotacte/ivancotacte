@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>When angry count to ten before you speak. If very angry, count to one hundred.</h3>
+<h3>Nothing has any power over me other than that which I give it through my conscious thoughts.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
