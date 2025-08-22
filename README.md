@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Peace is letting it be. Letting life flow, letting emotions flow through you.</h3>
+<h3>Do not follow the ideas of others, but learn to listen to the voice within yourself.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
