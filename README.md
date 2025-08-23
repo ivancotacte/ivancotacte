@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment.</h3>
+<h3>When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
