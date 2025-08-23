@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Distant water does not put out a nearby fire.</h3>
+<h3>In all chaos there is a cosmos, in all disorder a secret order.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
