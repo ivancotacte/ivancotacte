@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>As a matter of fact is an expression that precedes many an expression that isn't.</h3>
+<h3>We are most nearly ourselves when we achieve the seriousness of the child at play.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
