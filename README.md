@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.</h3>
+<h3>Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
