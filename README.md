@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle.</h3>
+<h3>Success is getting what you want. Happiness is wanting what you get.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
