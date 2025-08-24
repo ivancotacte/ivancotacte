@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.</h3>
+<h3>The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
