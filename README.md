@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>You can do two things at once, but you can't focus effectively on two things at once.</h3>
+<h3>Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
