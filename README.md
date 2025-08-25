@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen.</h3>
+<h3>Those who dream by day are cognizant of many things which escape those who dream only by night.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
