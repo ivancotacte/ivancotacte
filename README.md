@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now.</h3>
+<h3>Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
