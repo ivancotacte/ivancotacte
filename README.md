@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life.</h3>
+<h3>We take care of the future best by taking care of the present now.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
