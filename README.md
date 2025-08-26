@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Among the things you can give and still keep are your word, a smile, and a grateful heart.</h3>
+<h3>They say love is the best investment; the more you give, the more you get in return.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
