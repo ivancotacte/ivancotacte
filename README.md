@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Nature is pleased with simplicity. And nature is no dummy.</h3>
+<h3>If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
