@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were.</h3>
+<h3>It is the mark of an educated mind to be able to entertain a thought without accepting it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
