@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.</h3>
+<h3>Failure is simply the opportunity to begin again, this time more intelligently.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
