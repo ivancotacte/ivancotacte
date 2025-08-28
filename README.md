@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough. </h3>
+<h3>Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
