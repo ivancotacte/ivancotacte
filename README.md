@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.</h3>
+<h3>To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
