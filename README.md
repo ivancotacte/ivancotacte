@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The true soldier fights not because he hates what is in front of him, but because he loves what is behind him.</h3>
+<h3>Learn to sit back and observe, not everything needs a reaction.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
