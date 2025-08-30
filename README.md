@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you practiced for the day, then you have won. If you were lazy for the day, then you have lost.</h3>
+<h3>In the beginner's mind there are many possibilities, but in the expert's mind there are few.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
