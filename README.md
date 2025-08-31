@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Your heart is full of fertile seeds, waiting to sprout.</h3>
+<h3>He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
