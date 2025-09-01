@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right.</h3>
+<h3>We would accomplish many more things if we did not think of them as impossible.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
