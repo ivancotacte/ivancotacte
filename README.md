@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Every saint has a past, and every sinner has a future.</h3>
+<h3>Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
