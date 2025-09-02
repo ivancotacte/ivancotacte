@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The ladder of success is best climbed by stepping on the rungs of opportunity.</h3>
+<h3>Nourish the mind like you would your body. The mind cannot survive on junk food.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
