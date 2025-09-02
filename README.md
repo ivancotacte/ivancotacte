@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Whenever you find yourself on the side of the majority, it is time to reform.</h3>
+<h3>People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
