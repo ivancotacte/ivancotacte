@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.</h3>
+<h3>Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
