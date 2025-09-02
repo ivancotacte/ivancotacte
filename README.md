@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.</h3>
+<h3>You get paid in direct proportion to the difficulty of problems you solve.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
