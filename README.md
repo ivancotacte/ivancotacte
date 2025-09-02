@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level.</h3>
+<h3>Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
