@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world.</h3>
+<h3>The heart wants what it wants - or else it does not care.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
