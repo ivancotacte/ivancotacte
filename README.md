@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Listen to the secret sound, the real sound, which is inside you.</h3>
+<h3>The shoe that fits one person pinches another; there is no recipe for living that suits all cases.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
