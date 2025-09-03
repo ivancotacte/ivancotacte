@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>In order to control myself I must first accept myself by going with and not against my nature.</h3>
+<h3>What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
