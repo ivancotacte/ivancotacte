@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Human beings believe just as they breathe - in order to survive.</h3>
+<h3>Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
