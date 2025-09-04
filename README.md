@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Each path to knowledge involves different rules and these rules are not interchangeable.</h3>
+<h3>Failure means you've now learned another valuable lesson that pushes you one step closer to success.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
