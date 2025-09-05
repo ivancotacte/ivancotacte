@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The most virtuous are those who content themselves with being virtuous without seeking to appear so.</h3>
+<h3>The future belongs to those who learn more skills and combine them in creative ways.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
