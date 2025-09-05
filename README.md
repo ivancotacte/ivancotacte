@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  </h3>
+<h3>Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
