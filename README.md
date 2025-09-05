@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you.</h3>
+<h3>The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
