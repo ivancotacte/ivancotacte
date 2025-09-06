@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Don't look for meaning in the words. Listen to the silences.</h3>
+<h3>If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
