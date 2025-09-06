@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition.</h3>
+<h3>Most of us will do anything to avoid facing ourselves.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
