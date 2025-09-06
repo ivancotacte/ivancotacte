@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Some of us learn from other people's mistakes and the rest of us have to be other people.  </h3>
+<h3>What the caterpillar calls the end of the world, the master calls a butterfly.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
