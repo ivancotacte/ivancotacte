@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Men are equal; it is not birth but virtue that makes the difference.</h3>
+<h3>Successful people appreciate where they have come from, but they don't let their past set the tone for their future.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
