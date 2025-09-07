@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>They say love is the best investment; the more you give, the more you get in return.</h3>
+<h3>Do not fight with pigs - you will be smeared in mud but the pig will like it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
