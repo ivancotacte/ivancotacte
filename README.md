@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Everything you look at can become a fairy tale and you can get a story from everything you touch.</h3>
+<h3>Judgments prevent us from seeing the good that lies beyond appearances.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
