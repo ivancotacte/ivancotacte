@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>When something comes from within, when it is a part of you, you have no choice but to live it, to express it.</h3>
+<h3>He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
