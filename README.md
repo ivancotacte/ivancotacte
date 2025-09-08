@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  </h3>
+<h3>Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
