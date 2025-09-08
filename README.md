@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving.</h3>
+<h3>Some people don't like change, but you need to embrace change if the alternative is disaster.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
