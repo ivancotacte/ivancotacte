@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.</h3>
+<h3>If you can handle rejection, you'll learn to get everything you want.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
