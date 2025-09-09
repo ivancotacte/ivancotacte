@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us.</h3>
+<h3>It is safer to search in the maze than to remain in a cheeseless situation.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
