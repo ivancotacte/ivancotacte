@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time.</h3>
+<h3>You're never given a dream without also being given the power to make it true.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
