@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>What lies behind us and what lies before us are tiny matters compared to what lies within us.</h3>
+<h3>The more knowledge you have, the more you're free to rely on your instincts.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
