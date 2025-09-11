@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now.</h3>
+<h3>He who laughs at himself never runs out of things to laugh at.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
