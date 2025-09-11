@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain.</h3>
+<h3>Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
