@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold.</h3>
+<h3>So long as we are being remembered, we remain alive.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
