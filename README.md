@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. </h3>
+<h3>To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
