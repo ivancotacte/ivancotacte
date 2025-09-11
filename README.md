@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The eye with which I see God is the same eye with which God sees me.</h3>
+<h3>Every artist dips his brush in his own soul, and paints his own nature into his pictures.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
