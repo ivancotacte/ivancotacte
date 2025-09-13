@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death.</h3>
+<h3>When something comes from within, when it is a part of you, you have no choice but to live it, to express it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
