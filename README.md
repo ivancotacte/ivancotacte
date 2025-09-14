@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others.</h3>
+<h3>The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
