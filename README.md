@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Ideas do not reach perfection in a day, no matter how much study is put upon them.</h3>
+<h3>Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
