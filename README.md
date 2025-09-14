@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Unless a man is master of his soul, all other kinds of mastery amount to little.</h3>
+<h3>Challenge yourself to find the good and beautiful thing inside of everyone.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
