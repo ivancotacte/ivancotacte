@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Nothing is more creative...nor destructive...than a brilliant mind with a purpose.</h3>
+<h3>A hut full of laughter is richer than a palace full of sadness.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
