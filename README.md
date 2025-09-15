@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Expect the best, plan for the worst, and prepare to be surprised. </h3>
+<h3>Do what you feel in your heart to be right - for you'll be criticized anyway.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
