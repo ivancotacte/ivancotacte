@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love.</h3>
+<h3>Success is achieved and maintained by those who try and keep trying. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
