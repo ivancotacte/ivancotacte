@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.</h3>
+<h3>What kills the creative force is not age or lack of talent, but our own spirit, our own attitude.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
