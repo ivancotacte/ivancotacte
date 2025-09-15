@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Thoughts become things. If you see it in your mind, you will hold it in your hand.</h3>
+<h3>Live life as though nobody is watching, and express yourself as though everyone is listening.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
