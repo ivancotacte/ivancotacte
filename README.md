@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>You can easily judge the character of a man by how he treats those who can do nothing for him.</h3>
+<h3>The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
