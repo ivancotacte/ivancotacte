@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be.</h3>
+<h3>Do not look for a sanctuary in anyone except your self.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
