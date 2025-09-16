@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality.</h3>
+<h3>An investment in knowledge pays the best interest.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
