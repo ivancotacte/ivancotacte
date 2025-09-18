@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>It's easy to be a critic, but being a doer requires effort, risk, and change.  </h3>
+<h3>The more you extend kindness to yourself, the more it will become your automatic response to others.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
