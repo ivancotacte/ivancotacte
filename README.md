@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>It's not the size of the dog in the fight, it's the size of the fight in the dog.</h3>
+<h3>The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
