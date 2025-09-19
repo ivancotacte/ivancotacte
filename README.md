@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>It's wise to tell the truth. It's even wiser to tell it kindly.</h3>
+<h3>The positive thinker sees the invisible, feels the intangible, and achieves the impossible.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
