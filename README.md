@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>As a matter of fact is an expression that precedes many an expression that isn't.</h3>
+<h3>If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
