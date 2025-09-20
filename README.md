@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>To be totally at leisure for one day is to be immortal for one day. </h3>
+<h3>It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
