@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.</h3>
+<h3>While some of us act without thinking, too many of us think without acting.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
