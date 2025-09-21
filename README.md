@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything.</h3>
+<h3>Greatness lies not in being strong, but in the right use of strength.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
