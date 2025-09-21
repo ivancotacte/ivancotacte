@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined.</h3>
+<h3>Live and act within the limit of your knowledge and keep expanding it to the limit of your life.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
