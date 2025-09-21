@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Happiness is a quality of the soul...not a function of one's material circumstances.</h3>
+<h3>Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
