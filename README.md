@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.</h3>
+<h3>It is well known that those who do not trust themselves never trust others.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
