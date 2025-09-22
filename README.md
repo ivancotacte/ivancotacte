@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>We can know only that we know nothing. And that is the highest degree of human wisdom.</h3>
+<h3>If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
