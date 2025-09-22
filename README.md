@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>To the world you may be one person; but to one person you may be the world.</h3>
+<h3>Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
