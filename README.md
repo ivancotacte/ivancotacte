@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive.</h3>
+<h3>Projecting your mind into a successful situation is the most powerful means to achieve goals.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
