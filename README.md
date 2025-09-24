@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Whenever you find yourself on the side of the majority, it is time to reform.</h3>
+<h3>Loving thoughts and actions are clearly beneficial for our physical and mental health.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
