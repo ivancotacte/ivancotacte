@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>A wise man can learn more from a foolish question than a fool can learn from a wise answer.  </h3>
+<h3>Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
