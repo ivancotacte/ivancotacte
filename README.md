@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>We have no more right to consume happiness without producing it than to consume wealth without producing it.</h3>
+<h3>You give but little when you give of your possessions. It is when you give of yourself that you truly give.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
