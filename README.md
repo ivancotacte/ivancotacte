@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The traveler sees what he sees. The tourist sees what he has come to see.</h3>
+<h3>The man who moved the mountain was the one who began carrying away the smallest stones.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
