@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.</h3>
+<h3>Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
