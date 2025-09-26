@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Failure is a prerequisite for great success. If you want success faster, double your rate of failure.</h3>
+<h3>There is no fear for one whose mind is not filled with desires.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
