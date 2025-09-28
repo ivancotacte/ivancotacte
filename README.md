@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.</h3>
+<h3>Pain doesn't last. And when it's gone, we have something to show for it. Growth.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
