@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>You're braver than you believe, and stronger than you seem, and smarter than you think.</h3>
+<h3>The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
