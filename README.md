@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The only real security that a man can have in this world is a reserve of knowledge, experience and ability. </h3>
+<h3>Success is the sum of small efforts, repeated day in and day out.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
