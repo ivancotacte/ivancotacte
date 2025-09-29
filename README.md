@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>I hear and I forget. I see and I remember. I do and I understand. </h3>
+<h3>If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
