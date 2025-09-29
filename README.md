@@ -49,7 +49,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The divine is not something high above us. It is in heaven, it is in earth, it is inside us.</h3>
+<h3>To judge a man by his weakest link or deed is like judging the power of the ocean by one wave.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
