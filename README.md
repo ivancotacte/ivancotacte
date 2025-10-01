@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Thought is so cunning, so clever, that it distorts everything for its own convenience.</h3>
+<h3>Wise men speak because they have something to say; Fools because they have to say something.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
