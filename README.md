@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along.</h3>
+<h3>Hold yourself responsible for a higher standard than anybody else expects of you.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
