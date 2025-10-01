@@ -7,7 +7,7 @@
 <h2 align="center">🛠️ Ｔｅｃｈ Ｓｔａｃｋ 🛠️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,php,css,vscode,github,git,nodejs,javascript,express,mongodb,mysql,arduino" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,php,css,vscode,github,git,nodejs,javascript,express,mongodb,mysql,arduino,cpp,cs,firebase,laravel,py,tailwind,vite" />
 </div>
 
 <h2 align="center">📊 ＧｉｔＨｕｂ Ｓｔａｔｓ 📊</h2>
