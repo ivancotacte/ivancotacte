@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.</h3>
+<h3>It is not what we get. But who we become, what we contribute... that gives meaning to our lives.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
