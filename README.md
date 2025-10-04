@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you're afraid to die, you're afraid to live. You can't have one without the other.</h3>
+<h3>Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
