@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>It doesn't matter where you are coming from. All that matters is where you are going. </h3>
+<h3>The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
