@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>True life is lived when tiny changes occur.</h3>
+<h3>Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
