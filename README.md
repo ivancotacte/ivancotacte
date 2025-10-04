@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT.</h3>
+<h3>The measure of wisdom is how calm you are when facing any given situation.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
