@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.</h3>
+<h3>If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
