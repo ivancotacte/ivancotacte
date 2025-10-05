@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Let not your mind run on what you lack as much as on what you have already.</h3>
+<h3>If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
