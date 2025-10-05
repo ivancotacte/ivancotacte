@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else.</h3>
+<h3>To forget the whole world is easy; to make the whole world forget you is hard.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
