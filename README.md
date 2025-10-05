@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Blessed is he who expects nothing, for he shall be disappointed.</h3>
+<h3>The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
