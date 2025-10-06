@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The measure of wisdom is how calm you are when facing any given situation.</h3>
+<h3>No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
