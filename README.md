@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Confidence is like a dragon where, for every head cut off, two more heads grow back.</h3>
+<h3>Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
