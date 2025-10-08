@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you see a get rich quick scheme, that's someone else trying to get rich off of you.</h3>
+<h3>A mistake is only an error, it becomes a mistake when you fail to correct it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
