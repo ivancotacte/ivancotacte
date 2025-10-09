@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The more you are grateful for what you have the more you will have to be grateful for.  </h3>
+<h3>If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
