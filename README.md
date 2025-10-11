@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. </h3>
+<h3>Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
