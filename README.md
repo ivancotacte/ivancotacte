@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The greater the impact you want to make, the greater your influence needs to be.</h3>
+<h3>We live only now. Everything else is either passed or is unknown.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
