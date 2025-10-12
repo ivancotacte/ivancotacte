@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Progress comes to those who train and train; reliance on secret techniques will get you nowhere.</h3>
+<h3>Don't let the noise of others' opinions drown out your own inner voice.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
