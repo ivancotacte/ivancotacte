@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Prefer to be defeated in the presence of the wise than to excel among fools.</h3>
+<h3>Don't Let Yesterday Take Up Too Much Of Today.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
