@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death.</h3>
+<h3>Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
