@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Fear is a natural reaction to moving closer to the truth.</h3>
+<h3>To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
