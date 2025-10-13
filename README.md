@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. </h3>
+<h3>Life is ten percent what you experience and ninety percent how you respond to it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
