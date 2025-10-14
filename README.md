@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The consequences of today are determined by the actions of the past. To change your future, alter your decisions today.</h3>
+<h3>If you do not tell the truth about yourself you cannot tell it about other people.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
