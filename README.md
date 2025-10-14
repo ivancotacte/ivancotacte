@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Do not allow your inner doubts to keep you from achieving what you can do.</h3>
+<h3>My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
