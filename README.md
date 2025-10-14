@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with.</h3>
+<h3>People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
