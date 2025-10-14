@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Perfection is not attainable, but if we chase perfection we can catch excellence.</h3>
+<h3>Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
