@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The present moment is filled with joy and happiness. If you are attentive, you will see it.</h3>
+<h3>The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
