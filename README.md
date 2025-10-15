@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The outer conditions of a person's life will always be found to reflect their inner beliefs.</h3>
+<h3>No kind action ever stops with itself. One kind action leads to another. Good example is followed.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
