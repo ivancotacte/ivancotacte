@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Take interest and even delight in doing the small things well.</h3>
+<h3>The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
