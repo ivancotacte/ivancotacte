@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.</h3>
+<h3>For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
