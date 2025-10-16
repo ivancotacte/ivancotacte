@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Thoughts become things. If you see it in your mind, you will hold it in your hand.</h3>
+<h3>Beauty is not in the face; beauty is a light in the heart.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
