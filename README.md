@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.</h3>
+<h3>The thing about smart people is that they seem like crazy people to dumb people.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
