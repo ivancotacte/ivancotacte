@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.</h3>
+<h3>Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
