@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Confidence is consistency of thinking about what is possible and how to make it possible.</h3>
+<h3>If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
