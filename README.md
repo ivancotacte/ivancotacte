@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity.</h3>
+<h3>Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
