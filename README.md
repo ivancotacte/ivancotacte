@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The thing about smart people is that they seem like crazy people to dumb people.</h3>
+<h3>Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
