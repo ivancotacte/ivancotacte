@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along.</h3>
+<h3>No man will make a great leader who wants to do it all himself or to get all the credit for doing it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
