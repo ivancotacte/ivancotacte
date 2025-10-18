@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>True it is, we only hate those whom we do not know.</h3>
+<h3>If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
