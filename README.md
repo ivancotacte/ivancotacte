@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Knowing is not enough, we must apply. Willing is not enough, we must do.  </h3>
+<h3>One is never afraid of the unknown; one is afraid of the known coming to an end.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
