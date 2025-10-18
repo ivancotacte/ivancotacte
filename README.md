@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The goal is not to be perfect by the end, the goal is to be better today.</h3>
+<h3>Success in any endeavor depends on the degree to which it is an expression of your true self. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
