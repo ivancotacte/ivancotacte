@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that.</h3>
+<h3>Yesterday is gone. Tomorrow has not yet come. We have only today.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
