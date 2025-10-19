@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>I'm not afraid of death, but I'm in no hurry to die.</h3>
+<h3>Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
