@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Often in the real world, it's not the smart that get ahead, but the bold.</h3>
+<h3>Some people are old at 18 and some are young at 90. Time is a concept that humans created.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
