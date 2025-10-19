@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Wise people, even though all laws were abolished, would still lead the same life.</h3>
+<h3>I am thankful to all who said no to me. It is because of them that I'm doing it myself.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
