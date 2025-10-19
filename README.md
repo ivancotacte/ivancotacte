@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Some people are old at 18 and some are young at 90. Time is a concept that humans created.</h3>
+<h3>Thinking is the hardest work there is. That is why so few people engage in it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
