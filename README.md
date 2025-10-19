@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Just throw away all thoughts of imaginary things, and stand firm in that which you are.</h3>
+<h3>Become the kind of leader that people would follow voluntarily, even if you had no title or position.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
