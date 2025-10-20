@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. </h3>
+<h3>Desire for the fruits of work must never be your motive in working.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
