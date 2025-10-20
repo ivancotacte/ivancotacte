@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated.</h3>
+<h3>Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
