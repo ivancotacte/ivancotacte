@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Deliberately seek the company of people who influence you to think and act on building the life you desire.</h3>
+<h3>Open your eyes and look within. Are you satisfied with the life you're living?</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
