@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>You play the hand you're dealt. I think the game's worthwhile.  </h3>
+<h3>Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
