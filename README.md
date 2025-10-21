@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect.</h3>
+<h3>Thinking is the hardest work there is, which is probably the reason why so few engage in it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
