@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>I would rather be hated for who I am than loved for who I'm not.  </h3>
+<h3>Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
