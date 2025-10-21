@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Good, better, best. Never let it rest. 'Til your good is better and your better is best. </h3>
+<h3>The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
