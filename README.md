@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>It is the mark of an educated mind to be able to entertain a thought without accepting it.</h3>
+<h3>Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
