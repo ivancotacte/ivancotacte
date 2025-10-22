@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>I alone cannot change the world, but I can cast a stone across the waters to create many ripples.</h3>
+<h3>Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
