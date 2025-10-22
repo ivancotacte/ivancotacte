@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.</h3>
+<h3>Catch, then, O catch the transient hour; Improve each moment as it flies! </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
