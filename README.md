@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  </h3>
+<h3>Walking with a friend in the dark is better than walking alone in the light.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
