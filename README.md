@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt.</h3>
+<h3>All that we see or seem is but a dream within a dream.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
