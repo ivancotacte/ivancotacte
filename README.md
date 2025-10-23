@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>You can do two things at once, but you can't focus effectively on two things at once.</h3>
+<h3>Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
