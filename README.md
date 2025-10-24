@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>We are all different. Don't judge, understand instead.</h3>
+<h3>Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
