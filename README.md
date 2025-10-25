@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The moment you stop to think about whether you love someone, you've already stopped loving that person forever.</h3>
+<h3>Do not bite at the bait of pleasure, till you know there is no hook beneath it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
