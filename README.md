@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>You may forget with whom you laughed, but you will never forget with whom you wept.  </h3>
+<h3>Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
