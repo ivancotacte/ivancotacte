@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Do not follow the ideas of others, but learn to listen to the voice within yourself.</h3>
+<h3>In matters of style, swim with the current; in matters of principle, stand like a rock.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
