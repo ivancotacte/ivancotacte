@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>When you're at the end of your rope, tie a knot and hold on.</h3>
+<h3>Thoughts become things. If you see it in your mind, you will hold it in your hand.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
