@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches.</h3>
+<h3>There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
