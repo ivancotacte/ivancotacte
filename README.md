@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Many people will walk in and out of your life, but only true friends will leave footprints in your heart.</h3>
+<h3>I believe that one of life's greatest risks is never daring to risk.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
