@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>You don't know who is important to you until you actually lose them.</h3>
+<h3>If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
