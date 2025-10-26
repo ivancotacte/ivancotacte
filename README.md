@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Conscience is a dog that does not stop us from passing but that we cannot prevent from barking.</h3>
+<h3>It is startling to realize how much unbelief is necessary to make belief possible.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
