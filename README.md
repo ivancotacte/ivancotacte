@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Far and away the best prize that life has to offer is the chance to work hard at work worth doing.</h3>
+<h3>Don't let them drag you down by rumors. Just go with what you believe in.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
