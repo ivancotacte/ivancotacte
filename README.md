@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.</h3>
+<h3>Human happiness and moral duty are inseparably connected. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
