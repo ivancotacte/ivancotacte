@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Wake up and smile! Wake up and be grateful!</h3>
+<h3>The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
