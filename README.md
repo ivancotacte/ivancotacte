@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Nature is pleased with simplicity. And nature is no dummy.</h3>
+<h3>If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
