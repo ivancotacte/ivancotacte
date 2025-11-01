@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more.</h3>
+<h3>Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
