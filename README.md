@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.</h3>
+<h3>Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
