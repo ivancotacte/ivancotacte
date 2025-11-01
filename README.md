@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time.</h3>
+<h3>Small men think they are small; great men never know they are great. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
