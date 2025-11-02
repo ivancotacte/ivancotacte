@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.</h3>
+<h3>Have a heart that never hardens, and a temper that never tires, and a touch that never hurts.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
