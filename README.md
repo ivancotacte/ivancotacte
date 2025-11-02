@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.</h3>
+<h3>Anyone who has ever made anything of importance was disciplined.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
