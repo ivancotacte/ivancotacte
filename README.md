@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Your happiness is what truly matters most. Do what you have to do in order to be happy.</h3>
+<h3>It is the mark of an educated mind to be able to entertain a thought without accepting it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
