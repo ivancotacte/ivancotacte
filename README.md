@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Nothing we see or hear is perfect. But right there in the imperfection is perfect reality.</h3>
+<h3>You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
