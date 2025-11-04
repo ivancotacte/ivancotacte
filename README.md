@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.</h3>
+<h3>Sometimes success isn't about making the right decision, it's more about making some decision.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
