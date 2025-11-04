@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you.</h3>
+<h3>Be not glad at the misfortune of another, though he may be your enemy. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
