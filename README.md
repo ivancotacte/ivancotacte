@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>To succeed takes more than the desire to win. It also takes the acceptance that we could fail.</h3>
+<h3>You can, you should, and if you're brave enough to start, you will.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
