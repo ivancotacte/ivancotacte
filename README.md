@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Your only limitations are those you set up in your mind or permit others to set up for you.</h3>
+<h3>I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
