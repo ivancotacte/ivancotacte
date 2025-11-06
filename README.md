@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>As long as a human being worries about when he will die, and what he has that is his, all of his works are zero.</h3>
+<h3>Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
