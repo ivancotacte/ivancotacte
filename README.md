@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Always seek out the seed of triumph in every adversity.</h3>
+<h3>Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
