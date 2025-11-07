@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'</h3>
+<h3>Continuous effort - not strength or intelligence - is the key to unlocking our potential.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
