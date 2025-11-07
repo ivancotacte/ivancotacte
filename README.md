@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view.</h3>
+<h3>You must find the place inside yourself where nothing is impossible.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
