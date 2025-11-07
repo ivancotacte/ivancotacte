@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Don't let the fear of losing be greater than the excitement of winning.</h3>
+<h3>There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
