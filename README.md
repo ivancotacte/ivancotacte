@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.</h3>
+<h3>Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
