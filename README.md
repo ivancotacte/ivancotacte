@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Allow motion to equal emotion.</h3>
+<h3>Our greatest glory is not in never falling, but in rising every time we fall. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
