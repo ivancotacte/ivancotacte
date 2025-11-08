@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month.</h3>
+<h3>A gentleman is one who puts more into the world than he takes out.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
