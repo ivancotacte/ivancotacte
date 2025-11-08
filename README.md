@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Cherish forever what makes you unique, cuz you're really a yawn if it goes.</h3>
+<h3>If you've never eaten while crying you don t know what life tastes like.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
