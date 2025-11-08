@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.</h3>
+<h3>Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
