@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.</h3>
+<h3>No man ever steps in the same river twice, for it's not the same river and he's not the same man.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
