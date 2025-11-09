@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>All know that the drop merges into the ocean, but few know that the ocean merges into the drop.</h3>
+<h3>No valid plans for the future can be made by those who have no capacity for living now.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
