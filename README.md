@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Happiness is a quality of the soul...not a function of one's material circumstances.</h3>
+<h3>What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
