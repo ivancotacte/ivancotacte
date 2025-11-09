@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Just as true humor is laughter at oneself, true humanity is knowledge of oneself.</h3>
+<h3>The more reasons you have for achieving your goal, the more determined you will become.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
