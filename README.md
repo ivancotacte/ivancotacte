@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>A heart is not judged by how much you love, but by how much you are loved by others.</h3>
+<h3>The big thing is to make a winning effort. I'm not obsessed with wins.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
