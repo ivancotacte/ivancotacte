@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Take responsibility of your own happiness, never put it in other people's hands.</h3>
+<h3>If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
