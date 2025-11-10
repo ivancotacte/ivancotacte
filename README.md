@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Death walks faster than the wind and never returns what he has taken.</h3>
+<h3>A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
