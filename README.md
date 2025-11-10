@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way.</h3>
+<h3>You'll get more from being a peacemaker than a warrior.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
