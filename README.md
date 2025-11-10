@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>A dream doesn't become reality through magic it takes sweat, determination and hard work.</h3>
+<h3>People should pursue what they're passionate about. That will make them happier than pretty much anything else.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
