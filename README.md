@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>I put my heart and soul into my work, and I have lost my mind in the process.</h3>
+<h3>None are more hopelessly enslaved than those who falsely believe they are free.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
