@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>None are more hopelessly enslaved than those who falsely believe they are free.</h3>
+<h3>The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
