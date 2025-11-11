@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>We must embrace pain and burn it as fuel for our journey.</h3>
+<h3>Life is like a beautiful melody, only the lyrics are messed up.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
