@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Here is the test to find whether your mission on earth is finished. If you're alive, it isn't.</h3>
+<h3>Most people dabble their way through life, never deciding to master anything in particular.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
