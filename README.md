@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Science can flourish only in an atmosphere of free speech. </h3>
+<h3>Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
