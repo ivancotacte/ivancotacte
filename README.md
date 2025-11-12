@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>There is always room in your life for thinking bigger, pushing limits and imagining the impossible.</h3>
+<h3>Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
