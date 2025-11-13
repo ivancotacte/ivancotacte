@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Trying to define yourself is like trying to bite your own teeth.</h3>
+<h3>Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
