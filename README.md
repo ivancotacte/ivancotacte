@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>For changes to be of any true value, they've got to be lasting and consistent.</h3>
+<h3>A rational person can find peace by cultivating indifference to things outside of their control.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
