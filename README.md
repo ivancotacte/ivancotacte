@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The quicker you let go of old cheese, the sooner you find new cheese.</h3>
+<h3>When you repeat a mistake, it is not a mistake anymore: it is a decision.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
