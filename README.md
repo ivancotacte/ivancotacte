@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>No amount of regretting can change the past, and no amount of worrying can change the future.</h3>
+<h3>You will have bad times, but they will always wake you up to the stuff you weren't paying attention to.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
