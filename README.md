@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Yesterday is but today's memory, tomorrow is today's dream.</h3>
+<h3>If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
