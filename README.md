@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change.</h3>
+<h3>Others can stop you temporarily - you are the only one who can do it permanently.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
