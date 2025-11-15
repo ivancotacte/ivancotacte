@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The only thing more frustrating than slanderers is those foolish enough to listen to them.</h3>
+<h3>Anyone who reads a book with a sense of obligation does not understand the art of reading.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
