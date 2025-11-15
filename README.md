@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Others can stop you temporarily - you are the only one who can do it permanently.</h3>
+<h3>When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
