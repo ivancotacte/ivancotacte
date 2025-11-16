@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world.</h3>
+<h3>The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
