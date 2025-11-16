@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect.</h3>
+<h3>To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
