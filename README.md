@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  </h3>
+<h3>Only he who has no use for the empire is fit to be entrusted with it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
