@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere.</h3>
+<h3>If you want to be successful, you have to jump, there's no way around it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
