@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>People seldom do what they believe in. They do what is convenient, then repent.</h3>
+<h3>If you aren't sure which way to do something, do it both ways and see which works better.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
