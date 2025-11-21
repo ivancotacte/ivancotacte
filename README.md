@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Life is a gift. Never forget to enjoy and bask in every moment you are in.</h3>
+<h3>If you run you stand a chance of losing, but if you don't run you've already lost.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
