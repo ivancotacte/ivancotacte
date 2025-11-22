@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The busy man is never wise and the wise man is never busy.</h3>
+<h3>Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
