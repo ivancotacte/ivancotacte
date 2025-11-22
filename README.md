@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Catch, then, O catch the transient hour; Improve each moment as it flies! </h3>
+<h3>Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
