@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists.</h3>
+<h3>You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
