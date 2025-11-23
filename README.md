@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Happiness is when what you think, what you say, and what you do are in harmony.</h3>
+<h3>Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
