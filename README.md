@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance.</h3>
+<h3>Always do your best. What you plant now, you will harvest later.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
