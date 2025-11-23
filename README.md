@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed.</h3>
+<h3>We can have more than we've got because we can become more than we are.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
