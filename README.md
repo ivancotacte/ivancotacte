@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Death is not sad; the sad thing is that most people don't really live at all.</h3>
+<h3>Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
