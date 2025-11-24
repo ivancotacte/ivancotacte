@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>There are two things a person should never be angry at, what they can help, and what they cannot.</h3>
+<h3>He who permits himself to tell a lie once, finds it much easier to do it the second time.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
