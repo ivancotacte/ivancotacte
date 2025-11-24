@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Unless a man is master of his soul, all other kinds of mastery amount to little.</h3>
+<h3>Success is nothing more than a few simple disciplines practiced every day.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
