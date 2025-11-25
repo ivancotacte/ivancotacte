@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else.</h3>
+<h3>If you let your head get too big, it'll break your neck.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
