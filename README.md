@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose.</h3>
+<h3>What's right is what's left if you do everything else wrong.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
