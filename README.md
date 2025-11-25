@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to.</h3>
+<h3>Victory is always possible for the person who refuses to stop fighting.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
