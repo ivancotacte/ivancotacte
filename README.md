@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>At first dreams seem impossible, then improbable, then inevitable.</h3>
+<h3>Kind words can be short and easy to speak, but their echoes are truly endless.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
