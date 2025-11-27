@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>I know not all that may be coming, but be it what it will, I'll go to it laughing.</h3>
+<h3>A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
