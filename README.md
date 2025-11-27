@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>A moving door hinge never corrodes. Flowing water never grows stagnant.</h3>
+<h3>You cannot always control what goes on outside. But you can always control what goes on inside. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
