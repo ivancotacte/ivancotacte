@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>You can do two things at once, but you can't focus effectively on two things at once.</h3>
+<h3>There are no secrets to success. It is the result of preparation, hard work, learning from failure.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
