@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound.</h3>
+<h3>You can do two things at once, but you can't focus effectively on two things at once.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
