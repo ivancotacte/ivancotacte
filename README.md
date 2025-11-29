@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Failure will never overtake me if my determination to succeed is strong enough.</h3>
+<h3>One day, in retrospect, the years of struggle will strike you as the most beautiful.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
