@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>When you repeat a mistake, it is not a mistake anymore: it is a decision.</h3>
+<h3>Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
