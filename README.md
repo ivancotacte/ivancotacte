@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Even though you are on the right track - you will get run over if you just sit there.</h3>
+<h3>Nothing is more creative...nor destructive...than a brilliant mind with a purpose.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
