@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The finish line is just the beginning of a whole new race.</h3>
+<h3>Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
