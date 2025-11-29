@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Leaders think and talk about solutions. Followers think and talk about the problems.</h3>
+<h3>If you believe you can, you can. If you believe you can't, then, well you can't.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
