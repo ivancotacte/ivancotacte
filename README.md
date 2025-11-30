@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Nothing is too high for a man to reach, but he must climb with care and confidence</h3>
+<h3>Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
