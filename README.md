@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The quality, not the longevity, of one's life is what is important.</h3>
+<h3>A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
