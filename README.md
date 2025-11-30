@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Understanding that rests in what it does not understand is the finest.</h3>
+<h3>The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
