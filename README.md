@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Nothing has any power over me other than that which I give it through my conscious thoughts.</h3>
+<h3>Many roads lead to the path, but basically there are only two: reason and practice. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
