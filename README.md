@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.</h3>
+<h3>Be yourself; everyone else is already taken.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
