@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.</h3>
+<h3>If you always do what you've always done, you'll always get what you've always got. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
