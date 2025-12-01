@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Remember, today is the tomorrow you worried about yesterday.</h3>
+<h3>It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
