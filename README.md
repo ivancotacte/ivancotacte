@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>What most people need to learn in life is how to love people and use things instead of using people and loving things.</h3>
+<h3>Everyone has the right to make his own decisions, but none has the right to force his decision on others.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
