@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Luck is a matter of preparation meeting opportunity.</h3>
+<h3>To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
