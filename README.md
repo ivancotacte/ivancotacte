@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Zen insists that the whole trouble is just our failure to realize that there is no problem.</h3>
+<h3>At the center of your being you have the answer; you know who you are and you know what you want.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
