@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever.</h3>
+<h3>Life reflects your own thoughts back to you.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
