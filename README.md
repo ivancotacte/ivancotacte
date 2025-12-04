@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy.</h3>
+<h3>Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
