@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything.</h3>
+<h3>Never allow a person to tell you no who doesn't have the power to say yes.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
