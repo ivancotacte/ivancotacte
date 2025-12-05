@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>I am thankful to all those who said no. It's because of them, I did it myself.  </h3>
+<h3>Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
