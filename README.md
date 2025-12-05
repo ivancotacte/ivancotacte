@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Many of life's failures are people who did not realize how close they were to success when they gave up.</h3>
+<h3>A gentleman accepts the responsibility of his actions and bears the burden of their consequences.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
