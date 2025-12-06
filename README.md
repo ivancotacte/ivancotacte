@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The future will be shaped by those willing to commit their minds and their bodies to the task.</h3>
+<h3>Getting lost along your path is a part of finding the path you are meant to be on.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
