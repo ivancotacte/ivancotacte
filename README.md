@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>A heart is not judged by how much you love, but by how much you are loved by others.</h3>
+<h3>Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
