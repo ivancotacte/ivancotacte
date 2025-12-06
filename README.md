@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Progress lies not in enhancing what is, but in advancing toward what will be.</h3>
+<h3>As long as a human being worries about when he will die, and what he has that is his, all of his works are zero.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
