@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.</h3>
+<h3>Silence is the great teacher and to learn its lessons you must pay attention to it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
