@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt.</h3>
+<h3>Your chances of success in any undertaking can always be measured by your belief in yourself.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
