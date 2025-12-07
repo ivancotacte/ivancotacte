@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If the only prayer you ever say in your entire life is thank you, it will be enough.</h3>
+<h3>It takes half your life before you discover life is a do-it-yourself project.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
