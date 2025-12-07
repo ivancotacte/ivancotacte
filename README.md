@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy.</h3>
+<h3>You know you are on the road to success if you would do your job and not be paid for it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
