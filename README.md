@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving.</h3>
+<h3>Man invented language to satisfy his deep need to complain.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
