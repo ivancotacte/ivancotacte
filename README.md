@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Only when you can be extremely pliable and soft can you be extremely hard and strong.</h3>
+<h3>Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
