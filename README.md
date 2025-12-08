@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>There is no limit to the amount of good you can do if you don't care who gets the credit.</h3>
+<h3>Failure is simply the opportunity to begin again, this time more intelligently.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
