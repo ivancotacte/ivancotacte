@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being.</h3>
+<h3>If it entertains you now but will bore you someday, it's a distraction. Keep looking.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
