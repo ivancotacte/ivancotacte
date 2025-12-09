@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success.</h3>
+<h3>We have no more right to consume happiness without producing it than to consume wealth without producing it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
