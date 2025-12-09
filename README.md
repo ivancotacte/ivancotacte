@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>There's a very deep connection among human beings. All we have to do is open our minds to it.</h3>
+<h3>All you need is the plan, the road map, and the courage to press on to your destination.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
