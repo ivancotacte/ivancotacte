@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. </h3>
+<h3>Learn only how to avoid seeking for and attaching yourselves to anything.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
