@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Why change? Everyone has his own style. When you have found it, you should stick to it.</h3>
+<h3>The greatest of all mistakes is to do nothing because you think you can only do a little.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
