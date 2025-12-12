@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution.</h3>
+<h3>However difficult life may seem, there is always something you can do and succeed at.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
