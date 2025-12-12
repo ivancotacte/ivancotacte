@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>There are no second chances in life, except to feel remorse.</h3>
+<h3>Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
