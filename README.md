@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves.</h3>
+<h3>Don't seek, don't search, don't ask, don't knock, don't demand - relax.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
