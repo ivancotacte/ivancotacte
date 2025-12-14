@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly.</h3>
+<h3>Every artist dips his brush in his own soul, and paints his own nature into his pictures.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
