@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given.</h3>
+<h3>If you run you stand a chance of losing, but if you don't run you've already lost.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
