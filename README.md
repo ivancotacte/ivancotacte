@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Blessed is he who expects nothing, for he shall be disappointed.</h3>
+<h3>We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
