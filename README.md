@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Realistic people do not accomplish extraordinary things.</h3>
+<h3>Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
