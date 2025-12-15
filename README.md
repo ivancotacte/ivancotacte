@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away.</h3>
+<h3>Always be a first-rate version of yourself, instead of a second-rate version of someone else.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
