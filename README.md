@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>When it is dark enough, you can see the stars.</h3>
+<h3>Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
