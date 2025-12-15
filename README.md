@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Arise, slay thy enemies, enjoy a prosperous kingdom.</h3>
+<h3>Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
