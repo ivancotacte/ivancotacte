@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>When you have to make a choice and don't make it, that is in itself a choice.</h3>
+<h3>The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
