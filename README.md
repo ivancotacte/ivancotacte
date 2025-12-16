@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Give more than you think you can, trusting that you are richer than you think.</h3>
+<h3>What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
