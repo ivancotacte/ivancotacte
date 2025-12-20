@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Success is never final, failure is never fatal. It's courage that counts.</h3>
+<h3>Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
