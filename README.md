@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time.</h3>
+<h3>Hold yourself responsible for a higher standard than anybody else expects of you.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
