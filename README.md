@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The attempt to escape from pain, is what creates more pain.</h3>
+<h3>Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
