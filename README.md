@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.</h3>
+<h3>The whole of life, from the moment you are born to the moment you die, is a process of learning.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
