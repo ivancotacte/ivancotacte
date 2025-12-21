@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Always forgive your enemies - nothing annoys them so much. </h3>
+<h3>If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
