@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner.</h3>
+<h3>Do you have the patience to wait until your mud settles and the water is clear?</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
