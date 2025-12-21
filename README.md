@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Identify your problems, but give your power and energy to solutions.</h3>
+<h3>Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
