@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is.</h3>
+<h3>Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
