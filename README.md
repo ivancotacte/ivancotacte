@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy.</h3>
+<h3>Failure is a prerequisite for great success. If you want success faster, double your rate of failure.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
