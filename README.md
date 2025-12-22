@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>In the beginner's mind there are many possibilities, but in the expert's mind there are few.</h3>
+<h3>If you do not tell the truth about yourself you cannot tell it about other people.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
