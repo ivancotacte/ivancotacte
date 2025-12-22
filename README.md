@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.</h3>
+<h3>Everyone is a moon, and has a dark side which he never shows to anybody.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
