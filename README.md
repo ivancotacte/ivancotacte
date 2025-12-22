@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Everyone is a moon, and has a dark side which he never shows to anybody.</h3>
+<h3>If you want things to be different, perhaps the answer is to become different yourself.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
