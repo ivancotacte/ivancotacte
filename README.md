@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>At the end of the day, let there be no excuses, no explanations, no regrets.</h3>
+<h3>It will never rain roses: when we want to have more roses, we must plant more roses.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
