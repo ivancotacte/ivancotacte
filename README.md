@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.</h3>
+<h3>You can tell more about a person by what he says about others than you can by what others say about him.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
