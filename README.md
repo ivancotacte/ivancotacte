@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.</h3>
+<h3>There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
