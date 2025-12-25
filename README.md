@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.</h3>
+<h3>Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
