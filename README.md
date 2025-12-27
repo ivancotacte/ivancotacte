@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>At the center of your being you have the answer; you know who you are and you know what you want.</h3>
+<h3>What most people need to learn in life is how to love people and use things instead of using people and loving things.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
