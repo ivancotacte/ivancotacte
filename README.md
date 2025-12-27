@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The dead receive more flowers than the living because regret is stronger than gratitude.</h3>
+<h3>You get paid in direct proportion to the difficulty of problems you solve.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
