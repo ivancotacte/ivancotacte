@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.</h3>
+<h3>If you do not get the chills when you set your goal you're not setting big enough goals.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
