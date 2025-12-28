@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The less you open your heart to others, the more your heart suffers.</h3>
+<h3>Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
