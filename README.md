@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Sometimes it is more important to discover what one cannot do, than what one can do.</h3>
+<h3>The trouble with most of us is that we'd rather be ruined by praise than saved by criticism.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
