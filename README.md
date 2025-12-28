@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>We never know the love of a parent till we become parents ourselves.</h3>
+<h3>Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
