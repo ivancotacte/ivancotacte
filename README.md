@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>You can have it all. You just can't have it all at once. </h3>
+<h3>Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
