@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again.</h3>
+<h3>I am not what happened to me, I am what I choose to become.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
