@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you are ever the smartest person in the room, you are in the wrong room.</h3>
+<h3>Zen insists that the whole trouble is just our failure to realize that there is no problem.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
