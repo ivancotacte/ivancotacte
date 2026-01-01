@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Peace of mind is that mental condition in which you have accepted the worst.</h3>
+<h3>Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
