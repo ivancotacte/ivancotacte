@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>When you are content to be simply yourself and don't compare or compete, everybody will respect you. </h3>
+<h3>You get paid in direct proportion to the difficulty of problems you solve.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
