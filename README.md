@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>When you believe in a thing, believe in it all the way, implicitly and unquestionable.</h3>
+<h3>We meet ourselves time and again in a thousand disguises on the path of life.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
