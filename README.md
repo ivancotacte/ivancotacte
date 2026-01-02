@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>We meet ourselves time and again in a thousand disguises on the path of life.</h3>
+<h3>Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
