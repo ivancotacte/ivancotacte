@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you want something you've never had you must be willing to do something you've never done.</h3>
+<h3>The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
