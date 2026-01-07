@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>A clever person turns great troubles into little ones, and little ones into none at all. </h3>
+<h3>To bear trials with a calm mind robs misfortune of its strength and burden.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
