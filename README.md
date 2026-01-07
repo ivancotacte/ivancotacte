@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>It is not what we get. But who we become, what we contribute... that gives meaning to our lives.</h3>
+<h3>We are always complaining that our days are few, and acting as though there would be no end of them.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
