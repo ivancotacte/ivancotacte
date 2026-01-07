@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Old age is like everything else. To make a success of it, you've got to start young.</h3>
+<h3>My mind seems to have become a kind of machine for grinding general laws out of large collections of facts.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
