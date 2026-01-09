@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The question isn't who is going to let me; it's who is going to stop me.</h3>
+<h3>To be in harmony with the wholeness of things is not to have anxiety over imperfections.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
