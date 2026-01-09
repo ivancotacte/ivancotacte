@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Working hard for something we don't care about is called stress: Working hard for something we love is called passion.</h3>
+<h3>Things may come to those who wait, but only the things left by those who hustle.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
