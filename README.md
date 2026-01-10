@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff.</h3>
+<h3>Real loss is only possible when you love something more than you love yourself.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
