@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>People spend too much time doing and not enough time thinking about what they should be doing.</h3>
+<h3>Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
