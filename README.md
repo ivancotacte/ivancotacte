@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>A day without laughter is a day wasted.</h3>
+<h3>Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
