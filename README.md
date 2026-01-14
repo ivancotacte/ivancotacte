@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Don't let the silly little dramas of each day get you down. For you are here to do great things.</h3>
+<h3>Anyone telling you it's pointless to share your perspective is sharing their perspective.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
