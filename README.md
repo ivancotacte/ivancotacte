@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Unless a man is master of his soul, all other kinds of mastery amount to little.</h3>
+<h3>Don't listen to the person who has the answers; listen to the person who has the questions.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
