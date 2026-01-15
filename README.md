@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Any fool can turn a blind eye but who knows what the ostrich sees in the sand.</h3>
+<h3>Your happiness is what truly matters most. Do what you have to do in order to be happy.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
