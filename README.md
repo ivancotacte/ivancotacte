@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.</h3>
+<h3>Don't ever save anything for a special occasion. Being alive is the special occasion.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
