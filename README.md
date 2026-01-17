@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>I was angered, for I had no shoes. Then I met a man who had no feet. </h3>
+<h3>Just living is not enough... one must have sunshine, freedom, and a little flower. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
