@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road.</h3>
+<h3>Be not afraid of growing slowly, be afraid only of standing still. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
