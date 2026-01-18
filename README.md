@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot.</h3>
+<h3>If a man knows not to which port he sails, no wind is favorable.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
