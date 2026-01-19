@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!</h3>
+<h3>People should pursue what they're passionate about. That will make them happier than pretty much anything else.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
