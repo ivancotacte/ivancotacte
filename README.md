@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about.</h3>
+<h3>The smallest of actions is always better than the noblest of intentions.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
