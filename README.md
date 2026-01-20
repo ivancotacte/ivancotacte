@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If we all did the things we are capable of doing, we would literally astound ourselves.</h3>
+<h3>Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
