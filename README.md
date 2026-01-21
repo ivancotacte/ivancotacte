@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others.</h3>
+<h3>First say to yourself what you would be; and then do what you have to do.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
