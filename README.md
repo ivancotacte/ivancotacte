@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>First say to yourself what you would be; and then do what you have to do.</h3>
+<h3>Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
