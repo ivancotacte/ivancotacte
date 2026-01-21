@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love.</h3>
+<h3>The degree of responsibility you take for your life determines how much change you can create in it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
