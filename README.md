@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Animals don't hate, and we're supposed to be better than them.</h3>
+<h3>it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
