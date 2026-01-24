@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Love doesn't need reason. It speaks from the irrational wisdom of the heart.</h3>
+<h3>Do not follow the ideas of others, but learn to listen to the voice within yourself.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
