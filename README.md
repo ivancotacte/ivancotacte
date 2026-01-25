@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.</h3>
+<h3>It does not matter how slowly you go so long as you do not stop.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
