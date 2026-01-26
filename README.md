@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way.</h3>
+<h3>I do not exist to impress the world. I exist to live my life in a way that will make me happy.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
