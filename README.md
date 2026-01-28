@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>A single act of kindness throws out roots in all directions, and the roots spring up and make new trees.</h3>
+<h3>The person who is his own master cannot tolerate another boss. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
