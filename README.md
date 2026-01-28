@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know.</h3>
+<h3>I put my heart and soul into my work, and I have lost my mind in the process.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
