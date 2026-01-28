@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.</h3>
+<h3>The best way to find yourself is to lose yourself in the service of others.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
