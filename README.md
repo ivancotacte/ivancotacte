@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.</h3>
+<h3>A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
