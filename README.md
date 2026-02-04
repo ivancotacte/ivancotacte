@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The beautiful journey of today can only begin when we learn to let go of yesterday.</h3>
+<h3>Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough. </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
