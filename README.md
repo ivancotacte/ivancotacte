@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Never say never, because limits, like fears, are often just an illusion.</h3>
+<h3>Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
