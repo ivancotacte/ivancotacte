@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Nothing like a health problem to turn up the contrast dial for the rest of life.</h3>
+<h3>Be the silent watcher of your thoughts and behavior. You are beneath the thinker.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
