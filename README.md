@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>It's OK to have your eggs in one basket as long as you control what happens to that basket.</h3>
+<h3>Nothing like a health problem to turn up the contrast dial for the rest of life.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
