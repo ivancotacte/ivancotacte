@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>There is a wisdom of the head, and there is a wisdom of the heart.</h3>
+<h3>Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
