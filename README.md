@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing.</h3>
+<h3>It is what we make out of what we have, not what we are given, that separates one person from another.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
