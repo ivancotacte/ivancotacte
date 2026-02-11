@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength.</h3>
+<h3>Greatest success comes just one step beyond the point at which defeat overtakes you.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
