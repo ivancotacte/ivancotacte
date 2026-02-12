@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Becoming a great leader doesn't mean being perfect. it means living with your imperfections.</h3>
+<h3>Be royal in your own fashion: act like a king to be treated like one.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
