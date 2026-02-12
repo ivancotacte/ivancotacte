@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The only people without problems are those in cemeteries.</h3>
+<h3>Anything you may hold firmly in your imagination can be yours.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
