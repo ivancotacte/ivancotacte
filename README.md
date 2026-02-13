@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.</h3>
+<h3>The more you are grateful for what you have the more you will have to be grateful for.  </h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
