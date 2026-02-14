@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves.</h3>
+<h3>Re-examine all that you have been told... dismiss that which insults your soul.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
