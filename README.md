@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments.</h3>
+<h3>The farther backward you can look, the farther forward you are likely to see.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
