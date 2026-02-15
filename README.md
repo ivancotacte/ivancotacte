@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul.</h3>
+<h3>You're only given a little spark of madness. You mustn't lose it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
