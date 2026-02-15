@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The most important single ingredient in the formula of success is knowing how to get along with people.</h3>
+<h3>The only way it gets better for you is when you get better. Better is not something you wish, it's something you become.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
