@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given.</h3>
+<h3>Everybody's life is either rewarding or an example.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
