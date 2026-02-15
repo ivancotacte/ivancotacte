@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task.</h3>
+<h3>If you do not change direction, you may end up where you are heading.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
