@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing.</h3>
+<h3>Silence is the great teacher and to learn its lessons you must pay attention to it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
