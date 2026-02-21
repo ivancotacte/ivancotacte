@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Outstanding people have one thing in common: an absolute sense of mission.  </h3>
+<h3>Nothing has any power over me other than that which I give it through my conscious thoughts.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
