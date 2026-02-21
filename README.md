@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>You purchase pain with all that joy can give and die of nothing but a rage to live.</h3>
+<h3>Zen insists that the whole trouble is just our failure to realize that there is no problem.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
