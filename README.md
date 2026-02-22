@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>When you realize you've made a mistake, take immediate steps to correct it.</h3>
+<h3>Any fool can turn a blind eye but who knows what the ostrich sees in the sand.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
