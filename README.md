@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>At the center of your being you have the answer; you know who you are and you know what you want.</h3>
+<h3>Decide upon your major definite purpose in life and then organize all your activities around it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
