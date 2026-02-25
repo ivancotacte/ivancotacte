@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable.</h3>
+<h3>Everything that is made beautiful and fair and lovely is made for the eye of one who sees.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
