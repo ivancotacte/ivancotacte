@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>An intelligence test sometimes shows a man how smart he would have been not to have taken it.</h3>
+<h3>We may not be able to stop evil in the world, but how we treat one another is entirely up to us.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
