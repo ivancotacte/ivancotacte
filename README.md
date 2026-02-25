@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Keep your face always toward the sunshine -  shadows will fall behind you.</h3>
+<h3>It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
