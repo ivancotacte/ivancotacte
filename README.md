@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort.</h3>
+<h3>If you don't like something change it. If you can't change it, change your attitude about it. Don't complain.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
