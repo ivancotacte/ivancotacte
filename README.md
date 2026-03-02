@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive.</h3>
+<h3>A hopeless man is a very desperate and dangerous man, almost a dead man.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
