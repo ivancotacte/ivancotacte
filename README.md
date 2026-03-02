@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences </h3>
+<h3>Act as if what you do makes a difference. It does.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
