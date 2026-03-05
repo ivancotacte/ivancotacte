@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The meaning of life is just to be alive. It is so plain and so obvious and so simple.</h3>
+<h3>I no doubt deserved my enemies, but I don't believe I deserved my friends.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
