@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Any fool can paint a picture, but it takes a wise man to be able to sell it.</h3>
+<h3>Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
