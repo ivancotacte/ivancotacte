@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Others can stop you temporarily - you are the only one who can do it permanently.</h3>
+<h3>Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
