@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Great minds discuss ideas. Average minds discuss events. Small minds discuss people.</h3>
+<h3>Others can stop you temporarily - you are the only one who can do it permanently.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
