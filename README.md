@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you.</h3>
+<h3>It's the unknown we fear when we look upon death and darkness, nothing more.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
