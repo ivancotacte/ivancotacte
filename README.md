@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Everything that is made beautiful and fair and lovely is made for the eye of one who sees.</h3>
+<h3>You are always your own best guru, your own best teacher, the answers are always inside you.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
