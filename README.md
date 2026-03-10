@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. </h3>
+<h3>A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
