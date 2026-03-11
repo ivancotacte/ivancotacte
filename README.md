@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.</h3>
+<h3>Anything becomes interesting if you look at it long enough..</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
