@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>People become attached to their burdens sometimes more than the burdens are attached to them.</h3>
+<h3>Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
