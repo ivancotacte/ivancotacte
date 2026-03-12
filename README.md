@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found.</h3>
+<h3>The less people know, the more stubbornly they know it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
