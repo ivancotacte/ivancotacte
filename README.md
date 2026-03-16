@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Sometimes a change of perspective is all it takes to see the light.</h3>
+<h3>Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
