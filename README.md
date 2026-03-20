@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Difficult and meaningful will always bring more satisfaction than easy and meaningless.</h3>
+<h3>Don't give up on your dreams, or your dreams will give up on you.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
