@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The thing about smart people is that they seem like crazy people to dumb people.</h3>
+<h3>Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
