@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were.</h3>
+<h3>A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
