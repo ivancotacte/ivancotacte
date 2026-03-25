@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Open your eyes and look within. Are you satisfied with the life you're living?</h3>
+<h3>A gentleman accepts the responsibility of his actions and bears the burden of their consequences.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
