@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Knowing your own darkness is the best method for dealing with the darknesses of other people.</h3>
+<h3>Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
