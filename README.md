@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections.</h3>
+<h3>The only person you should try to be better than is the person you were yesterday.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
