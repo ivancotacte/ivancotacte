@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.</h3>
+<h3>Desire for the fruits of work must never be your motive in working.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
