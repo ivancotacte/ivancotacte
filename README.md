@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Life doesn't get easier or more forgiving, we get stronger and more resilient.</h3>
+<h3>The present moment is filled with joy and happiness. If you are attentive, you will see it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
