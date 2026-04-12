@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right.</h3>
+<h3>The meaning of life is to find your gift. The purpose of life is to give it away.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
