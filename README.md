@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>So long as we are being remembered, we remain alive.</h3>
+<h3>Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
