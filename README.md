@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Either you choose to stay in the shallow end of the pool or you go out into the ocean.</h3>
+<h3>Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
