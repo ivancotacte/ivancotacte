@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do.</h3>
+<h3>Shoot for the moon. Even if you miss, you'll land among the stars.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
