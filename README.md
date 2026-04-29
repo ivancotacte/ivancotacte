@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do.</h3>
+<h3>A memory is a beautiful thing, it's almost a desire that you miss.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
