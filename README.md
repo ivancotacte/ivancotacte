@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Thinking is the hardest work there is, which is probably the reason why so few engage in it.</h3>
+<h3>Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
