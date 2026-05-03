@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths.</h3>
+<h3>Reading should be a pleasure, not a chore.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
