@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Progress comes to those who train and train; reliance on secret techniques will get you nowhere.</h3>
+<h3>The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
