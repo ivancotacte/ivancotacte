@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything.</h3>
+<h3>If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
