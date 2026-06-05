@@ -48,7 +48,7 @@
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>You can do nothing to change the past, and the future will never come exactly as you plan or hope for.</h3>
+<h3>This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
