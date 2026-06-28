@@ -4,6 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Hi+There;I%27m+Ivan+Cotacte" />
 </h1>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h2 align="center">🛠️ Ｔｅｃｈ Ｓｔａｃｋ 🛠️</h2>
 <br/>
 <div align="center">
