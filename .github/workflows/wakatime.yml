@@ -13,7 +13,7 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: 'waka_c1bf8a75-9961-4a2f-96b2-8590b75671b3'
           COMMIT_MESSAGE: "feat: Updated Dev Metrics"
           SECTION_NAME: "header"
           SHOW_OS: "False"
