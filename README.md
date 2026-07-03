@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you cannot understand something, then you have understood it incorrectly.</h3>
+<h3>Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
