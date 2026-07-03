@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Be like a postage stamp. Stick to it until you get there.</h3>
+<h3>Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
