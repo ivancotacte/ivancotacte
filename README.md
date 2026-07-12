@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The consequences of today are determined by the actions of the past. To change your future, alter your decisions today.</h3>
+<h3>The degree of responsibility you take for your life determines how much change you can create in it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
