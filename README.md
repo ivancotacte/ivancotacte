@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it.</h3>
+<h3>Without the confidence, nothing can be accomplished.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
