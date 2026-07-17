@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>We shape clay into a pot, but it is the emptiness inside that holds whatever we want.</h3>
+<h3>Here is the test to find whether your mission on earth is finished. If you're alive, it isn't.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
