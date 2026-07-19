@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Sometimes good things fall apart so better things can fall together.</h3>
+<h3>When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
