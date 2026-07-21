@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.</h3>
+<h3>Don't wait for extraordinary opportunities. Seize common occasions and make them great.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
