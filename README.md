@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>No amount of regretting can change the past, and no amount of worrying can change the future.</h3>
+<h3>The strength of a wall is neither greater nor less than the courage of the men who defend it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
