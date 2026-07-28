@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.</h3>
+<h3>Failure is an option here. If things are not failing, you are not innovating enough.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
