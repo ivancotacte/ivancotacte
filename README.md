@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Only he who has no use for the empire is fit to be entrusted with it.</h3>
+<h3>Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
