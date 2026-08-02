@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you carry joy in your heart, you can heal any moment.</h3>
+<h3>Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
