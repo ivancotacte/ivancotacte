@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Keep your eyes on the stars, but remember to keep your feet on the ground.</h3>
+<h3>It doesn't matter where you are, you are nowhere compared to where you can go.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
