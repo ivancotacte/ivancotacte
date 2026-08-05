@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.</h3>
+<h3>The divine is not something high above us. It is in heaven, it is in earth, it is inside us.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
