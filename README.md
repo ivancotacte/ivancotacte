@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Normality is a paved road: It's comfortable to walk, but no flowers grow on it.</h3>
+<h3>By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
