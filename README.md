@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Everyone wants to go to Heaven, but no one wants to die.</h3>
+<h3>Here is the test to find whether your mission on earth is finished. If you're alive, it isn't.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
