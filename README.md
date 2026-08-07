@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Judge your success by what you had to give up in order to get it.</h3>
+<h3>I was wise enough to never grow up while fooling most people into believing I had.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
