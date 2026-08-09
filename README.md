@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy.</h3>
+<h3>There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
