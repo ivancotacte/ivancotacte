@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>You are the only real obstacle in your path to a fulfilling life.</h3>
+<h3>Do you want to know who you are? Don't ask. Act! Action will delineate and define you.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
