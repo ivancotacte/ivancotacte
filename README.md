@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.</h3>
+<h3>One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
