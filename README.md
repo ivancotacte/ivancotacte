@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Life is not just the passing of time. Life is the collection of experiences and their intensity.</h3>
+<h3>Decide whether or not the goal is worth the risks involved. If it is, stop worrying.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
