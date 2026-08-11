@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Happiness is not something ready made. It comes from your own actions.</h3>
+<h3>It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
