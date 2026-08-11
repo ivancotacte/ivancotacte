@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream.</h3>
+<h3>The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
