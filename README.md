@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>You are the only real obstacle in your path to a fulfilling life.</h3>
+<h3>Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
