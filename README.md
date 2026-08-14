@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better.</h3>
+<h3>We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
