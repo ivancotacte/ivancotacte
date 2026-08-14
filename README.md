@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying.</h3>
+<h3>There are few reasons for telling the truth, but for lying the number is infinite.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
