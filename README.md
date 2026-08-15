@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Look for 3 things in a person. Intelligence, Energy, & Integrity. If they don't have the last one, don't even bother with the first two.</h3>
+<h3>Ideas do not reach perfection in a day, no matter how much study is put upon them.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
