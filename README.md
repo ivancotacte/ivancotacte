@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>All I can do is be me, whoever that is.</h3>
+<h3>All that a man achieves and all that he fails to achieve is the direct result of his own thoughts.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
