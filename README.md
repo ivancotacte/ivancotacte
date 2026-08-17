@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Thinking is the hardest work there is. That is why so few people engage in it.</h3>
+<h3>Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
