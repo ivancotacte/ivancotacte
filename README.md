@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Success is stumbling from failure to failure with no loss of enthusiasm.</h3>
+<h3>Do not bite at the bait of pleasure, till you know there is no hook beneath it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
