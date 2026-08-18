@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Life doesn't get easier or more forgiving, we get stronger and more resilient.</h3>
+<h3>For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
