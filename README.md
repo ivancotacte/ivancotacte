@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.</h3>
+<h3>Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
