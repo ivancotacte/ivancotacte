@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored.</h3>
+<h3>There are two things a person should never be angry at, what they can help, and what they cannot.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
