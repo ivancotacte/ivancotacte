@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Without education, we are in a horrible and deadly danger of taking educated people seriously.</h3>
+<h3>Life is a traveling to the edge of knowledge, then a leap taken.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
