@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Life is what happens to you while you're busy making other plans.</h3>
+<h3>Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
