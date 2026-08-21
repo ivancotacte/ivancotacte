@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you.</h3>
+<h3>My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
