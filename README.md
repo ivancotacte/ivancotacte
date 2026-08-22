@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Inner peace is when you realize that, in the end, nothing matters.</h3>
+<h3>Manifest plainness, embrace simplicity, reduce selfishness, have few desires.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
