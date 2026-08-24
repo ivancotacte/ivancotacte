@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If what you're doing is not your passion, you have nothing to lose.</h3>
+<h3>Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
