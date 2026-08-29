@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.</h3>
+<h3>Be true to yourself, help others, make each day your masterpiece</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
