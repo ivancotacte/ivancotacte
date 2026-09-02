@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The best leaders are constantly learning, curious about where they made mistakes and actively looking for areas where they might have it wrong.</h3>
+<h3>The privilege of a lifetime is to become who you truly are.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
