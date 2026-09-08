@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.</h3>
+<h3>Everything has beauty but not everyone sees it.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
