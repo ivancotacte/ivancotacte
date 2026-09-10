@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles.</h3>
+<h3>Meditate. It won't be fun but it will surface what you need to deal with.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
