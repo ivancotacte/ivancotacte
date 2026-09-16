@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great.</h3>
+<h3>Whatever you decide to do, make sure it makes you happy.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
