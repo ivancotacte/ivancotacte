@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>No valid plans for the future can be made by those who have no capacity for living now.</h3>
+<h3>Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
