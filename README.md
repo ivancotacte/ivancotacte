@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be.</h3>
+<h3>Every traveler has a home of his own, and he learns to appreciate it the more from his wandering.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
