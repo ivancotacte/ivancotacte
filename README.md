@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>It ain't where you start in life, it's where you end up, and what you did along the way.</h3>
+<h3>If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
