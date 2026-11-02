@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>Knowledge isn't power until it is applied.</h3>
+<h3>Routine, done for long enough and done sincerely enough, becomes more than routine. It becomes ritual—it becomes sanctified and holy.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
