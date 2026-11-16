@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>The future will be shaped by those willing to commit their minds and their bodies to the task.</h3>
+<h3>Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
