@@ -60,7 +60,7 @@ No activity tracked
 </div>
 
 <!-- IVANCOTACTE:START (QUOTES) -->
-<h3>If you think you can do a thing or think you can't do a thing, you're right.</h3>
+<h3>The greatest treasures are those invisible to the eye but found by the heart.</h3>
 <!-- IVANCOTACTE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
